@@ -2,62 +2,66 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 (async () => {
+  const channels = fs.readFileSync('channels.txt', 'utf8')
+    .split('\n')
+    .map(l => l.trim())
+    .filter(Boolean)
+    .map(l => {
+      const [name, url] = l.split('|');
+      return { name: name.trim(), url: url.trim() };
+    });
+
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  // Capture any .m3u8 URLs
-  const found = new Set();
-  page.on('request', request => {
-    const url = request.url();
-    if (url.includes('.m3u8')) {
-      found.add(url);
-      console.log('[M3U8 DETECTED]', url);
+  let playlist = '#EXTM3U\n\n';
+
+  for (const ch of channels) {
+    console.log(`\n[▶] Processing ${ch.name}`);
+
+    const found = new Set();
+    page.removeAllListeners('request');
+    page.on('request', r => {
+      const u = r.url();
+      if (u.includes('.m3u8')) {
+        found.add(u);
+        console.log('[M3U8]', u);
+      }
+    });
+
+    await page.goto(ch.url, { waitUntil: 'networkidle' });
+    await page.waitForTimeout(8000);
+
+    // try iframe
+    try {
+      const iframe = await page.waitForSelector('iframe', { timeout: 8000 });
+      const src = await iframe.getAttribute('src');
+      if (src) {
+        console.log('[IFRAME]', src);
+        await page.goto(src, { waitUntil: 'networkidle' });
+      }
+    } catch {}
+
+    await page.waitForTimeout(20000);
+
+    if (found.size === 0) {
+      console.log('[✗] No stream found');
+      continue;
     }
-  });
 
-  console.log('[*] Loading page...');
-  // Load main page and wait for dynamic content
-  await page.goto('https://www.seirsanduk.com/bnt-1-online.html', {
-    waitUntil: 'networkidle',
-  });
+    const urls = [...found];
+    const best =
+      urls.find(u => u.includes('tracks')) ||
+      urls.find(u => u.includes('mono')) ||
+      urls[0];
 
-  // Sometimes the player appears after some delay
-  await page.waitForTimeout(10000);
-
-  // If an iframe appears, open it
-  try {
-    const iframeHandle = await page.waitForSelector('iframe', { timeout: 8000 });
-    const frameUrl = await iframeHandle.getAttribute('src');
-    if (frameUrl) {
-      console.log('[*] Detected iframe, opening it:', frameUrl);
-      await page.goto(frameUrl, { waitUntil: 'networkidle' });
-    }
-  } catch (e) {
-    console.log('[!] No iframe found (it might be inline)');
+    playlist += `#EXTINF:-1,${ch.name}\n${best}\n\n`;
+    console.log('[✓] Added:', best);
   }
-
-  // Wait longer for player requests
-  await page.waitForTimeout(30000);
 
   await browser.close();
 
-  // If we found m3u8, write it
-  const urls = Array.from(found);
-  if (urls.length === 0) {
-    console.log('No m3u8 URLs found.');
-    return;
-  }
-
-  // Choose HLS variant
-  const chosen = urls.find(u => u.includes('tracks')) || urls[0];
-
-  const playlist =
-`#EXTM3U
-#EXTINF:-1,BNT 1
-${chosen}
-`;
-
   fs.writeFileSync('playlist.m3u', playlist, 'utf8');
-  console.log('[+] playlist.m3u writtten with URL:', chosen);
+  console.log('\n[✓] playlist.m3u updated');
 })();
 
