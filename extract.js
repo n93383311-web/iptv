@@ -12,7 +12,6 @@ const fs = require('fs');
     { waitUntil: 'domcontentloaded' }
   );
 
-  // Get iframe src
   const iframeSrc = await page.evaluate(() => {
     const iframe = document.querySelector('iframe');
     return iframe ? iframe.src : null;
@@ -25,41 +24,42 @@ const fs = require('fs');
 
   console.log('[2] Player page:', iframeSrc);
 
-  const m3u8List = [];
+  const found = new Set();
 
   page.on('request', req => {
     const url = req.url();
     if (url.includes('.m3u8')) {
       console.log('[M3U8]', url);
-      m3u8List.push(url);
+      found.add(url);
     }
   });
 
   await page.goto(iframeSrc, { waitUntil: 'domcontentloaded' });
-
-  // Allow stream to fully initialize
   await page.waitForTimeout(25000);
   await browser.close();
 
-  if (m3u8List.length === 0) {
-    console.log('[!] No m3u8 detected');
+  if (found.size === 0) {
+    console.log('[!] No m3u8 found');
     process.exit(0);
   }
 
-  // Prefer variant playlist
-  let chosen =
-    m3u8List.find(u => u.includes('tracks-') && u.includes('mono.m3u8')) ||
-    m3u8List.find(u => u.includes('tracks-')) ||
-    m3u8List[m3u8List.length - 1]; // fallback
+  const urls = [...found];
+
+  const chosen =
+    urls.find(u => u.includes('tracks-') && u.includes('mono.m3u8')) ||
+    urls.find(u => u.includes('tracks-')) ||
+    urls[urls.length - 1];
 
   console.log('[✓] Selected stream:', chosen);
 
   const playlist =
 `#EXTM3U
 #EXTINF:-1,Planeta Folk
+#EXTVLCOPT:http-referrer=https://www.gledaitv.fan/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 ${chosen}
 `;
 
-  fs.writeFileSync('playlist.m3u');
-  console.log('[+] playlist.m3u updated');
+  fs.writeFileSync('playlist.m3u', playlist, 'utf8');
+  console.log('[+] playlist.m3u written successfully');
 })();
