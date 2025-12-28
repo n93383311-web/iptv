@@ -6,13 +6,13 @@ const fs = require('fs');
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  console.log('[1] Opening main page');
+  console.log('[1] Open main page');
   await page.goto(
     'https://www.gledaitv.fan/planeta-folk-live-tv.html',
     { waitUntil: 'domcontentloaded' }
   );
 
-  // Extract iframe src
+  // Get iframe src
   const iframeSrc = await page.evaluate(() => {
     const iframe = document.querySelector('iframe');
     return iframe ? iframe.src : null;
@@ -23,37 +23,43 @@ const fs = require('fs');
     process.exit(0);
   }
 
-  console.log('[2] Found iframe:', iframeSrc);
+  console.log('[2] Player page:', iframeSrc);
 
-  const found = new Set();
+  const m3u8List = [];
 
   page.on('request', req => {
     const url = req.url();
     if (url.includes('.m3u8')) {
-      console.log('[FOUND]', url);
-      found.add(url);
+      console.log('[M3U8]', url);
+      m3u8List.push(url);
     }
   });
 
-  console.log('[3] Opening player page');
   await page.goto(iframeSrc, { waitUntil: 'domcontentloaded' });
 
-  await page.waitForTimeout(20000);
+  // Allow stream to fully initialize
+  await page.waitForTimeout(25000);
   await browser.close();
 
-  if (found.size === 0) {
-    console.log('[!] No m3u8 found');
+  if (m3u8List.length === 0) {
+    console.log('[!] No m3u8 detected');
     process.exit(0);
   }
 
-  const streamUrl = [...found][0];
+  // Prefer variant playlist
+  let chosen =
+    m3u8List.find(u => u.includes('tracks-') && u.includes('mono.m3u8')) ||
+    m3u8List.find(u => u.includes('tracks-')) ||
+    m3u8List[m3u8List.length - 1]; // fallback
+
+  console.log('[✓] Selected stream:', chosen);
 
   const playlist =
 `#EXTM3U
 #EXTINF:-1,Planeta Folk
-${streamUrl}
+${chosen}
 `;
 
-  fs.writeFileSync('playlist.m3u', playlist);
-  console.log('[+] playlist.m3u written');
+  fs.writeFileSync('playlist.m3u');
+  console.log('[+] playlist.m3u updated');
 })();
