@@ -3,63 +3,61 @@ const fs = require('fs');
 
 (async () => {
   const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext();
-  const page = await context.newPage();
+  const page = await browser.newPage();
 
-  console.log('[1] Open main page');
-  await page.goto(
-    'https://www.gledaitv.fan/planeta-folk-live-tv.html',
-    { waitUntil: 'domcontentloaded' }
-  );
-
-  const iframeSrc = await page.evaluate(() => {
-    const iframe = document.querySelector('iframe');
-    return iframe ? iframe.src : null;
-  });
-
-  if (!iframeSrc) {
-    console.log('[!] iframe not found');
-    process.exit(0);
-  }
-
-  console.log('[2] Player page:', iframeSrc);
-
+  // Capture any .m3u8 URLs
   const found = new Set();
-
-  page.on('request', req => {
-    const url = req.url();
+  page.on('request', request => {
+    const url = request.url();
     if (url.includes('.m3u8')) {
-      console.log('[M3U8]', url);
       found.add(url);
+      console.log('[M3U8 DETECTED]', url);
     }
   });
 
-  await page.goto(iframeSrc, { waitUntil: 'domcontentloaded' });
-  await page.waitForTimeout(25000);
-  await browser.close();
+  console.log('[*] Loading page...');
+  // Load main page and wait for dynamic content
+  await page.goto('https://www.seirsanduk.com/bnt-1-online.html', {
+    waitUntil: 'networkidle',
+  });
 
-  if (found.size === 0) {
-    console.log('[!] No m3u8 found');
-    process.exit(0);
+  // Sometimes the player appears after some delay
+  await page.waitForTimeout(10000);
+
+  // If an iframe appears, open it
+  try {
+    const iframeHandle = await page.waitForSelector('iframe', { timeout: 8000 });
+    const frameUrl = await iframeHandle.getAttribute('src');
+    if (frameUrl) {
+      console.log('[*] Detected iframe, opening it:', frameUrl);
+      await page.goto(frameUrl, { waitUntil: 'networkidle' });
+    }
+  } catch (e) {
+    console.log('[!] No iframe found (it might be inline)');
   }
 
-  const urls = [...found];
+  // Wait longer for player requests
+  await page.waitForTimeout(30000);
 
-  const chosen =
-    urls.find(u => u.includes('tracks-') && u.includes('mono.m3u8')) ||
-    urls.find(u => u.includes('tracks-')) ||
-    urls[urls.length - 1];
+  await browser.close();
 
-  console.log('[✓] Selected stream:', chosen);
+  // If we found m3u8, write it
+  const urls = Array.from(found);
+  if (urls.length === 0) {
+    console.log('No m3u8 URLs found.');
+    return;
+  }
+
+  // Choose HLS variant
+  const chosen = urls.find(u => u.includes('tracks')) || urls[0];
 
   const playlist =
 `#EXTM3U
-#EXTINF:-1,Planeta Folk
-#EXTVLCOPT:http-referrer=https://www.gledaitv.fan/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1,BNT 1
 ${chosen}
 `;
 
   fs.writeFileSync('playlist.m3u', playlist, 'utf8');
-  console.log('[+] playlist.m3u written successfully');
+  console.log('[+] playlist.m3u writtten with URL:', chosen);
 })();
+
