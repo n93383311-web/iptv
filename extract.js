@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 (async () => {
-  // Read URLs only
+  // Read channel URLs from channels.txt
   const urls = fs.readFileSync('channels.txt', 'utf8')
     .split('\n')
     .map(l => l.trim())
@@ -14,7 +14,7 @@ const fs = require('fs');
   let playlist = '#EXTM3U\n\n';
 
   for (const url of urls) {
-    // Automatically create a channel name from URL
+    // Generate a friendly name from the URL
     let name = url.split('/').filter(Boolean).pop(); // last part of URL
     name = name.replace(/[-_]/g, ' ').replace(/online/i, '').trim();
     console.log(`\n[▶] Processing ${name} (${url})`);
@@ -29,7 +29,13 @@ const fs = require('fs');
       }
     });
 
-    await page.goto(url, { waitUntil: 'networkidle' });
+    // Load page with timeout handling
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    } catch (e) {
+      console.log('[!] Timeout loading page, continuing...');
+    }
+
     await page.waitForTimeout(8000);
 
     // Try iframe if exists
@@ -38,11 +44,15 @@ const fs = require('fs');
       const src = await iframe.getAttribute('src');
       if (src) {
         console.log('[IFRAME]', src);
-        await page.goto(src, { waitUntil: 'networkidle' });
+        try {
+          await page.goto(src, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        } catch (e) {
+          console.log('[!] Timeout loading iframe, continuing...');
+        }
       }
     } catch {}
 
-    await page.waitForTimeout(20000);
+    await page.waitForTimeout(15000);
 
     if (found.size === 0) {
       console.log('[✗] No stream found for', name);
