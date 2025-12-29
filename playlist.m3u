@@ -1,175 +1,175 @@
 #EXTM3U
 
 #EXTINF:-1,bnt 1
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1767008169&hash=ki2KwX37WQmSDFSLzS_oeQ
+https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1767014807&hash=0bEiUKevXu8DZ0zubRioTw
 
 #EXTINF:-1,bnt 2
-https://cdn11.glebul.com/hls/bnt-2/index.m3u8?e=1767008186&hash=yTB6zgpsvk-t1QqVmrO0Iw
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1767014824&hash=3TU6hcbA4EPFDaQ6Bjd-8Q
 
 #EXTINF:-1,bnt 3
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1767008202&hash=YiBkzpACaRjQvbS21BhycQ
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1767014841&hash=HRJQUkYmublcKJm17E8qeA
 
 #EXTINF:-1,btv
-https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1767008219&hash=2NvinuITN9drv_-wWlBmkw
+https://cdn11.glebul.com/hls/hd-btv-hd/index.m3u8?e=1767014858&hash=klA_kP_zr6PQufSmqYQpeA
 
 #EXTINF:-1,nova tv
-https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1767008235&hash=-eygwT9SOayp1Ba9TUfmWA
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1767014874&hash=vdgZ009jScbwyjbU5GznmQ
 
 #EXTINF:-1,bulgaria on air
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1767008251&hash=r3LhnPnwaRDqTFOOqJWPYw
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1767014890&hash=KhJkIwTZEIKoApZRpNMTzg
 
 #EXTINF:-1,tv 1
-https://cdn3.glebul.com/hls/tv-1/index.m3u8?e=1767008268&hash=zy_rzACUTWzDigDVBodnWQ
+https://cdn3.glebul.com/hls/tv-1/index.m3u8?e=1767014907&hash=yZjh1mOLbrOiEk2ZpZ8fXg
 
 #EXTINF:-1,kanal 3
-https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1767008284&hash=0pFxUqiW4jStH-n6Im67HQ
+https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1767014923&hash=y7TcP-KHvmjHhVurcSaa9Q
 
 #EXTINF:-1,7 8 tv
-https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1767008301&hash=cDA811F-twBFIJPc6ZOO6Q
+https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1767014941&hash=kHncPoQwExap3tjU1CUvHg
 
 #EXTINF:-1,bnt 4
-https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1767008318&hash=JT0lorRQPrWBs9FTH5riTQ
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1767014957&hash=VDrQOx9mzJTrB_fBtvwbMw
 
 #EXTINF:-1,bloomberg tv
-https://cdn11.glebul.com/hls/bloomberg-tv/index.m3u8?e=1767008334&hash=iAy857rNNt5VyCp4EoH7qQ
+https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1767014974&hash=INQPT9uxu0TSExAWeHK7HQ
 
 #EXTINF:-1,vtk
-https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1767008350&hash=Rup863drgsGpbGPMQXLWJg
+https://cdn11.glebul.com/hls/vtk/index.m3u8?e=1767014990&hash=oksWvRVvl1WR_6HWM0HDjw
 
 #EXTINF:-1,evrokom
-https://cdn11.glebul.com/hls/evrokom/index.m3u8?e=1767008367&hash=alkpn50I6pr0iXXE3MPbcw
+https://cdn3.glebul.com/hls/evrokom/index.m3u8?e=1767015007&hash=iHyUUFljL6As0-lyd1-7sQ
 
 #EXTINF:-1,euronews bulgaria
-https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1767008383&hash=hA93wlPMRdW-c_RspLevIg
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1767015023&hash=hSA3MvibZvy4uspKaBChyA
 
 #EXTINF:-1,nova news
-https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1767008399&hash=DpJhki3r-0HhAXmIhmyKFQ
+https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1767015039&hash=EBbOkCbB_rlEqQwY76g1Pw
 
 #EXTINF:-1,skat
-https://cdn11.glebul.com/hls/skat/index.m3u8?e=1767008416&hash=7og2doUDvPL9S629g_3dzA
+https://cdn3.glebul.com/hls/skat/index.m3u8?e=1767015056&hash=zy1WUsQQGi5Jqk0E_xLVKg
 
 #EXTINF:-1,axn  gledai tv
-https://cdn11.glebul.com/hls/axn/index.m3u8?e=1767008432&hash=kIKhgONimWi_BbmDiYHGKw
+https://cdn3.glebul.com/hls/axn/index.m3u8?e=1767015072&hash=4BA2RXBzxUp75g5hAii6aA
 
 #EXTINF:-1,axn black
-https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1767008448&hash=OO96V66k7j7U6GxkgIZCEg
+https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1767015089&hash=WGKAV-6aqoCuWms2Fm3wCQ
 
 #EXTINF:-1,axn white
-https://cdn11.glebul.com/hls/axn-white/index.m3u8?e=1767008464&hash=kHhQqUrrG69hdMFuyf53qA
+https://cdn11.glebul.com/hls/axn-white/index.m3u8?e=1767015105&hash=OQnartQyzge2Ziqed-43SQ
 
 #EXTINF:-1,btv cinema
-https://cdn11.glebul.com/hls/btv-cinema/index.m3u8?e=1767008531&hash=x8AZ7a_ctv6ZgAI6dAeXQw
+https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1767015173&hash=TNOZX1bxuyNSdxhWDeSCAA
 
 #EXTINF:-1,btv comedy
-https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1767008548&hash=24-Gry9xnPAPqMSzze4Z9A
+https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1767015189&hash=UHZQTcGKahim-dSFEuC6EA
 
 #EXTINF:-1,btv story
-https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1767008564&hash=lLo-fHRTThyFdvlZKImiKA
+https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1767015205&hash=rs0r0AjpSYtYzLbQNlLyCg
 
 #EXTINF:-1,diema
-https://cdn11.glebul.com/hls/hd-diema-hd/index.m3u8?e=1767008581&hash=7G_fTR27CeiViUnESKq1vA
+https://cdn11.glebul.com/hls/hd-diema-hd/index.m3u8?e=1767015223&hash=heZyUN6-pofWXUmGaHdv1Q
 
 #EXTINF:-1,diema family
-https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1767008597&hash=n1gVnj19rxb1VWITMILglA
+https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1767015240&hash=jTpRly-ZqLnYXjnbvZJJwQ
 
 #EXTINF:-1,epic drama
-https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1767008613&hash=dhL85lIpLKzidpmDtdPq2w
+https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1767015256&hash=hT03E_BvBC06DGs5ZbWkXw
 
 #EXTINF:-1,kino nova
-https://cdn11.glebul.com/hls/kino-nova/index.m3u8?e=1767008630&hash=FIZVHLaPsFbckjzH18p_QA
+https://cdn3.glebul.com/hls/kino-nova/index.m3u8?e=1767015272&hash=DnV1r6BWvpd54rCly-DSaA
 
 #EXTINF:-1,star channel
-https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1767008646&hash=iINrdVwQAQ7PeYJkK-mzNA
+https://cdn11.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1767015289&hash=Nbyb0bQ8i83_Wpg0Uf_dNQ
 
 #EXTINF:-1,star life
-https://cdn11.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1767008662&hash=ck1gB_QwdaP7CCpYMJy-cQ
+https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1767015305&hash=tYyOdCnTPMqcdUlE9SRtxg
 
 #EXTINF:-1,star crime
-https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1767008679&hash=yIounBAYqETOMo0fQpWu5g
+https://cdn11.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1767015322&hash=LhyotyI5bjeYPVKim15y8A
 
 #EXTINF:-1,the voice
-https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1767008695&hash=_yHgyNosSPpvstFgBr_g9A
+https://cdn11.glebul.com/hls/the-voice/index.m3u8?e=1767015338&hash=54yGNhXUsuIbHTws_Vay2w
 
 #EXTINF:-1,dstv
-https://cdn11.glebul.com/hls/dstv/index.m3u8?e=1767008711&hash=F6uCVnnxgtsEehwHu-u_pQ
+https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1767015355&hash=xS6fS7FXUJcJFMBt3D8wuQ
 
 #EXTINF:-1,hd planeta hd
-https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1767008727&hash=O4EUB_N66YF-GqFK1yRNNQ
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1767015371&hash=yxmtebzZeVbAGxBvQw0KlA
 
 #EXTINF:-1,planeta folk
-https://cdn3.glebul.com/hls/planeta-folk/index.m3u8?e=1767008744&hash=yRWNP9h_hmIUjHcObVAWfQ
+https://cdn3.glebul.com/hls/planeta-folk/index.m3u8?e=1767015388&hash=uW4ZJKlk2LORyJy-MQnMcg
 
 #EXTINF:-1,rodina
-https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1767008761&hash=GCPLRhwNc8TgXNhomzkoEA
+https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1767015405&hash=MtjXcm1o4jxo29vCUZP_hw
 
 #EXTINF:-1,city tv
-https://cdn11.glebul.com/hls/city-tv/index.m3u8?e=1767008778&hash=bTecAl4vP5qmh1lLeRMAow
+https://cdn11.glebul.com/hls/city-tv/index.m3u8?e=1767015421&hash=9blU0KXpTPYOD0byGrSVJw
 
 #EXTINF:-1,tiankov folk
-https://cdn3.glebul.com/hls/tiankov-tv/index.m3u8?e=1767008794&hash=mja_NsDgmVPdc4yS9X-kTQ
+https://cdn3.glebul.com/hls/tiankov-tv/index.m3u8?e=1767015437&hash=S9PYmhHAVOdSUsFWQztntw
 
 #EXTINF:-1,folklor tv
-https://cdn11.glebul.com/hls/folklor-tv/index.m3u8?e=1767008810&hash=9Hf5gyWd6q8u-0kRTcmAWA
+https://cdn11.glebul.com/hls/folklor-tv/index.m3u8?e=1767015454&hash=Y2pO1UxfQ2MyQexA1iNMgA
 
 #EXTINF:-1,cartoon network
-https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1767008827&hash=Jy2tPWzHUEp0GvvfnooWkw
+https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1767015470&hash=afuoc9uvjM2f4Ec5LYGDIA
 
 #EXTINF:-1,disney channel
-https://cdn11.glebul.com/hls/disney-channel/index.m3u8?e=1767008843&hash=UEz6soa90jHnGzEp8X8-GQ
+https://cdn11.glebul.com/hls/disney-channel/index.m3u8?e=1767015487&hash=v4Mm_YYuRSWcRtpvca_3dA
 
 #EXTINF:-1,nickelodeon
-https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1767008859&hash=KaiUZAFf5xw068d3CUDHjA
+https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1767015503&hash=4pO3vHGIZ9ZnEVp2azF_Jg
 
 #EXTINF:-1,nick jr
-https://cdn11.glebul.com/hls/nick-jr/index.m3u8?e=1767008876&hash=5RTzfgTs73peRsURwOBhVg
+https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1767015519&hash=Kcs61Js5Hh56qJe_daUnhQ
 
 #EXTINF:-1,nicktoons
-https://cdn11.glebul.com/hls/nicktoons/index.m3u8?e=1767008892&hash=yFSygJOsY2DA5nrBLDYEyQ
+https://cdn3.glebul.com/hls/nicktoons/index.m3u8?e=1767015536&hash=W_jnwJnSbdtZd1Qn3l_Ngg
 
 #EXTINF:-1,e kids
-https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1767008908&hash=b1Rcgr45yXw7wHK5NgFKGg
+https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1767015552&hash=8pdIhrCUQ8sE5bz0NI0vGA
 
 #EXTINF:-1,discovery channel
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1767008925&hash=HNpHfDz8QeTmRp0xp6o5Eg
+https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1767015569&hash=NRKn8kzpgNiRO9Oqtds_Ig
 
 #EXTINF:-1,investigation discovery
-https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1767008941&hash=Xc7cH_48jlShcUdcMgGcTg
+https://cdn11.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1767015585&hash=nC5h_Aq8rK6I1PWQhBWrww
 
 #EXTINF:-1,national geographic
-https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1767008957&hash=ZRJIl7bLVpHvGJn17y1x-A
+https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1767015601&hash=8SXiHBszZ_-bfZMkpjQWHg
 
 #EXTINF:-1,nat geo wild
-https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1767008974&hash=OJsi7K-vhBuDdwCAwuZ31g
+https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1767015618&hash=QnBOFDhDjhp1HONjuQqgXA
 
 #EXTINF:-1,travel channel
-https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1767008990&hash=q7r9r3gaiYcAX8PLbmpsXg
+https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1767015634&hash=28HcfhibsyvFFZSZHD90OQ
 
 #EXTINF:-1,travel tv
-https://cdn11.glebul.com/hls/travel-tv/index.m3u8?e=1767009006&hash=X4WTxpntLnwFRzzhurgp7w
+https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1767015651&hash=1n9Ygw9XExC0OOwTz8BxFQ
 
 #EXTINF:-1,24 kitchen televizia
-https://cdn3.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1767009023&hash=JboG2oSgOfYjxs3Al5F13g
+https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1767015667&hash=qoGMk2urWTv8ORi1hXcpvg
 
 #EXTINF:-1,hd food network hd
-https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1767009039&hash=z1-y-AZcmVjQcSKR97CEsA
+https://cdn11.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1767015683&hash=vJhCeKKLUl8d3ye5svamsw
 
 #EXTINF:-1,tlc
-https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1767009056&hash=CLPErV2oj8YCFMLZBGefcw
+https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1767015701&hash=0WCPr8ZWK5gynTCxfQvRlw
 
 #EXTINF:-1,code fashion tv
-https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1767009072&hash=0awUafAx7GYd8nwvwGU3AQ
+https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1767015718&hash=KcgN5CiiqRPuipcCBAMUbQ
 
 #EXTINF:-1,rossiya 1.html
-https://tv.tvcdnpotok.com/ros_1/index.m3u8?wmsAuthSign=6343a18fb2416a78c8e83458ce9d1c79-1767019890-17i001i231i541
+https://tv.tvcdnpotok.com/ros_1/index.m3u8?wmsAuthSign=86552d012d524ec1d41bdb85d21b1780-1767026536-531i321i171i02
 
 #EXTINF:-1,ntv.html
-https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=cdc66c918a379841ed001c87668bd671-1767019907-17i001i231i541
+https://tv.tvcdnpotok.com/537/index.m3u8?wmsAuthSign=9ff13fa8daeef0c91cf6eb054fb5d6fd-1767026553-531i321i171i02
 
 #EXTINF:-1,ren.html
-https://tv.tvcdnpotok.com/ren/index.m3u8?wmsAuthSign=aa0c23f96824337d7d83105a7d72cda9-1767019923-17i001i231i541
+https://tv.tvcdnpotok.com/ren/index.m3u8?wmsAuthSign=8b228f7eb8b56e0b7aada3d524aa4c77-1767026569-531i321i171i02
 
 #EXTINF:-1,otr.html
-https://vsd131.okcdn.ru/hls/2837282490880.m3u8/sig/em9k88LUWFk/expires/1767088341219/srcIp/145.132.100.71/urls/185.226.55.77/clientType/0/srcAg/CHROME/mid/5880800026112/video.m3u8?p
+https://vsd249.okcdn.ru/hls/2837282490880.m3u8/sig/Sl1RgO3tfYU/expires/1767094988495/srcIp/20.171.123.135/urls/45.136.22.66/clientType/0/srcAg/CHROME/mid/5880800026112/video.m3u8?p
 
 #EXTINF:-1,tvc.html
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -181,25 +181,22 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1,krasnaya liniya.html
-https://tv.tvcdnpotok.com/rline/index.m3u8?wmsAuthSign=a46c665a767373bdd7f96c2318b1da4b-1767020006-17i001i231i541
+https://tv.tvcdnpotok.com/rline/index.m3u8?wmsAuthSign=b5cd763863b38500f37e4d082d2cc680-1767026653-531i321i171i02
 
 #EXTINF:-1,pyatyj kanal.html
-https://tv.tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=eb2db5c9676dd7bcc5d02cfa6bd75925-1767020023-17i001i231i541
-
-#EXTINF:-1,rossiya kultura.html
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://tv.tvcdnpotok.com/5kanal/index.m3u8?wmsAuthSign=67febd07b337df0125fcefaf2a4850d1-1767026670-531i321i171i02
 
 #EXTINF:-1,krym 1.html
-https://tv.tvcdnpotok.com/533/index.m3u8?wmsAuthSign=1867bbe080a7f3f54dc1622b885ca0f0-1767020057-17i001i231i541
+https://tv.tvcdnpotok.com/533/index.m3u8?wmsAuthSign=fe759abddff57272a5b9eb9e390819ea-1767026704-531i321i171i02
 
 #EXTINF:-1,ntv mir.html
 https://streaming.thestream.cyou/live/213.m3u8
 
 #EXTINF:-1,rtr planeta.html
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=0EpSEk1Jf30nCG6FN2lTcA&e=1767023870
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=iK6NL4dLK_b_A3OtVBy-Dg&e=1767030518
 
 #EXTINF:-1,duma tv.html
-https://vsd243.okcdn.ru/hls/3480141892294.m3u8/sig/UG7u-Kr268A/expires/1767088507930/srcIp/145.132.100.71/urls/185.226.52.92/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
+https://vsd243.okcdn.ru/hls/3480141892294.m3u8/sig/pNL4IzHbJeQ/expires/1767095155576/srcIp/20.171.123.135/urls/45.136.22.89/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
 
 #EXTINF:-1,prodvizhenie.html
 https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -211,28 +208,28 @@ https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 
 #EXTINF:-1,360 gradusov.html
-https://tv.tvcdnpotok.com/360gra/index.m3u8?wmsAuthSign=ba9cf91ea17e2ce2aceaf0bc048d9abd-1767020191-17i001i231i541
+https://tv.tvcdnpotok.com/360gra/index.m3u8?wmsAuthSign=2b3f939b8484c5f2a058179f0381439b-1767026838-531i321i171i02
 
 #EXTINF:-1,soyuz tv.html
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1,moskva 24.html
-https://vsd208.okcdn.ru/hls/102930975370.m3u8/sig/ZJaLugJtvrY/expires/1767088626185/srcIp/145.132.100.71/urls/185.226.52.93/clientType/0/srcAg/CHROME/mid/216342154/video.m3u8?p
+https://vsd254.okcdn.ru/hls/102930975370.m3u8/sig/y_xdYu61d0A/expires/1767095272917/srcIp/20.171.123.135/urls/185.226.53.94/clientType/0/srcAg/CHROME/mid/216342154/video.m3u8?p
 
 #EXTINF:-1,rbk.html
 https://online-video.rbc.ru/online2/rbctv.m3u8
 
 #EXTINF:-1,rossiya 24.html
-https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist.m3u8?md5=BZLaByETbnsxg5lbjYqzDA&e=1767024055
+https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist.m3u8?md5=kFYmdULTffxJgLStzyQLvg&e=1767030698
 
 #EXTINF:-1,duma tv.html
-https://vsd234.okcdn.ru/hls/3480141892294.m3u8/sig/6ep7OR-swDY/expires/1767088692392/srcIp/145.132.100.71/urls/185.226.52.92/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
+https://vsd234.okcdn.ru/hls/3480141892294.m3u8/sig/aASWozb8xfA/expires/1767095339338/srcIp/20.171.123.135/urls/185.226.52.92/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
 
 #EXTINF:-1,tass.html
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
 #EXTINF:-1,kuban 24.html
-https://vsd265.okcdn.ru/hls/3472377907906.m3u8/sig/kFik82GHl1k/expires/1767088726643/srcIp/145.132.100.71/urls/45.136.21.81/clientType/0/srcAg/CHROME/mid/4157442498242/video.m3u8?p
+https://vsd265.okcdn.ru/hls/3472377907906.m3u8/sig/th1OaOp1agY/expires/1767095373096/srcIp/20.171.123.135/urls/45.136.21.81/clientType/0/srcAg/CHROME/mid/4157442498242/video.m3u8?p
 
 #EXTINF:-1,krym 24.html
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
@@ -244,283 +241,286 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/108
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 
 #EXTINF:-1,vesti fm.html
-https://vgtrksmotrim.cdnvideo.ru/hls/vesti_fm/playlist.m3u8?md5=0gD6A5Y6-uZuQOyUYaEDPQ&e=1767024174
+https://vgtrksmotrim.cdnvideo.ru/hls/vesti_fm/playlist.m3u8?md5=Z_tmDNT07CESQurtIJqvew&e=1767030821
 
 #EXTINF:-1,solovjov live.html
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist.m3u8?md5=EZ-9yYejpoVIEvj5NMeEnw&e=1767024191
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist.m3u8?md5=VZTByauis41zbJHFovkM9g&e=1767030838
 
 #EXTINF:-1,duma tv.html
-https://vsd166.okcdn.ru/hls/3480141892294.m3u8/sig/qNUX-VLyfnM/expires/1767088828244/srcIp/145.132.100.71/urls/185.226.55.71/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
+https://vsd234.okcdn.ru/hls/3480141892294.m3u8/sig/-5d5Za_-q7Q/expires/1767095475323/srcIp/20.171.123.135/urls/185.226.55.71/clientType/0/srcAg/CHROME/mid/4581890662086/video.m3u8?p
 
 #EXTINF:-1,tass.html
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
 
 #EXTINF:-1,kuban 24.html
-https://vsd254.okcdn.ru/hls/3472377907906.m3u8/sig/MRvVaEyC7Lk/expires/1767088877600/srcIp/145.132.100.71/urls/185.226.52.102/clientType/0/srcAg/CHROME/mid/4157442498242/video.m3u8?p
+https://vsd254.okcdn.ru/hls/3472377907906.m3u8/sig/uHUAF769HvM/expires/1767095525420/srcIp/20.171.123.135/urls/185.226.52.102/clientType/0/srcAg/CHROME/mid/4157442498242/video.m3u8?p
 
 #EXTINF:-1,national geographic.html
-https://tv.tvcdnpotok.com/nat_geogra/index.m3u8?wmsAuthSign=f1532cdfef1fe38684583323570337ca-1767020494-17i001i231i541
+https://tv.tvcdnpotok.com/nat_geogra/index.m3u8?wmsAuthSign=dbd6cc2fdfcff286a2f08167a784088c-1767027142-531i321i171i02
 
 #EXTINF:-1,viasat explorer.html
-https://tv.tvcdnpotok.com/vi_explorer/index.m3u8?wmsAuthSign=f451c3c87f46bceed879bb8c8ceed947-1767020510-17i001i231i541
+https://tv.tvcdnpotok.com/vi_explorer/index.m3u8?wmsAuthSign=6e5d0a795bb0c8b47b0a74f84b22a265-1767027158-531i321i171i02
 
 #EXTINF:-1,istoriya.html
-https://tv.tvcdnpotok.com/istoriya/index.m3u8?wmsAuthSign=f5695f31114c54c8bafb9fb98881281f-1767020527-17i001i231i541
+https://tv.tvcdnpotok.com/istoriya/index.m3u8?wmsAuthSign=f62708f42340c79007b348d964070a91-1767027176-531i321i171i02
 
 #EXTINF:-1,oruzhie.html
-https://tv.tvcdnpotok.com/oruzhie/index.m3u8?wmsAuthSign=d92b4385e4d3487d54ee20d34c01cd2e-1767020544-17i001i231i541
+https://tv.tvcdnpotok.com/oruzhie/index.m3u8?wmsAuthSign=e0907578bc9ea77cd99912b78ea7fb63-1767027192-531i321i171i02
 
 #EXTINF:-1,okhota i rybalka.html
-https://tv.tvcdnpotok.com/538/index.m3u8?wmsAuthSign=912615db2632bf4f5c1fb93a53f61b97-1767020560-17i001i231i541
+https://tv.tvcdnpotok.com/538/index.m3u8?wmsAuthSign=bdb14d2a51f23fadb4acf5a231940f3f-1767027210-531i321i171i02
 
 #EXTINF:-1,tajny galaktiki.html
-https://tv.tvcdnpotok.com/galaxy/index.m3u8?wmsAuthSign=07811dda2cfe6fd035887bf3b5f61d6d-1767020577-17i001i231i541
+https://tv.tvcdnpotok.com/galaxy/index.m3u8?wmsAuthSign=c4257a5c9a07a059abcf2af2b03971ed-1767027226-531i321i171i02
 
 #EXTINF:-1,discovery.html
-https://tv.tvcdnpotok.com/discovery/index.m3u8?wmsAuthSign=a4bbf92956d8e3c1fa39c3f4fd389f14-1767020594-17i001i231i541
+https://tv.tvcdnpotok.com/discovery/index.m3u8?wmsAuthSign=668a5eba343fe2c5012c4a58feaf1b1e-1767027243-531i321i171i02
 
 #EXTINF:-1,priklyucheniya hd.html
-https://tv.tvcdnpotok.com/priklu_hd/index.m3u8?wmsAuthSign=695743c3223195ab05b94b630b6f9b8f-1767020610-17i001i231i541
+https://tv.tvcdnpotok.com/priklu_hd/index.m3u8?wmsAuthSign=f82b66480e6bb711417f5f14ee769ae6-1767027260-531i321i171i02
 
 #EXTINF:-1,history 2.html
-https://tv.tvcdnpotok.com/224/index.m3u8?wmsAuthSign=cdbd1b467bb234e86c0c2d03f7bf36ca-1767020627-17i001i231i541
+https://tv.tvcdnpotok.com/224/index.m3u8?wmsAuthSign=538f432430dd7d9321f37e2f616948fd-1767027277-531i321i171i02
 
 #EXTINF:-1,rtg.html
-https://tv.tvcdnpotok.com/rtg/index.m3u8?wmsAuthSign=9fdecf233d084522257ed75008bc8a79-1767020644-17i001i231i541
+https://tv.tvcdnpotok.com/rtg/index.m3u8?wmsAuthSign=b9712f3a16bed266c70915519c24f534-1767027294-531i321i171i02
 
 #EXTINF:-1,moya planeta.html
-https://tv.tvcdnpotok.com/moyaplaneta/index.m3u8?wmsAuthSign=1f8b5dc039afffdedf6cb49d9e028b61-1767020661-17i001i231i541
+https://tv.tvcdnpotok.com/moyaplaneta/index.m3u8?wmsAuthSign=de76acb23c420aae2ac23444a35b3ebf-1767027311-531i321i171i02
 
 #EXTINF:-1,history channel.html
-https://tv.tvcdnpotok.com/history/index.m3u8?wmsAuthSign=b5bef589ac28972d3c870d92165789a8-1767020677-17i001i231i541
+https://tv.tvcdnpotok.com/history/index.m3u8?wmsAuthSign=ddce50a5ba7b5537797bbc5766589e61-1767027328-531i321i171i02
 
 #EXTINF:-1,24 tekhno.html
-https://tv.tvcdnpotok.com/24techno/index.m3u8?wmsAuthSign=e5f1a82a022f5d4c42cdbcaa76b792db-1767020694-17i001i231i541
+https://tv.tvcdnpotok.com/24techno/index.m3u8?wmsAuthSign=53dc0374eb82d609951a09b46b15b60b-1767027345-531i321i171i02
 
 #EXTINF:-1,nat geo wild.html
-https://tv.tvcdnpotok.com/natgeowild/index.m3u8?wmsAuthSign=ad93f164c648291456f6dae6a8490e81-1767020711-17i001i231i541
+https://tv.tvcdnpotok.com/natgeowild/index.m3u8?wmsAuthSign=bfc057f7e2f6c35ecfadcb3e5f423f32-1767027362-531i321i171i02
 
 #EXTINF:-1,viasat history.html
-https://tv.tvcdnpotok.com/vi_history/index.m3u8?wmsAuthSign=04fcc9f7c8003ac7d1cc03d5232ce527-1767020728-17i001i231i541
+https://tv.tvcdnpotok.com/vi_history/index.m3u8?wmsAuthSign=33af92bdc14a9123f502ea7ca1cfbe76-1767027380-531i321i171i02
 
 #EXTINF:-1,bober tv.html
-https://tv.tvcdnpotok.com/bober/index.m3u8?wmsAuthSign=154deb5c200dbea585335f2f5339a1dc-1767020745-17i001i231i541
+https://tv.tvcdnpotok.com/bober/index.m3u8?wmsAuthSign=debf07b0f3370d26fcae92a4c36ddb30-1767027397-531i321i171i02
 
 #EXTINF:-1,viasat nature.html
-https://tv.tvcdnpotok.com/vi_nature/index.m3u8?wmsAuthSign=18d300d0559220add7924f8cae3d84cb-1767020761-17i001i231i541
+https://tv.tvcdnpotok.com/vi_nature/index.m3u8?wmsAuthSign=74eb2622e50bf05b1a6295009e1d56e9-1767027413-531i321i171i02
 
 #EXTINF:-1,animal planet.html
-https://tv.tvcdnpotok.com/animal_planet/index.m3u8?wmsAuthSign=bee5fa7a4d7d4e55a9e214d49872431a-1767020778-17i001i231i541
+https://tv.tvcdnpotok.com/animal_planet/index.m3u8?wmsAuthSign=c75a1d409980d990cd6b7643c3561a23-1767027431-531i321i171i02
 
 #EXTINF:-1,morskoj.html
-https://tv.tvcdnpotok.com/morskoi/index.m3u8?wmsAuthSign=2b9998e0d24bcd525f56698ab9e89bea-1767020794-17i001i231i541
+https://tv.tvcdnpotok.com/morskoi/index.m3u8?wmsAuthSign=e3bf03cb68ccdccbcf04be5e60ecd4f0-1767027448-531i321i171i02
 
 #EXTINF:-1,travel channel.html
-https://tv.tvcdnpotok.com/travel/index.m3u8?wmsAuthSign=9b5b9ee2abe5f6f2372f5e7dd58b1a42-1767020811-17i001i231i541
+https://tv.tvcdnpotok.com/travel/index.m3u8?wmsAuthSign=f5d631409b6f79b8342ac56e90b982b8-1767027465-531i321i171i02
 
 #EXTINF:-1,eda tv.html
-https://tv.tvcdnpotok.com/2027/index.m3u8?wmsAuthSign=3975b4d7b16b2994091c6d826d259062-1767020828-17i001i231i541
+https://tv.tvcdnpotok.com/2027/index.m3u8?wmsAuthSign=bfc56d98d9f201e823e17e54db12b1f7-1767027482-531i321i171i02
 
 #EXTINF:-1,nano tv.html
 https://s1.tv-nano.com/Nano_rec/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1,zagorodnaya zhizn.html
-https://tv.tvcdnpotok.com/195/index.m3u8?wmsAuthSign=84f16e408c3069baeeb159d1bc0fd0a8-1767020863-17i001i231i541
+https://tv.tvcdnpotok.com/195/index.m3u8?wmsAuthSign=0ba4cf83eb186741ff9ba6dcf8db94a6-1767027516-531i321i171i02
 
 #EXTINF:-1,24 dok.html
-https://tv.tvcdnpotok.com/24doc/index.m3u8?wmsAuthSign=9a529507fe90f70834d3e181e715ed12-1767020881-17i001i231i541
+https://tv.tvcdnpotok.com/24doc/index.m3u8?wmsAuthSign=c370ae9fa8d05708454394546dae3e62-1767027533-531i321i171i02
 
 #EXTINF:-1,okhotnik i rybolov.html
-https://tv.tvcdnpotok.com/oxot_i_rib/index.m3u8?wmsAuthSign=ce063906d4b4a2208516ee1f961bc337-1767020897-17i001i231i541
+https://tv.tvcdnpotok.com/oxot_i_rib/index.m3u8?wmsAuthSign=463c93a884c7a1397f7e9ba8bb76b240-1767027550-531i321i171i02
 
 #EXTINF:-1,v mire zhivotnykh.html
-https://tv.tvcdnpotok.com/mir_zivot/index.m3u8?wmsAuthSign=f786a5a841216fd8dcb082de52f337c7-1767020914-17i001i231i541
+https://tv.tvcdnpotok.com/mir_zivot/index.m3u8?wmsAuthSign=32a013a42a121376fccd316edfda0171-1767027567-531i321i171i02
 
 #EXTINF:-1,nauka 2.html
-https://tv.tvcdnpotok.com/nauka/index.m3u8?wmsAuthSign=7556058cc996b452f77c2e93a5ee0c28-1767020931-17i001i231i541
+https://tv.tvcdnpotok.com/nauka/index.m3u8?wmsAuthSign=fd948634564ee90398b9e6785212b4c5-1767027585-531i321i171i02
 
 #EXTINF:-1,sovershenno sekretno.html
-https://tv.tvcdnpotok.com/sov_sekretno/index.m3u8?wmsAuthSign=70d7e449891edc31d0ea69a10700118f-1767020948-17i001i231i541
+https://tv.tvcdnpotok.com/sov_sekretno/index.m3u8?wmsAuthSign=da0645b239459b1fdd5a64739b26a957-1767027603-531i321i171i02
 
 #EXTINF:-1,muzhskoj.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2024/index.m3u8?wmsAuthSign=9f620dc2053ccea78273d1a7464db829-1767020965-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2024/index.m3u8?wmsAuthSign=211a07b8ed2f65c3647f1e6af102618c-1767027620-531i321i171i02
 
 #EXTINF:-1,pervyj kosmicheskij.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2006/index.m3u8?wmsAuthSign=180ec8c2030346b7199daab8cb49e58b-1767020982-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2006/index.m3u8?wmsAuthSign=a28a643d0ddb5d16890fe880eb3424e3-1767027638-531i321i171i02
 
 #EXTINF:-1,rzhd tv.html
-https://vsd268.okcdn.ru/hls/5596736195190.m3u8/sig/tdSapAX9kbA/expires/1767089400436/srcIp/145.132.100.71/urls/45.136.22.64/clientType/0/srcAg/CHROME/mid/6783748742774/video.m3u8?p
+https://vsd279.okcdn.ru/hls/5596736195190.m3u8/sig/t-2bXoJSA5c/expires/1767096056798/srcIp/20.171.123.135/urls/185.226.52.105/clientType/0/srcAg/CHROME/mid/6783748742774/video.m3u8?p
 
 #EXTINF:-1,znanie tv.html
-https://vsd285.okcdn.ru/hls/5822630267536.m3u8/sig/klektyuy58A/expires/1767089417051/srcIp/145.132.100.71/urls/185.226.55.74/clientType/0/srcAg/CHROME/mid/7992906555024/video.m3u8?p
+https://vsd285.okcdn.ru/hls/5822630267536.m3u8/sig/HtZlOvNbKD4/expires/1767096073075/srcIp/20.171.123.135/urls/185.226.55.74/clientType/0/srcAg/CHROME/mid/7992906555024/video.m3u8?p
 
 #EXTINF:-1,univer tv.html
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
+#EXTINF:-1,rossiya kultura.html
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
 #EXTINF:-1,zagorodnyj.html
-https://vsd286.okcdn.ru/hls/2874641484500.m3u8/sig/N2I9NAld81g/expires/1767089468263/srcIp/145.132.100.71/urls/185.226.53.64/clientType/0/srcAg/CHROME/mid/4006284697300/video.m3u8?p
+https://vsd111.okcdn.ru/hls/2874641484500.m3u8/sig/ydjIhOzI1z0/expires/1767096124128/srcIp/20.171.123.135/urls/45.136.21.97/clientType/0/srcAg/CHROME/mid/4006284697300/video.m3u8?p
 
 #EXTINF:-1,zoopark.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2022/index.m3u8?wmsAuthSign=7b01fa0cd901bc70ae87e5cf61478e82-1767021085-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2022/index.m3u8?wmsAuthSign=65287ebbe1a2c9e8a5632c450ad029e9-1767027740-531i321i171i02
 
 #EXTINF:-1,zhivaya planeta.html
-https://tv.tvcdnpotok.com/zivaya-planeta/index.m3u8?wmsAuthSign=31624862a1dd15e89faf9b8be466ae5a-1767021102-17i001i231i541
+https://tv.tvcdnpotok.com/zivaya-planeta/index.m3u8?wmsAuthSign=0af503e1cd4af0d557a8c3bac9a9c4bd-1767027757-531i321i171i02
 
 #EXTINF:-1,id xtra.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/570/index.m3u8?wmsAuthSign=683851a26ed4042e9fdc3a03cdbcbc18-1767021119-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/570/index.m3u8?wmsAuthSign=3b60e7f5a1bedf62234ef95a36b35382-1767027774-531i321i171i02
 
 #EXTINF:-1,1filmax.html
-https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=b321581c51b7427ffd7219beda6121bb-1767021136-17i001i231i541
+https://tv.tvcdnpotok.com/141/index.m3u8?wmsAuthSign=28dfcd91d9952530adafb0b1f80ef9dc-1767027791-531i321i171i02
 
 #EXTINF:-1,hollywood hd.html
-https://tv.tvcdnpotok.com/586/index.m3u8?wmsAuthSign=bafe6efa8c60e84dbcf21d5ed0fb449c-1767021153-17i001i231i541
+https://tv.tvcdnpotok.com/586/index.m3u8?wmsAuthSign=e0696beb0a2e852663e0e378fbe9547b-1767027808-531i321i171i02
 
 #EXTINF:-1,evrokino.html
-https://tv.tvcdnpotok.com/eurokino/index.m3u8?wmsAuthSign=047dbb44b1ee335a581c37cd48a5d467-1767021171-17i001i231i541
+https://tv.tvcdnpotok.com/eurokino/index.m3u8?wmsAuthSign=3e6e36a5b3e8125c24ff041df8c693a4-1767027825-531i321i171i02
 
 #EXTINF:-1,illyuzion plus.html
-https://tv.tvcdnpotok.com/illyuzion_pl/index.m3u8?wmsAuthSign=8bbf4c97dd9b333316d9f36eb26f2391-1767021188-17i001i231i541
+https://tv.tvcdnpotok.com/illyuzion_pl/index.m3u8?wmsAuthSign=b9472081b9ba286c4c68abd2b0cd85e5-1767027842-531i321i171i02
 
 #EXTINF:-1,fox.html
-https://tv.tvcdnpotok.com/fox/index.m3u8?wmsAuthSign=5a535bbac82cb37d6de9439587dc2c62-1767021205-17i001i231i541
+https://tv.tvcdnpotok.com/fox/index.m3u8?wmsAuthSign=10a250786211b494c74c871450d5c24d-1767027859-531i321i171i02
 
 #EXTINF:-1,ntv hit.html
-https://tv.tvcdnpotok.com/ntv_xit/index.m3u8?wmsAuthSign=38205634f0ae85997f7a84b2be94c71e-1767021221-17i001i231i541
+https://tv.tvcdnpotok.com/ntv_xit/index.m3u8?wmsAuthSign=3488e7e6ecc17d22c9a0a3b7e5b6ba7a-1767027876-531i321i171i02
 
 #EXTINF:-1,russkij illyuzion.html
-https://tv.tvcdnpotok.com/illuzion_rus/index.m3u8?wmsAuthSign=d15d76ecd69ad845f9158954ac1ba136-1767021238-17i001i231i541
+https://tv.tvcdnpotok.com/illuzion_rus/index.m3u8?wmsAuthSign=19390307a3edcb2336fdae162ce8f4af-1767027893-531i321i171i02
 
 #EXTINF:-1,dom kino.html
-https://tv.tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=69437b9bd89026ff0aae04c6925e35a3-1767021255-17i001i231i541
+https://tv.tvcdnpotok.com/domkino/index.m3u8?wmsAuthSign=216c02462e145293621598de0b417caa-1767027910-531i321i171i02
 
 #EXTINF:-1,kinopokaz.html
-https://tv.tvcdnpotok.com/kinopokaz/index.m3u8?wmsAuthSign=eb4e55ff6ea218047e0ab2fce1759df0-1767021272-17i001i231i541
+https://tv.tvcdnpotok.com/kinopokaz/index.m3u8?wmsAuthSign=e9ac2988f95db6ab83f0cdfe20a06c08-1767027927-531i321i171i02
 
 #EXTINF:-1,dorama.html
-https://tv.tvcdnpotok.com/dorama/index.m3u8?wmsAuthSign=60245fac34fd1f87bbfeea058dde0179-1767021289-17i001i231i541
+https://tv.tvcdnpotok.com/dorama/index.m3u8?wmsAuthSign=87a7ca68b3aaa5dfd4810c01cc7ea49c-1767027944-531i321i171i02
 
 #EXTINF:-1,3filmax.html
-https://tv.tvcdnpotok.com/142/index.m3u8?wmsAuthSign=deb5b8131091b1610e7f24a7925cbd4c-1767021306-17i001i231i541
+https://tv.tvcdnpotok.com/142/index.m3u8?wmsAuthSign=a74f47ceafe94ce7dcc6b85cb8ab655e-1767027961-531i321i171i02
 
 #EXTINF:-1,russkij bestseller.html
-https://tv.tvcdnpotok.com/rys_bes/index.m3u8?wmsAuthSign=ab421935cbfa1fdc2ba34f5e5346d7c5-1767021323-17i001i231i541
+https://tv.tvcdnpotok.com/rys_bes/index.m3u8?wmsAuthSign=4480fceb544d55829f9647cd01853914-1767027978-531i321i171i02
 
 #EXTINF:-1,russkij roman.html
-https://tv.tvcdnpotok.com/rys_roman/index.m3u8?wmsAuthSign=666442546cba8ff975e436cff73bbef6-1767021340-17i001i231i541
+https://tv.tvcdnpotok.com/rys_roman/index.m3u8?wmsAuthSign=f20067c6a29dcb5f8d2f1fc973dde1bf-1767027995-531i321i171i02
 
 #EXTINF:-1,russkij detektiv.html
-https://tv.tvcdnpotok.com/rys_dete/index.m3u8?wmsAuthSign=0b62a12c8855c5faa4bcde8320141ac8-1767021357-17i001i231i541
+https://tv.tvcdnpotok.com/rys_dete/index.m3u8?wmsAuthSign=405898ede91646c9b73db10c197e1433-1767028012-531i321i171i02
 
 #EXTINF:-1,kino tv.html
-https://tv.tvcdnpotok.com/tv_kino/index.m3u8?wmsAuthSign=93d67f990f3111db2308027f7c78e4ed-1767021373-17i001i231i541
+https://tv.tvcdnpotok.com/tv_kino/index.m3u8?wmsAuthSign=a8c6b5f58ffb6de7c826a01d24b49f03-1767028029-531i321i171i02
 
 #EXTINF:-1,5filmax.html
-https://tv.tvcdnpotok.com/138/index.m3u8?wmsAuthSign=5cd1f7314d6b63dfb16cf99c93031154-1767021390-17i001i231i541
+https://tv.tvcdnpotok.com/138/index.m3u8?wmsAuthSign=d23155f0790992fe9567a30529ec5a06-1767028046-531i321i171i02
 
 #EXTINF:-1,nash kinoroman.html
-https://tv.tvcdnpotok.com/172/index.m3u8?wmsAuthSign=28e3abcaf747cb2fb46c7883e22d2724-1767021408-17i001i231i541
+https://tv.tvcdnpotok.com/172/index.m3u8?wmsAuthSign=ca2d35ac360f2b2a5bb0888efa93a56c-1767028063-531i321i171i02
 
 #EXTINF:-1,russkaya komediya.html
-https://tv.tvcdnpotok.com/ryskomedi/index.m3u8?wmsAuthSign=cb411fde1dab1fdcd0575961783951be-1767021426-17i001i231i541
+https://tv.tvcdnpotok.com/ryskomedi/index.m3u8?wmsAuthSign=9e2989291e00fd876971a7cccbaf64de-1767028080-531i321i171i02
 
 #EXTINF:-1,tv xxi.html
-https://tv.tvcdnpotok.com/tv21/index.m3u8?wmsAuthSign=aa17df708761127a9c3045ca75aa47e3-1767021443-17i001i231i541
+https://tv.tvcdnpotok.com/tv21/index.m3u8?wmsAuthSign=80752ae52e35eada6bbe5c2fada44875-1767028097-531i321i171i02
 
 #EXTINF:-1,nst.html
-https://tv.tvcdnpotok.com/nst/index.m3u8?wmsAuthSign=19e4a1df608b1039f5126593dea6655a-1767021460-17i001i231i541
+https://tv.tvcdnpotok.com/nst/index.m3u8?wmsAuthSign=910bffacc5ed4416f2438eaeee374e73-1767028114-531i321i171i02
 
 #EXTINF:-1,4filmax.html
-https://tv.tvcdnpotok.com/137/index.m3u8?wmsAuthSign=f314f98e0c9e1ebfe1a89196b7bbc841-1767021477-17i001i231i541
+https://tv.tvcdnpotok.com/137/index.m3u8?wmsAuthSign=57a2dc644ff80e28da11566a9827f4e7-1767028131-531i321i171i02
 
 #EXTINF:-1,nashe krutoe.html
-https://tv.tvcdnpotok.com/semeinoe/index.m3u8?wmsAuthSign=54f169674efd601150d4c506291cbf17-1767021493-17i001i231i541
+https://tv.tvcdnpotok.com/semeinoe/index.m3u8?wmsAuthSign=18306d956616970e800cd03de5b0563d-1767028148-531i321i171i02
 
 #EXTINF:-1,mir seriala.html
-https://tv.tvcdnpotok.com/589/index.m3u8?wmsAuthSign=3e199ac4745858918917f4a178e899fd-1767021510-17i001i231i541
+https://tv.tvcdnpotok.com/589/index.m3u8?wmsAuthSign=b0b620952d401b560a181ed4becfe675-1767028165-531i321i171i02
 
 #EXTINF:-1,fox life.html
-https://tv.tvcdnpotok.com/fox_l/index.m3u8?wmsAuthSign=5bc0c98b892216ebf9c4882b731084f0-1767021527-17i001i231i541
+https://tv.tvcdnpotok.com/fox_l/index.m3u8?wmsAuthSign=d7cde6bd97140f3c9fcd5271d38672f8-1767028182-531i321i171i02
 
 #EXTINF:-1,mosfilm zolotaya kollektsiya.html
-https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=834b5f74e56658a80d21eddca3547052-1767021544-17i001i231i541
+https://tv.tvcdnpotok.com/235/index.m3u8?wmsAuthSign=6ddc1f323fc5c13fbe9e0c91ba5377e4-1767028199-531i321i171i02
 
 #EXTINF:-1,akudji tv.html
 https://hls.goodgame.ru/manifest/5346_master.m3u8
 
 #EXTINF:-1,sdelano v sssr.html
-https://vsd119.okcdn.ru/hls/7904690309811.m3u8/sig/XFEpKDWYeZU/expires/1767089978884/srcIp/145.132.100.71/urls/45.136.22.58/clientType/0/srcAg/CHROME/mid/9273686236851/video.m3u8?p
+https://vsd82.okcdn.ru/hls/7904690309811.m3u8/sig/EQDNw463-S8/expires/1767096634596/srcIp/20.171.123.135/urls/45.136.21.89/clientType/0/srcAg/CHROME/mid/9273686236851/video.m3u8?p
 
 #EXTINF:-1,filmax melodrama.html
-https://vsd217.okcdn.ru/hls/4152310696645.m3u8/sig/BKFBrkLBBzY/expires/1767089995342/srcIp/145.132.100.71/urls/185.226.55.70/clientType/0/srcAg/CHROME/mid/4891374853829/video.m3u8?p
+https://vsd217.okcdn.ru/hls/4152310696645.m3u8/sig/dRZ0KsAZ-do/expires/1767096651110/srcIp/20.171.123.135/urls/185.226.53.98/clientType/0/srcAg/CHROME/mid/4891374853829/video.m3u8?p
 
 #EXTINF:-1,filmax komediya.html
 https://hls.goodgame.ru/manifest/204717_master.m3u8
 
 #EXTINF:-1,filmax fantastika.html
-https://hls.goodgame.ru/hls/204717.m3u8?expires=1767090048&token=iD8Lj5vN05dNT-RqsBggVQ
+https://hls.goodgame.ru/manifest/204708_master.m3u8
 
 #EXTINF:-1,kino 1 international.html
-https://kino-1.catcast.tv/content/38617/index.m3u8
+https://hls.goodgame.ru/hls/204708.m3u8?expires=1767096721&token=F5AVyDOJYV7xr23sXiJSmw
 
 #EXTINF:-1,kineko.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2037/index.m3u8?wmsAuthSign=f65672a1fe341cfdb43f49b2c81fef26-1767021663-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2037/index.m3u8?wmsAuthSign=d55f262cc99248843ce39baf3d35e8d6-1767028318-531i321i171i02
 
 #EXTINF:-1,telekafe.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2018/index.m3u8?wmsAuthSign=760e3f1b20aa767416408b57047f96aa-1767021680-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2018/index.m3u8?wmsAuthSign=46aa39d5d29683bff04888d0fd871d5a-1767028335-531i321i171i02
 
 #EXTINF:-1,romantichnoe hd.html
-https://tv.tvcdnpotok.com/rom_hd/index.m3u8?wmsAuthSign=5a8f95a223e79d4a97b79c77a74ba649-1767021697-17i001i231i541
+https://tv.tvcdnpotok.com/rom_hd/index.m3u8?wmsAuthSign=48bdf908fa3b84a8613f1140ff950ced-1767028351-531i321i171i02
 
 #EXTINF:-1,kinosat.html
-https://tv.tvcdnpotok.com/kinosat/index.m3u8?wmsAuthSign=73339b7f9c93cda2f2c207b850b115cc-1767021714-17i001i231i541
+https://tv.tvcdnpotok.com/kinosat/index.m3u8?wmsAuthSign=0ddaafd4b610498bd3ea2a43b587ce68-1767028368-531i321i171i02
 
 #EXTINF:-1,filmbox.html
-https://tv.tvcdnpotok.com/filmbox/index.m3u8?wmsAuthSign=32b2863831961a61400efa2539ddb028-1767021731-17i001i231i541
+https://tv.tvcdnpotok.com/filmbox/index.m3u8?wmsAuthSign=627d9cbced010acd33788389ed673fbd-1767028385-531i321i171i02
 
 #EXTINF:-1,cineman thriller.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2052/index.m3u8?wmsAuthSign=321708d80252b23aba48d69186a259f2-1767021748-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2052/index.m3u8?wmsAuthSign=2ea4d9d3542b7a3806812646beddc199-1767028402-531i321i171i02
 
 #EXTINF:-1,cineman top.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2054/index.m3u8?wmsAuthSign=8aa605f10a7d8c60cf483b5b8f3819d6-1767021765-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2054/index.m3u8?wmsAuthSign=6e06052484f38934af28db70a2aa6e14-1767028419-531i321i171i02
 
 #EXTINF:-1,cineman melodrama.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2053/index.m3u8?wmsAuthSign=b8791910b1b401ddcf7417e5c2b5e2a8-1767021783-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2053/index.m3u8?wmsAuthSign=a6e466c5a7ed32e7521d0fa007f52a20-1767028436-531i321i171i02
 
 #EXTINF:-1,cineman katastrofy.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2055/index.m3u8?wmsAuthSign=7e8e5f8a83bdb0a7e489a97e11cadccd-1767021799-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2055/index.m3u8?wmsAuthSign=c5de54b8f232ab552b405213b26b289b-1767028453-531i321i171i02
 
 #EXTINF:-1,cineman action.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2051/index.m3u8?wmsAuthSign=83348f97cfe5a9262634c661a0e183b1-1767021816-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2051/index.m3u8?wmsAuthSign=3b2740eaa98521bde99bbc401837ad30-1767028470-531i321i171i02
 
 #EXTINF:-1,kronehit tv.html
 https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 
 #EXTINF:-1,mezzo.html
-https://tv.tvcdnpotok.com/mezzo_live/index.m3u8?wmsAuthSign=ad5baa0d35dc3caab1bff1d87ed3d7ed-1767021867-17i001i231i541
+https://tv.tvcdnpotok.com/mezzo_live/index.m3u8?wmsAuthSign=85834167f4608d11fff7a254130b614a-1767028522-531i321i171i02
 
 #EXTINF:-1,dange tv.html
-https://tv.tvcdnpotok.com/dange/index.m3u8?wmsAuthSign=31976bfff90ef8900389a39536fd1694-1767021884-17i001i231i541
+https://tv.tvcdnpotok.com/dange/index.m3u8?wmsAuthSign=f0164280bcb3c120548709a0e73c7848-1767028539-531i321i171i02
 
 #EXTINF:-1,mtv russia.html
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1,bridge tv.html
-https://tv.tvcdnpotok.com/bridge/index.m3u8?wmsAuthSign=5db2b7b8c834a3acf5a24cc5770c4115-1767021920-17i001i231i541
+https://tv.tvcdnpotok.com/bridge/index.m3u8?wmsAuthSign=3cf59bf56c655d40b7d4733ce70abb96-1767028573-531i321i171i02
 
 #EXTINF:-1,muzyka pervogo.html
-https://tv.tvcdnpotok.com/muzyka_pervogo/index.m3u8?wmsAuthSign=b2e095d3ff9344f5cac8ddc9e615826e-1767021937-17i001i231i541
+https://tv.tvcdnpotok.com/muzyka_pervogo/index.m3u8?wmsAuthSign=461f48b4bcc2b7abe5bfc60bf1f93bb3-1767028590-531i321i171i02
 
 #EXTINF:-1,russian music box.html
-https://tv.tvcdnpotok.com/musicbox/index.m3u8?wmsAuthSign=90cd12c87870b12cb6c764044adf7c52-1767021954-17i001i231i541
+https://tv.tvcdnpotok.com/musicbox/index.m3u8?wmsAuthSign=695ccbc82b699223758a533f4f1315ee-1767028607-531i321i171i02
 
 #EXTINF:-1,shanson tv.html
-https://tv.tvcdnpotok.com/165/index.m3u8?wmsAuthSign=247b2e79ad00fb082670e22898e9bd2a-1767021971-17i001i231i541
+https://tv.tvcdnpotok.com/165/index.m3u8?wmsAuthSign=9586958c44443115509bb23b7f9896b6-1767028624-531i321i171i02
 
 #EXTINF:-1,mezzo live hd.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2092/index.m3u8?wmsAuthSign=9eedc6ab50748d77b26c938fca44d435-1767021988-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2092/index.m3u8?wmsAuthSign=781413de629dda39a635ecd6bbbe0745-1767028641-531i321i171i02
 
 #EXTINF:-1,ru tv.html
-https://vsd249.okcdn.ru/hls/229927553538.m3u8/sig/EAgpXP2_VfI/expires/1767090422544/srcIp/145.132.100.71/urls/185.226.53.70/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p
+https://vsd197.okcdn.ru/hls/229927553538.m3u8/sig/v7MsnqKa9FE/expires/1767097076706/srcIp/20.171.123.135/urls/185.226.55.77/clientType/0/srcAg/CHROME/mid/230273326594/video.m3u8?p
 
 #EXTINF:-1,tennis channel.html
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
@@ -529,10 +529,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1,drajv tv.html
-https://tv.tvcdnpotok.com/drivetv/index.m3u8?wmsAuthSign=b062f9753d63182af205301b5c314743-1767022072-17i001i231i541
+https://tv.tvcdnpotok.com/drivetv/index.m3u8?wmsAuthSign=9297f81aaa9631d46554b3cf54261149-1767028727-531i321i171i02
 
 #EXTINF:-1,avto 24.html
-https://tv.tvcdnpotok.com/avto24/index.m3u8?wmsAuthSign=30017e268e7af3b4fbda9d80f6401f7e-1767022090-17i001i231i541
+https://tv.tvcdnpotok.com/avto24/index.m3u8?wmsAuthSign=b7c835cbbb31eb5bc8ee81cef9b3cd7a-1767028744-531i321i171i02
 
 #EXTINF:-1,united fight alliance tv.html
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
@@ -556,10 +556,10 @@ https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 
 #EXTINF:-1,extreme sports.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2032/index.m3u8?wmsAuthSign=4587a27ba77ea27439ac7424e4cb217a-1767022226-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2032/index.m3u8?wmsAuthSign=18f2c75d119f16c6b68f77892a7b4f50-1767028880-531i321i171i02
 
 #EXTINF:-1,tochka otryva.html
-https://tv.tvcdnpotok.com/toch_otr/index.m3u8?wmsAuthSign=c0168ec2a98cdfb11a2b795ba1470410-1767022243-17i001i231i541
+https://tv.tvcdnpotok.com/toch_otr/index.m3u8?wmsAuthSign=aa7f160c15df4c2b3e914da136e112e6-1767028897-531i321i171i02
 
 #EXTINF:-1,motor racing.html
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
@@ -568,82 +568,82 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://stream-us-east-1.getpublica.com/cl/250602d0unbv860mm7e7b52rhg/1280x720_2785851_1_f.m3u8?i=513_2351
 
 #EXTINF:-1,da vinci.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2008/index.m3u8?wmsAuthSign=8d03c9b5390df148ee984fc53c58a99d-1767022294-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2008/index.m3u8?wmsAuthSign=c7928ddaa8604c282385aa294ed76db9-1767028948-531i321i171i02
 
 #EXTINF:-1,sovetskie multfilmy.html
-https://vsd279.okcdn.ru/hls/4087089138284.m3u8/sig/pjF1rIITL24/expires/1767090712276/srcIp/145.132.100.71/urls/45.136.21.98/clientType/0/srcAg/CHROME/mid/5385000066668/video.m3u8?p
+https://vsd217.okcdn.ru/hls/4087089138284.m3u8/sig/HzRFmJ5R7hM/expires/1767097366424/srcIp/20.171.123.135/urls/185.226.55.118/clientType/0/srcAg/CHROME/mid/5385000066668/video.m3u8?p
 
 #EXTINF:-1,smajlik tv.html
-https://vsd203.okcdn.ru/hls/1244982217235.m3u8/sig/3WVt12AXdqc/expires/1767090728771/srcIp/145.132.100.71/urls/45.136.21.98/clientType/0/srcAg/CHROME/mid/2904875671059/video.m3u8?p
+https://vsd203.okcdn.ru/hls/1244982217235.m3u8/sig/m7sBbpzJ8eY/expires/1767097382844/srcIp/20.171.123.135/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/2904875671059/video.m3u8?p
 
 #EXTINF:-1,nick jr.html
-https://tv.tvcdnpotok.com/nickjr/index.m3u8?wmsAuthSign=158bbe76b121da6d495010c4ce8e21b7-1767022345-17i001i231i541
+https://tv.tvcdnpotok.com/nickjr/index.m3u8?wmsAuthSign=398cb5cd14204d3897681919a8fad98d-1767028999-531i321i171i02
 
 #EXTINF:-1,kapitan fantastika.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2044/index.m3u8?wmsAuthSign=1436028d64dca5501ff88f30dab38dd4-1767022362-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2044/index.m3u8?wmsAuthSign=f9efa19afb3c4192c4b5d327ccf99096-1767029016-531i321i171i02
 
 #EXTINF:-1,tom i dzherri.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/156/index.m3u8?wmsAuthSign=4ca4c9ed4acbc024243f373bdfbc7093-1767022379-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/156/index.m3u8?wmsAuthSign=8f0b42781565de699f6b76a1f969cc3a-1767029033-531i321i171i02
 
 #EXTINF:-1,mult bum.html
-https://vsd166.okcdn.ru/hls/4087812852332.m3u8/sig/wnU_9wKcxdc/expires/1767090796394/srcIp/145.132.100.71/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/5385622068844/video.m3u8?p
+https://vsd105.okcdn.ru/hls/4087812852332.m3u8/sig/8Fm0nq8BzAc/expires/1767097449926/srcIp/20.171.123.135/urls/185.226.55.88/clientType/0/srcAg/CHROME/mid/5385622068844/video.m3u8?p
 
 #EXTINF:-1,tiji.html
-https://tv.tvcdnpotok.com/202/index.m3u8?wmsAuthSign=65b58cb33bf0d78b0970819edd95b1ea-1767022413-17i001i231i541
+https://tv.tvcdnpotok.com/202/index.m3u8?wmsAuthSign=778edba1c4234b4b13b711427df01519-1767029066-531i321i171i02
 
 #EXTINF:-1,detskij mir.html
-https://tv.tvcdnpotok.com/detmir/index.m3u8?wmsAuthSign=c7019dea76add49803f5aba8e9ae22e1-1767022429-17i001i231i541
+https://tv.tvcdnpotok.com/detmir/index.m3u8?wmsAuthSign=ae88c88b1ee0f950c1944556a1129417-1767029084-531i321i171i02
 
 #EXTINF:-1,mama.html
-https://tv.tvcdnpotok.com/mama/index.m3u8?wmsAuthSign=3bf861f7f54694eda91ce0cae875d0b6-1767022446-17i001i231i541
+https://tv.tvcdnpotok.com/mama/index.m3u8?wmsAuthSign=3671ac27abd41c895dbb6cab7078705a-1767029101-531i321i171i02
 
 #EXTINF:-1,radost moya.html
-https://tv.tvcdnpotok.com/radost_moya/index.m3u8?wmsAuthSign=ea4fd4b477d1c14cf321069965364c7e-1767022463-17i001i231i541
+https://tv.tvcdnpotok.com/radost_moya/index.m3u8?wmsAuthSign=b2da1078b607200bd158bdbc609835e1-1767029118-531i321i171i02
 
 #EXTINF:-1,kanal o.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2047/index.m3u8?wmsAuthSign=8462714dd32efebcadf468de1cd46102-1767022480-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2047/index.m3u8?wmsAuthSign=cff7c13478b7f9b163b3bc349d174aa0-1767029135-531i321i171i02
 
 #EXTINF:-1,ani.html
-https://tv.tvcdnpotok.com/ani/index.m3u8?wmsAuthSign=7fad270635b25a8d8779c99255a2eb24-1767022497-17i001i231i541
+https://tv.tvcdnpotok.com/ani/index.m3u8?wmsAuthSign=046e3fce7c68e8697264b9a0f8a903c7-1767029152-531i321i171i02
 
 #EXTINF:-1,multilandiya.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2045/index.m3u8?wmsAuthSign=7378974016a4e42920fea86519eeb4d9-1767022514-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2045/index.m3u8?wmsAuthSign=d723a6fdb733897c4708eb482a068f32-1767029169-531i321i171i02
 
 #EXTINF:-1,cartoon network.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2042/index.m3u8?wmsAuthSign=164749d4cdfab8370931102d6bd7ea36-1767022531-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2042/index.m3u8?wmsAuthSign=b8244226f591bba663144cb4b94343ba-1767029186-531i321i171i02
 
 #EXTINF:-1,nickelodeon.html
-https://tv.tvcdnpotok.com/nickelodeon/index.m3u8?wmsAuthSign=b89f2f6cf6fc1816f488e7ad40d5cd08-1767022548-17i001i231i541
+https://tv.tvcdnpotok.com/nickelodeon/index.m3u8?wmsAuthSign=b63c65c5d302bac69949288fd2318366-1767029203-531i321i171i02
 
 #EXTINF:-1,karusel.html
-https://tv.tvcdnpotok.com/157/index.m3u8?wmsAuthSign=5fff1c76be1cd51838738c8703e060c9-1767022564-17i001i231i541
+https://tv.tvcdnpotok.com/157/index.m3u8?wmsAuthSign=d88e0ae57446ac3bcf223c3692786bde-1767029219-531i321i171i02
 
 #EXTINF:-1,sts.html
-https://tv.tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=db2358be165b38172ee20cf703b97676-1767022581-17i001i231i541
+https://tv.tvcdnpotok.com/sts_/index.m3u8?wmsAuthSign=1a8f1f02bf7e780a589dbb5a4e471995-1767029236-531i321i171i02
 
 #EXTINF:-1,2x2.html
-https://vsd79.okcdn.ru/hls/5989330520712.m3u8/sig/r2Jw--XQfdk/expires/1767090998673/srcIp/145.132.100.71/urls/45.136.21.58/clientType/0/srcAg/CHROME/mid/7022731468424/video.m3u8?p
+https://vsd79.okcdn.ru/hls/5989330520712.m3u8/sig/locbH__WI3Y/expires/1767097654633/srcIp/20.171.123.135/urls/45.136.21.58/clientType/0/srcAg/CHROME/mid/7022731468424/video.m3u8?p
 
 #EXTINF:-1,superkanal.html
-https://vsd78.okcdn.ru/hls/5397683899051.m3u8/sig/5ayKcGPY6gI/expires/1767091015259/srcIp/145.132.100.71/urls/185.226.53.67/clientType/0/srcAg/CHROME/mid/6507204124331/video.m3u8?p
+https://vsd78.okcdn.ru/hls/5397683899051.m3u8/sig/PjFDB86gfR4/expires/1767097671023/srcIp/20.171.123.135/urls/185.226.53.67/clientType/0/srcAg/CHROME/mid/6507204124331/video.m3u8?p
 
 #EXTINF:-1,kanal you.html
-https://vsd256.okcdn.ru/hls/1286158092976.m3u8/sig/wBgaGn5LLSM/expires/1767091032274/srcIp/145.132.100.71/urls/185.226.52.90/clientType/0/srcAg/CHROME/mid/2961812233904/video.m3u8?p
+https://vsd164.okcdn.ru/hls/1286158092976.m3u8/sig/DhiL-kVhfNs/expires/1767097688062/srcIp/20.171.123.135/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/2961812233904/video.m3u8?p
 
 #EXTINF:-1,tlc.html
-https://tv.tvcdnpotok.com/tlc/index.m3u8?wmsAuthSign=fce633aa32204914f8e1d279f1c2018a-1767022648-17i001i231i541
+https://tv.tvcdnpotok.com/tlc/index.m3u8?wmsAuthSign=09cd220142d03c6f3e8e91ca0bdb2909-1767029304-531i321i171i02
 
 #EXTINF:-1,world fashion.html
-https://vsd178.okcdn.ru/hls/2588953938435.m3u8/sig/FaaDy00L6Us/expires/1767091065986/srcIp/145.132.100.71/urls/185.226.53.102/clientType/0/srcAg/CHROME/mid/3561872956931/video.m3u8?p
+https://vsd272.okcdn.ru/hls/2588953938435.m3u8/sig/E2iqW27-tEM/expires/1767097721834/srcIp/20.171.123.135/urls/45.136.21.65/clientType/0/srcAg/CHROME/mid/3561872956931/video.m3u8?p
 
 #EXTINF:-1,sts love.html
-https://tv.tvcdnpotok.com/stslove/index.m3u8?wmsAuthSign=9915806d2d1eff74c72fa6f16708f970-1767022682-17i001i231i541
+https://tv.tvcdnpotok.com/stslove/index.m3u8?wmsAuthSign=59204769f6177d95400760aee3f02fdd-1767029338-531i321i171i02
 
 #EXTINF:-1,domashnij.html
-https://tv.tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=6301a34eb11b3e6e529c114c3ce14a59-1767022699-17i001i231i541
+https://tv.tvcdnpotok.com/domashni/index.m3u8?wmsAuthSign=3ca50dee88f02ac971aee6c80ee6d609-1767029355-531i321i171i02
 
 #EXTINF:-1,sarafan tv.html
-https://tv.tvcdnpotok.com/sarafan/index.m3u8?wmsAuthSign=899d6e7ec43861390d899f6e174b6d40-1767022716-17i001i231i541
+https://tv.tvcdnpotok.com/sarafan/index.m3u8?wmsAuthSign=1ac5ba7070e08de51e0da69a265f0f8a-1767029372-531i321i171i02
 
 #EXTINF:-1,ekho tv.html
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -655,31 +655,31 @@ https://v4.proofix.ru/8tv-russia/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD.m3u8
 
 #EXTINF:-1,moskva doverie.html
-https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2004/index.m3u8?wmsAuthSign=97f860121cf7350e7a571781d448ddbe-1767022784-17i001i231i541
+https://cdniptvpotok.com/player/ontvplayerjs.html?file=https://tv.tvcdnpotok.com/2004/index.m3u8?wmsAuthSign=b5d84f7f9493487b8c4ba2c1b38daea9-1767029440-531i321i171i02
 
 #EXTINF:-1,perets tv.html
-https://vsd173.okcdn.ru/hls/8083234884102.m3u8/sig/m3GVV7e7IEw/expires/1767091202182/srcIp/145.132.100.71/urls/45.136.22.55/clientType/0/srcAg/CHROME/mid/9685657198086/video.m3u8?p
+https://vsd173.okcdn.ru/hls/8083234884102.m3u8/sig/kNMAspmsFSk/expires/1767097858679/srcIp/20.171.123.135/urls/185.226.52.92/clientType/0/srcAg/CHROME/mid/9685657198086/video.m3u8?p
 
 #EXTINF:-1,44
-https://vod-c57.interspace.com/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MDo1OCBBTSZoYXNoX3ZhbHVlPXNVcERmRVhZSHd1bWt5THY0eXN5Y0E9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhYmE4NzgwNA==
+https://vod-c57.interspace.com/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMTo1NSBQTSZoYXNoX3ZhbHVlPW52ZTVxYTVWdldzT2JRMngwV1JYdkE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0YmI0NGQzNw==
 
 #EXTINF:-1,45
-https://vod-c57.interspace.com/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MTowNyBBTSZoYXNoX3ZhbHVlPWFRdFhjMlJHVlFBcEo4OXh5SzAybWc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhYzNlM2I3Zg==
+https://vod-c57.interspace.com/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjowNSBQTSZoYXNoX3ZhbHVlPUY5U21WNGdTR2crSDcrLzJUcFdheHc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0YzUzMmJkMA==
 
 #EXTINF:-1,46
-https://vod-c57.interspace.com/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MToxNiBBTSZoYXNoX3ZhbHVlPXFGMC9NUGJwN2thZ1h6OW1ZOStKNlE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhY2MzYzViNA==
+https://vod-c57.interspace.com/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjoxMyBQTSZoYXNoX3ZhbHVlPS9zaHJFdXZRQkY4R0RMVkhVSDltMXc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0Y2Q5ODU5NA==
 
 #EXTINF:-1,47
-https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MToyNCBBTSZoYXNoX3ZhbHVlPWY5d0ZhL2NJTXdSTldIbTArTE5Ubmc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhZDQ4Nzc5Mw==
+https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjoyMiBQTSZoYXNoX3ZhbHVlPVNZaE50OHZMQU9tRmZKT2NxSjJVY3c9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0ZDYwNjhmZg==
 
 #EXTINF:-1,48
-https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MTozMiBBTSZoYXNoX3ZhbHVlPVAwaUUwSkM5WUVKQ0h0U3dvQ2w5WHc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhZGNkMDg3MA==
+https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjozMCBQTSZoYXNoX3ZhbHVlPXM4UHR2YUZPL3RLQm1FSkhLdmw0aXc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0ZGU2OWE3Yg==
 
 #EXTINF:-1,49
-https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MTo0MSBBTSZoYXNoX3ZhbHVlPWhYQm95N2FNQzB0NnJ4a2dyWHBZblE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhZTUyNjc1OA==
+https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjozOCBQTSZoYXNoX3ZhbHVlPVdXaTd5aFIrTHNweGo1TnBVM0xBR1E9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0ZTZjZDFiZQ==
 
 #EXTINF:-1,50
-https://vod-c57.interspace.com/channel_abr/50/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMDo0MTo0OSBBTSZoYXNoX3ZhbHVlPWZ0cWIxcTMzeVF1cWdOTnRyT0s5Z1E9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1MjVhZWQ3MDMxNQ==
+https://vod-c57.interspace.com/channel_abr/50/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAyNSAxMjozMjo0NyBQTSZoYXNoX3ZhbHVlPVNsYklPYlFSRDNWdTVaMDAyVGR4K0E9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9Njk1Mjc0ZWYzYzMyYg==
 
 #EXTINF:-1,bht 1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
