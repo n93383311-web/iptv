@@ -1,87 +1,133 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 
+const MAX_PARALLEL = 4;          // number of channels processed in parallel
+const PAGE_TIMEOUT = 15000;     // page navigation timeout
+const DETECT_TIMEOUT = 3000;    // how long to wait for m3u8 detection
+
 (async () => {
-  // Read URLs (with optional multiple URLs per channel)
   const lines = fs.readFileSync('channels.txt', 'utf8')
     .split('\n')
     .map(l => l.trim())
     .filter(Boolean);
 
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
+  const browser = await chromium.launch({
+    headless: true,
+    args: ['--disable-dev-shm-usage', '--no-sandbox']
+  });
 
   let playlist = '#EXTM3U\n\n';
 
-  for (const line of lines) {
-    // Split multiple URLs per line
+  async function processChannel(line) {
     const urls = line.split(',').map(u => u.trim()).filter(Boolean);
-
-    // Generate channel name from first URL if not specified
     let name = urls[0].split('/').filter(Boolean).pop();
     name = name.replace(/[-_]/g, ' ').replace(/online/i, '').trim();
 
-    console.log(`\n[▶] Processing ${name} with ${urls.length} source(s)`);
+    console.log(`\n[▶] ${name}`);
 
+    const page = await browser.newPage();
     let workingStream = null;
 
-    // Try each URL in order until a working m3u8 is found
     for (const url of urls) {
-      console.log(`[*] Trying: ${url}`);
-
+      console.log(`  [*] Trying ${url}`);
       const found = new Set();
-      page.removeAllListeners('request');
-      page.on('request', r => {
+
+      const onRequest = r => {
         const u = r.url();
-        if (u.includes('.m3u8') && !u.includes('jwpltx') && !u.includes('ro.glebul')) {
+        if (
+          u.includes('.m3u8') &&
+          !u.includes('jwpltx') &&
+          !u.includes('ro.glebul')
+        ) {
           found.add(u);
         }
-      });
+      };
+
+      page.on('request', onRequest);
 
       try {
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-      } catch (e) {
-        console.log('[!] Timeout or error, skipping...');
+        await page.goto(url, {
+          waitUntil: 'domcontentloaded',
+          timeout: PAGE_TIMEOUT
+        });
+      } catch {
+        page.off('request', onRequest);
+        continue;
       }
 
-      await page.waitForTimeout(8000);
+      await Promise.race([
+        page.waitForTimeout(DETECT_TIMEOUT),
+        new Promise(resolve => {
+          const handler = r => {
+            if (r.url().includes('.m3u8')) {
+              page.off('request', handler);
+              resolve();
+            }
+          };
+          page.on('request', handler);
+        })
+      ]);
 
-      // Try iframe if present
+      // iframe check
       try {
         const iframe = await page.$('iframe');
         if (iframe) {
           const src = await iframe.getAttribute('src');
           if (src) {
-            console.log('[IFRAME]', src);
-            try {
-              await page.goto(src, { waitUntil: 'domcontentloaded', timeout: 60000 });
-            } catch {}
-            await page.waitForTimeout(8000);
+            await page.goto(src, {
+              waitUntil: 'domcontentloaded',
+              timeout: PAGE_TIMEOUT
+            });
+
+            await Promise.race([
+              page.waitForTimeout(DETECT_TIMEOUT),
+              new Promise(resolve => {
+                const handler = r => {
+                  if (r.url().includes('.m3u8')) {
+                    page.off('request', handler);
+                    resolve();
+                  }
+                };
+                page.on('request', handler);
+              })
+            ]);
           }
         }
       } catch {}
 
+      page.off('request', onRequest);
+
       if (found.size > 0) {
-        // Pick best stream (CDN preferred)
         const arr = [...found];
-        const best = arr.find(u => u.includes('cdn')) || arr[0];
-        workingStream = best;
-        console.log('[✓] Found working stream:', best);
-        break; // Stop at first working stream
+        workingStream = arr.find(u => u.includes('cdn')) || arr[0];
+        console.log(`  [✓] Found ${workingStream}`);
+        break;
       } else {
-        console.log('[✗] No working stream at this source');
+        console.log('  [✗] No stream');
       }
     }
 
+    await page.close();
+
     if (workingStream) {
-      playlist += `#EXTINF:-1,${name}\n${workingStream}\n\n`;
-    } else {
-      console.log('[✗] No streams worked for channel:', name);
+      return `#EXTINF:-1,${name}\n${workingStream}\n\n`;
     }
+    return '';
+  }
+
+  // ---- Parallel execution ----
+  const chunks = [];
+  for (let i = 0; i < lines.length; i += MAX_PARALLEL) {
+    chunks.push(lines.slice(i, i + MAX_PARALLEL));
+  }
+
+  for (const chunk of chunks) {
+    const results = await Promise.all(chunk.map(processChannel));
+    playlist += results.join('');
   }
 
   await browser.close();
 
   fs.writeFileSync('playlist.m3u', playlist, 'utf8');
-  console.log('\n[✓] playlist.m3u updated successfully!');
+  console.log('\n[✓] playlist.m3u updated');
 })();
