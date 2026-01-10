@@ -2,7 +2,7 @@ name: Update IPTV playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/5 * * * *"   # every 5 minutes (minimum stable)
   workflow_dispatch:
 
 jobs:
@@ -15,12 +15,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "npm"
 
       - name: Install dependencies
         run: |
-          npm init -y
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
           npm install playwright
-          npx playwright install chromium
+          npx playwright install chromium --with-deps
 
       - name: Run extractor
         run: node extract.js
@@ -32,4 +35,3 @@ jobs:
           git add playlist.m3u
           git commit -m "Auto update playlist" || echo "No changes"
           git push
-
