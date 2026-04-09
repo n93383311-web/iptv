@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BNT 1" group-title="Bulgaria",BNT 1
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775720048&hash=rMuxMqAA1_je_3aDqsNYUQ
+
+#EXTINF:-1 tvg-name="BNT 2" group-title="Bulgaria",BNT 2
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/bnt-2/index.m3u8?e=1775720049&hash=Iyr2R4yNld5GeT0bnhJpGA
+
+#EXTINF:-1 tvg-name="BNT 3" group-title="Bulgaria",BNT 3
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775720050&hash=VAmC0_eHbc8Fg-Jahsy-KA
+
+#EXTINF:-1 tvg-name="BNT 4" group-title="Bulgaria",BNT 4
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1775720052&hash=ktIfwa7ePR76XxkdZN_zQA
+
+#EXTINF:-1 tvg-name="bTV" group-title="Bulgaria",bTV
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1775720053&hash=B7rf2z0Y3PiAGci_UWDpUQ
+
+#EXTINF:-1 tvg-name="NOVA TV" group-title="Bulgaria",NOVA TV
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1775720055&hash=2aUVf_f4QniX6qeaMfwNIQ
+
+#EXTINF:-1 tvg-name="Diema Sport" group-title="Sport",Diema Sport
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1775720056&hash=3iSnKgkOoZcCrymebOdApg
+
+#EXTINF:-1 tvg-name="Diema Sport 2" group-title="Sport",Diema Sport 2
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-diema-sport-2-hd/index.m3u8?e=1775720058&hash=L0N70IKe1SeXVNCcK142Pg
+
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentary",National Geographic
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1775720059&hash=KH4uGbBgSC2iWPcat65unw
+
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Documentary",Nat Geo Wild
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1775720061&hash=98ctr2GmqzdqfGZhi9wiDg
+
