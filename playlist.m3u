@@ -1,67 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="bnt1.bg" tvg-name="BNT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/BNT_1_logo.svg" group-title="Bulgaria",BNT 1
+#EXTINF:-1 tvg-id="bnt1.bnt.bg" tvg-name="BNT 1" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" group-title="Bulgaria",BNT 1
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775741534&hash=ba34VI6Zl7FoO6R1so_uqw
-
-#EXTINF:-1 tvg-id="bnt2.bg" tvg-name="BNT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BNT_2_logo.svg" group-title="Bulgaria",BNT 2
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775741535&hash=mCUg2IHmXcu9P9FGePmaag
-
-#EXTINF:-1 tvg-id="bnt3.bg" tvg-name="BNT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/BNT_3_logo.svg" group-title="Bulgaria",BNT 3
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775741537&hash=W6prDM86Rvq4JQGa6H9TVQ
-
-#EXTINF:-1 tvg-id="bnt4.bg" tvg-name="BNT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/BNT_World_logo.svg" group-title="Bulgaria",BNT 4
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/bnt-4/index.m3u8?e=1775741539&hash=AMYcBCfTFHjP64hR-KkXQQ
-
-#EXTINF:-1 tvg-id="btv.bg" tvg-name="bTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BTV_logo.svg" group-title="Bulgaria",bTV
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1775741541&hash=k-DVQqte8aUHtR3yswV_2A
-
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="NOVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Nova_TV_logo.svg" group-title="Bulgaria",NOVA TV
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1775741543&hash=RphvH2BaQNMnNytcBlKHaA
-
-#EXTINF:-1 tvg-id="diemasport.bg" tvg-name="Diema Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Diema_Sport_logo.png" group-title="Sport",Diema Sport
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-diema-sport-hd/index.m3u8?e=1775741545&hash=h-vhMGrPcj3gP9gZxISnZw
-
-#EXTINF:-1 tvg-id="eurosport1.bg" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Eurosport_1_logo.svg" group-title="Sport",Eurosport 1
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-eurosport-1-hd/index.m3u8?e=1775741546&hash=ia8v29LPMveJmhZQLfKM6A
-
-#EXTINF:-1 tvg-id="discovery.bg" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Discovery_Channel_logo.svg" group-title="Documentary",Discovery Channel
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1775741549&hash=cW94cG3r5XnIebKREWddjg
-
-#EXTINF:-1 tvg-id="natgeo.bg" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Geographic_logo.svg" group-title="Documentary",National Geographic
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1775741550&hash=r3AQz1pgwQN2OumAMFBNVw
-
-#EXTINF:-1 tvg-id="cartoonnetwork.bg" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1775741552&hash=UDGNvF6tnZz3s3s1339dHQ
-
-#EXTINF:-1 tvg-id="disneychannel.bg" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Disney_Channel_logo.svg" group-title="Kids",Disney Channel
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1775741554&hash=mXaChzWFYeIQFyM6GmFuUw
-
-#EXTINF:-1 tvg-id="nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Nickelodeon_2023_logo.svg" group-title="Kids",Nickelodeon
-#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/nickelodeon/index.m3u8?e=1775741556&hash=wEFWIYhnw5LFVLkSK1g7lw
-
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775749173&hash=1B7cLiXDmKK95u-Y_woB1w
