@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="IPTV Auto Updater">
+
+  <channel id="bnt1.bg">
+    <display-name>BNT 1</display-name>
+    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" />
+  </channel>
+
+  <programme start="20260409183000 +0200" stop="20260409190000 +0200" channel="bnt1.bg">
+    <title lang="bg">Още от деня коментарно предаване</title>
+  </programme>
+  <programme start="20260409190000 +0200" stop="20260409200000 +0200" channel="bnt1.bg">
+    <title lang="bg">Последният печели забавно-познавателно семейно куиз шоу</title>
+  </programme>
+  <programme start="20260409200000 +0200" stop="20260409204500 +0200" channel="bnt1.bg">
+    <title lang="bg">По света и у нас</title>
+  </programme>
+  <programme start="20260409204500 +0200" stop="20260409210000 +0200" channel="bnt1.bg">
+    <title lang="bg">Спортни новини</title>
+  </programme>
+  <programme start="20260409210000 +0200" stop="20260409223000 +0200" channel="bnt1.bg">
+    <title lang="bg">Панорама с Бойко Василев</title>
+  </programme>
+  <programme start="20260409223000 +0200" stop="20260409230000 +0200" channel="bnt1.bg">
+    <title lang="bg">Вечната музика</title>
+  </programme>
+  <programme start="20260409230000 +0200" stop="20260409232500 +0200" channel="bnt1.bg">
+    <title lang="bg">По света и у нас</title>
+  </programme>
+  <programme start="20260409232500 +0200" stop="20260409012500 +0200" channel="bnt1.bg">
+    <title lang="bg">Дъщерята игрален филм /Испания, 2021г./, режисьор Мануел Мартин Куенка, в ролите: Хавиер Гутиерес, Патрисия Лопес Арнаис, Софиан Елбен, Брад Пит, Настрадин Ходжа, Хуан Карлос Вилянуева и др. (14)</title>
+  </programme>
+  <programme start="20260409012500 +0200" stop="20260409030500 +0200" channel="bnt1.bg">
+    <title lang="bg">100% будни сутрешно токшоу с Надежда Иванова и Стефан А. Щерев /п/</title>
+  </programme>
+  <programme start="20260409030500 +0200" stop="20260409040500 +0200" channel="bnt1.bg">
+    <title lang="bg">Култура.БГ предаване за култура с Димитър Стоянович /п/</title>
+  </programme>
+  <programme start="20260409040500 +0200" stop="20260409044500 +0200" channel="bnt1.bg">
+    <title lang="bg">Анн с двойно &#8220;Н&#8221; тв филм /5 епизод/п/</title>
+  </programme>
+  <programme start="20260409044500 +0200" stop="20260409200000 +0200" channel="bnt1.bg">
+    <title lang="bg">По света и у нас /п от</title>
+  </programme>
+  <programme start="20260409200000 +0200" stop="2026040923595900 +0200" channel="bnt1.bg">
+    <title lang="bg">часа/</title>
+  </programme>
+
+</tv>
