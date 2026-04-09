@@ -2,156 +2,164 @@
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-name="BNT 1" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" group-title="Bulgaria",BNT 1
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775768275&hash=7S8v3r0f73CKEcoDNufQRw
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775768783&hash=CehoRkmxZVM6_qwd2dUDFg
 #EXTINF:-1 tvg-id="bnt2.bg" tvg-name="BNT 2" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" group-title="Bulgaria",BNT 2
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775768278&hash=tuGL1caG2Y-AQsQph-SpCw
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775768787&hash=7zUi8o7D-IAsvAr_KGEQGA
 #EXTINF:-1 tvg-id="bnt3.bg" tvg-name="BNT 3" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt3.png" group-title="Bulgaria",BNT 3
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775768281&hash=e2ulP-UtbR53YZTSz-1pTw
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775768790&hash=XLENnOfyau4LrZumu0ANhg
 #EXTINF:-1 tvg-id="bnt4.bg" tvg-name="BNT 4" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt4.png" group-title="Bulgaria",BNT 4
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1775768285&hash=Nxnl1gWRbB1Ap8n5c8g4Qw
+https://cdn11.glebul.com/hls/bnt-4/index.m3u8?e=1775768794&hash=fyCQzScJcrF0wEmiU6fyTQ
 #EXTINF:-1 tvg-id="btv.bg" tvg-name="bTV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btv.png" group-title="Bulgaria",bTV
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1775768288&hash=oQgYm81DbSswpYEgivpwIg
+https://cdn11.glebul.com/hls/hd-btv-hd/index.m3u8?e=1775768798&hash=4SIJV9fJ7Q39RO-L57uo0A
 #EXTINF:-1 tvg-id="btvaction.bg" tvg-name="bTV Action" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvaction.png" group-title="Bulgaria",bTV Action
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1775768292&hash=eYgnJf4SXQDZX4PuhSwDiw
+https://cdn3.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1775768802&hash=a7dR5uwNfENwakm_GYNPGQ
 #EXTINF:-1 tvg-id="btvcinema.bg" tvg-name="bTV Cinema" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvcinema.png" group-title="Bulgaria",bTV Cinema
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/btv-cinema/index.m3u8?e=1775768296&hash=4o90Y1BoiP3pOUa-i27Now
+https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1775768805&hash=mVCSpQM2LFb_HVOp8OhRow
 #EXTINF:-1 tvg-id="btvcomedy.bg" tvg-name="bTV Comedy" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvcomedy.png" group-title="Bulgaria",bTV Comedy
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1775768299&hash=i7VqxuHX9ypRZEK6RJz5dg
+https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1775768809&hash=A4Et6UcAbQckaWwKSpKKfQ
 #EXTINF:-1 tvg-id="btvlady.bg" tvg-name="bTV Lady" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvlady.png" group-title="Bulgaria",bTV Lady
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1775768304&hash=uv2x6YBoVlIcA3X-HtVsBA
+https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1775768812&hash=RV_rJjh0cpgNeNrK2i0VlA
 #EXTINF:-1 tvg-id="nova.bg" tvg-name="Nova TV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nova.png" group-title="Bulgaria",Nova TV
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1775768307&hash=U9O3JxEtXPn98fD3fkR2yw
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1775768816&hash=wOS3elyYcOoLNAyI3VJ32g
 #EXTINF:-1 tvg-id="novanews.bg" tvg-name="Nova News" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novanews.png" group-title="Bulgaria",Nova News
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1775768311&hash=-Q_4r7wfJrsb7WiF3MBvOQ
+https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1775768819&hash=liel1ErRjdOEFcGGMPKNew
 #EXTINF:-1 tvg-id="diema.bg" tvg-name="Diema" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diema.png" group-title="Bulgaria",Diema
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-diema-hd/index.m3u8?e=1775768315&hash=4h7ddhAM1pwSEXaRAtPW8g
+https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1775768822&hash=9b1YMvZCgZs1hiCFeOmmEQ
 #EXTINF:-1 tvg-id="diemafamily.bg" tvg-name="Diema Family" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemafamily.png" group-title="Bulgaria",Diema Family
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1775768318&hash=uFJg14ZZF4Zmta113aurHQ
+https://cdn3.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1775768826&hash=Qcx0lgba6TP8A_0BIp9U5A
 #EXTINF:-1 tvg-id="kinonova.bg" tvg-name="KinoNova" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/kinonova.png" group-title="Bulgaria",KinoNova
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/kino-nova/index.m3u8?e=1775768322&hash=QJ_X0-vVZAap1e5irviwSA
+https://cdn3.glebul.com/hls/kino-nova/index.m3u8?e=1775768829&hash=Q8kgvgnr8ZxQT28JXBfWdw
 #EXTINF:-1 tvg-id="bloomberg.bg" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloomberg.png" group-title="Bulgaria",Bloomberg TV
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1775768325&hash=gO9xPYtFwDlUMl5cAG1KBg
+https://cdn11.glebul.com/hls/bloomberg-tv/index.m3u8?e=1775768833&hash=d-0Xlb3YBU3rRStzBVL2kw
 #EXTINF:-1 tvg-id="bulgariaonair.bg" tvg-name="Bulgaria ON AIR" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bulgariaonair.png" group-title="Bulgaria",Bulgaria ON AIR
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1775768329&hash=eGe58LkK_eNsekOn14UYdQ
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1775768836&hash=DnnnG4B_ruY0QzKwzwn-Tw
+#EXTINF:-1 tvg-id="euronews.bg" tvg-name="Euronews Bulgaria" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/euronews.png" group-title="Bulgaria",Euronews Bulgaria
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1775768840&hash=glAne8SGdg9sMmEyHOs7_Q
+#EXTINF:-1 tvg-id="eurocom.bg" tvg-name="Eurocom" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurocom.png" group-title="Bulgaria",Eurocom
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/evrokom/index.m3u8?e=1775768844&hash=WeFcKKUqQotPDXyBbtS1Lg
 #EXTINF:-1 tvg-id="sedemosmi.bg" tvg-name="7/8 TV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/78tv.png" group-title="Bulgaria",7/8 TV
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1775768335&hash=VAHEEIg4qNH-4kEyUMdN5w
+https://cdn11.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1775768847&hash=YDn9J_Yj5V5s8qFYL3_1UQ
 #EXTINF:-1 tvg-id="axn.bg" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axn.png" group-title="Bulgaria",AXN
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/axn/index.m3u8?e=1775768339&hash=Mrf09CpSsjN2-Kcheea-oA
+https://cdn3.glebul.com/hls/axn/index.m3u8?e=1775768851&hash=XKsaAQaOCjsVgNE4P7EhVQ
 #EXTINF:-1 tvg-id="axnblack.bg" tvg-name="AXN Black" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axnblack.png" group-title="Bulgaria",AXN Black
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1775768342&hash=QYcPcJQjOatIt-xjgmP7Iw
+https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1775768854&hash=yv7wyGLzv-yC8z0bkqcZyQ
 #EXTINF:-1 tvg-id="axnwhite.bg" tvg-name="AXN White" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axnwhite.png" group-title="Bulgaria",AXN White
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1775768347&hash=XdO6kb30ChbyrXluV7KApA
+https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1775768858&hash=MI6bRnx2VNMSc9ISQaCWEg
 #EXTINF:-1 tvg-id="starchannel.bg" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/starchannel.png" group-title="Bulgaria",Star Channel
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1775768350&hash=XDxfkC0h1LAP1JaOwooLeQ
+https://cdn11.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1775768861&hash=gOgq38Rld6EYkX0j5vchLg
 #EXTINF:-1 tvg-id="starcrime.bg" tvg-name="Star Crime" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/starcrime.png" group-title="Bulgaria",Star Crime
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1775768354&hash=SgTk2PDdn1jgCR0CMbKofA
+https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1775768864&hash=MGXA8etwoRpT7ZkyuTUAAQ
 #EXTINF:-1 tvg-id="starlife.bg" tvg-name="Star Life" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/starlife.png" group-title="Bulgaria",Star Life
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1775768358&hash=qVwRyw3-ZJW34oG0oejbTw
+https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1775768868&hash=qYV_LDiyinN5Aemo6yn4KQ
 #EXTINF:-1 tvg-id="discovery.bg" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/discovery.png" group-title="Bulgaria",Discovery Channel
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1775768361&hash=jIpnFQU6O6gl4Z-sRiDIbw
+https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1775768871&hash=k2TiIYCjcZfWRVHebUC_PQ
 #EXTINF:-1 tvg-id="tlc.bg" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/tlc.png" group-title="Bulgaria",TLC
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/tlc/index.m3u8?e=1775768364&hash=nDed0GOmCSncZoiDCvXrqA
+https://cdn11.glebul.com/hls/tlc/index.m3u8?e=1775768874&hash=0n4f17MSj76YxzjCx5P8PQ
 #EXTINF:-1 tvg-id="id.bg" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/id.png" group-title="Bulgaria",ID
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1775768368&hash=JtzFUHalJB_Oq_d8JNeJ-A
+https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1775768878&hash=dqJ-ytdkycVZGK6HSZkklg
 #EXTINF:-1 tvg-id="natgeo.bg" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/natgeo.png" group-title="Bulgaria",National Geographic
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1775768372&hash=NWFWjuen9QgIj8mhp8gyXw
+https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1775768881&hash=MuFE-cTnlhfPDSA5iJKp6g
 #EXTINF:-1 tvg-id="natgeowild.bg" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/natgeowild.png" group-title="Bulgaria",Nat Geo Wild
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1775768376&hash=ZtF2IV8REIxdUWbD_y13nw
+https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1775768885&hash=40DRTeFqTbSerYbhqRW4nA
 #EXTINF:-1 tvg-id="viasatexplore.bg" tvg-name="Viasat Explore" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/viasatexplore.png" group-title="Bulgaria",Viasat Explore
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/viasat-explore/index.m3u8?e=1775768380&hash=SWv4MUlWIhCrLh3vof9xPA
+https://cdn11.glebul.com/hls/viasat-explore/index.m3u8?e=1775768889&hash=N0FNDfDUchWonz6OH7ldsQ
 #EXTINF:-1 tvg-id="cartoonnetwork.bg" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/cartoonnetwork.png" group-title="Bulgaria",Cartoon Network
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1775768384&hash=34_RKTx42vJNjJjOmQKHlA
+https://cdn11.glebul.com/hls/cartoon-network/index.m3u8?e=1775768892&hash=WGUUqx818T4pGMrHiAecJQ
 #EXTINF:-1 tvg-id="disney.bg" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/disney.png" group-title="Bulgaria",Disney Channel
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1775768388&hash=PA264rPtsxm2obF0vMlwXg
+https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1775768897&hash=INf9toYGbQVdX5JoSatQtw
 #EXTINF:-1 tvg-id="nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nickelodeon.png" group-title="Bulgaria",Nickelodeon
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1775768391&hash=KX-RSSL74F1eEZKY2fbZLA
+https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1775768900&hash=nmV5__O-tB8b69qgQDxEDQ
 #EXTINF:-1 tvg-id="nickjr.bg" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nickjr.png" group-title="Bulgaria",Nick Jr.
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1775768395&hash=gt4h03W2Mn2KGyzcXuZrLw
+https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1775768904&hash=4B5nbsjlO3W7qDebZsTiGA
 #EXTINF:-1 tvg-id="nicktoons.bg" tvg-name="Nicktoons" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nicktoons.png" group-title="Bulgaria",Nicktoons
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/nicktoons/index.m3u8?e=1775768398&hash=W9kfaquY7Cfmc-SPakTCyA
+https://cdn3.glebul.com/hls/nicktoons/index.m3u8?e=1775768908&hash=SDI2F49Nr1IMD3WTeYnHyw
 #EXTINF:-1 tvg-id="ekids.bg" tvg-name="eKids" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/ekids.png" group-title="Bulgaria",eKids
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/e-kids/index.m3u8?e=1775768402&hash=hzrBBcqueoBHnSih73RtAQ
+https://cdn3.glebul.com/hls/e-kids/index.m3u8?e=1775768912&hash=KYT_ZSEsVlbmsuw8lvEM_A
 #EXTINF:-1 tvg-id="thevoice.bg" tvg-name="The Voice" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/thevoice.png" group-title="Bulgaria",The Voice
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1775768406&hash=k5qj9rmjtOFaFzoWNhEr0w
+https://cdn11.glebul.com/hls/the-voice/index.m3u8?e=1775768916&hash=ltkaCAjDMIhmcj9_1Bk6-g
 #EXTINF:-1 tvg-id="24kitchen.bg" tvg-name="24Kitchen" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/24kitchen.png" group-title="Bulgaria",24Kitchen
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1775768410&hash=Uls4PyT2Me-I_iMimxhxEw
+https://cdn11.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1775768920&hash=WqdmOpldOQjBg1bWPiumyw
 #EXTINF:-1 tvg-id="travelchannel.bg" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/travelchannel.png" group-title="Bulgaria",Travel Channel
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1775768414&hash=mIAb5HYlCL1sObUXhEt3wg
+https://cdn11.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1775768923&hash=GXp8zaEgtvg7mBCJV2slvQ
 #EXTINF:-1 tvg-id="ring.bg" tvg-name="Ring BG" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/ring.png" group-title="Bulgaria",Ring BG
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1775768418&hash=uUmnDZ4cOXMx2iaoX_UkfA
+https://cdn3.glebul.com/hls/hd-ring-bg-hd/index.m3u8?e=1775768928&hash=ih3ypu8EwBqXW-JqKc0Cvg
