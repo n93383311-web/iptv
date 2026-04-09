@@ -1,141 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="IPTV Auto Updater">
-  <channel id="bnt1.bg">
-    <display-name>BNT 1</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" />
-  </channel>
-  <channel id="bnt2.bg">
-    <display-name>BNT 2</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" />
-  </channel>
-  <channel id="bnt3.bg">
-    <display-name>BNT 3</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt3.png" />
-  </channel>
-  <channel id="bnt4.bg">
-    <display-name>BNT 4</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt4.png" />
-  </channel>
-  <channel id="btv.bg">
-    <display-name>bTV</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btv.png" />
-  </channel>
-  <channel id="nova.bg">
-    <display-name>NOVA TV</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novatv.png" />
-  </channel>
-  <channel id="novanews.bg">
-    <display-name>NOVA News</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novanews.png" />
-  </channel>
-  <channel id="bulgariaonair.bg">
-    <display-name>Bulgaria ON AIR</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bulgariaonair.png" />
-  </channel>
-  <channel id="euronewsbulgaria.bg">
-    <display-name>Euronews Bulgaria</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/euronewsbulgaria.png" />
-  </channel>
-  <channel id="bloombergtv.bg">
-    <display-name>Bloomberg TV</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloombergtv.png" />
-  </channel>
-  <channel id="diema.bg">
-    <display-name>Diema</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diema.png" />
-  </channel>
-  <channel id="diemafamily.bg">
-    <display-name>Diema Family</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemafamily.png" />
-  </channel>
-  <channel id="kinonova.bg">
-    <display-name>Kino Nova</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/kinonova.png" />
-  </channel>
-  <channel id="novasport.bg">
-    <display-name>Nova Sport</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novasport.png" />
-  </channel>
-  <channel id="eurosport1.bg">
-    <display-name>Eurosport 1</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurosport1.png" />
-  </channel>
-  <channel id="eurosport2.bg">
-    <display-name>Eurosport 2</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurosport2.png" />
-  </channel>
-  <channel id="natgeo.bg">
-    <display-name>National Geographic</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nationalgeographic.png" />
-  </channel>
-  <channel id="discovery.bg">
-    <display-name>Discovery Channel</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/discoverychannel.png" />
-  </channel>
-  <channel id="cartoonnetwork.bg">
-    <display-name>Cartoon Network</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/cartoonnetwork.png" />
-  </channel>
-  <channel id="disney.bg">
-    <display-name>Disney Channel</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/disneychannel.png" />
-  </channel>
-  <channel id="nickelodeon.bg">
-    <display-name>Nickelodeon</display-name>
-    <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nickelodeon.png" />
-  </channel>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="bnt1.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="bnt2.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="bnt3.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="bnt4.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="btv.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="nova.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="novanews.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="diema.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="diemafamily.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="kinonova.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="novasport.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="eurosport1.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="eurosport2.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="natgeo.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181800 +0200" stop="20260409191800 +0200" channel="discovery.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181900 +0200" stop="20260409191900 +0200" channel="cartoonnetwork.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181900 +0200" stop="20260409191900 +0200" channel="disney.bg">
-    <title lang="bg">часа</title>
-  </programme>
-  <programme start="20260409181900 +0200" stop="20260409191900 +0200" channel="nickelodeon.bg">
-    <title lang="bg">часа</title>
-  </programme>
+<?xml version="1.0" encoding="UTF-8"?><tv>
+<channel id="bnt1.bg"><display-name>BNT 1</display-name></channel>
+<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt1.bg"><title lang="bg">часа</title></programme>
+<channel id="bnt2.bg"><display-name>BNT 2</display-name></channel>
+<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt2.bg"><title lang="bg">часа</title></programme>
+<channel id="bnt3.bg"><display-name>BNT 3</display-name></channel>
+<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt3.bg"><title lang="bg">часа</title></programme>
+<channel id="bnt4.bg"><display-name>BNT 4</display-name></channel>
+<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt4.bg"><title lang="bg">часа</title></programme>
+<channel id="btv.bg"><display-name>bTV</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="btv.bg"><title lang="bg">часа</title></programme>
+<channel id="nova.bg"><display-name>NOVA TV</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="nova.bg"><title lang="bg">часа</title></programme>
+<channel id="novanews.bg"><display-name>NOVA News</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="novanews.bg"><title lang="bg">часа</title></programme>
+<channel id="diema.bg"><display-name>Diema</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="diema.bg"><title lang="bg">часа</title></programme>
+<channel id="diemafamily.bg"><display-name>Diema Family</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="diemafamily.bg"><title lang="bg">часа</title></programme>
+<channel id="kinonova.bg"><display-name>Kino Nova</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="kinonova.bg"><title lang="bg">часа</title></programme>
+<channel id="novasport.bg"><display-name>Nova Sport</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="novasport.bg"><title lang="bg">часа</title></programme>
+<channel id="eurosport1.bg"><display-name>Eurosport 1</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="eurosport1.bg"><title lang="bg">часа</title></programme>
+<channel id="eurosport2.bg"><display-name>Eurosport 2</display-name></channel>
+<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="eurosport2.bg"><title lang="bg">часа</title></programme>
 </tv>
