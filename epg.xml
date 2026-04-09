@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><tv>
-<channel id="bnt1.bg"><display-name>BNT 1</display-name></channel>
-<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt1.bg"><title lang="bg">часа</title></programme>
-<channel id="bnt2.bg"><display-name>BNT 2</display-name></channel>
-<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt2.bg"><title lang="bg">часа</title></programme>
-<channel id="bnt3.bg"><display-name>BNT 3</display-name></channel>
-<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt3.bg"><title lang="bg">часа</title></programme>
-<channel id="bnt4.bg"><display-name>BNT 4</display-name></channel>
-<programme start="20260409183200 +0200" stop="20260409193200 +0200" channel="bnt4.bg"><title lang="bg">часа</title></programme>
-<channel id="btv.bg"><display-name>bTV</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="btv.bg"><title lang="bg">часа</title></programme>
-<channel id="nova.bg"><display-name>NOVA TV</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="nova.bg"><title lang="bg">часа</title></programme>
-<channel id="novanews.bg"><display-name>NOVA News</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="novanews.bg"><title lang="bg">часа</title></programme>
-<channel id="diema.bg"><display-name>Diema</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="diema.bg"><title lang="bg">часа</title></programme>
-<channel id="diemafamily.bg"><display-name>Diema Family</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="diemafamily.bg"><title lang="bg">часа</title></programme>
-<channel id="kinonova.bg"><display-name>Kino Nova</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="kinonova.bg"><title lang="bg">часа</title></programme>
-<channel id="novasport.bg"><display-name>Nova Sport</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="novasport.bg"><title lang="bg">часа</title></programme>
-<channel id="eurosport1.bg"><display-name>Eurosport 1</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="eurosport1.bg"><title lang="bg">часа</title></programme>
-<channel id="eurosport2.bg"><display-name>Eurosport 2</display-name></channel>
-<programme start="20260409183300 +0200" stop="20260409193300 +0200" channel="eurosport2.bg"><title lang="bg">часа</title></programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="bnt1.bg">
+<display-name>BNT 1</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png"/>
+</channel>
+<programme start="20260409184100 +0200" stop="20260409182000 +0200" channel="bnt1.bg">
+<title lang="bg">часа</title>
+</programme>
+<programme start="20260409182000 +0200" stop="20260409184500 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409184500 +0200" stop="20260409190000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409190000 +0200" stop="20260409200000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409200000 +0200" stop="20260409203000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409203000 +0200" stop="20260409210000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409210000 +0200" stop="20260409220000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409220000 +0200" stop="20260409230000 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409230000 +0200" stop="20260409232500 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
+<programme start="20260409232500 +0200" stop="20260410002500 +0200" channel="bnt1.bg">
+<title lang="bg"></title>
+</programme>
 </tv>
