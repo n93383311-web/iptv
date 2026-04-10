@@ -2,16 +2,36 @@
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-name="BNT 1" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" group-title="Bulgaria",BNT 1
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775812042&hash=5LZQOqLGOYNt-w9SCS5R6A
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775815158&hash=_V7Ig7JVVLlirxak5tjFew
 #EXTINF:-1 tvg-id="bnt2.bg" tvg-name="BNT 2" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" group-title="Bulgaria",BNT 2
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775812045&hash=icambewydQYKazmRupM8DQ
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775815161&hash=t_1Z0sMDz_MtldnCfOva4w
 #EXTINF:-1 tvg-id="bnt3.bg" tvg-name="BNT 3" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt3.png" group-title="Bulgaria",BNT 3
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn11.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775812048&hash=u4pnM-kcZdL74dIBvSaddQ
+https://cdn3.glebul.com/hls/hd-bnt-3-hd/index.m3u8?e=1775815165&hash=6nSLyfw4Fmlci9H3Np_ehg
 #EXTINF:-1 tvg-id="bnt4.bg" tvg-name="BNT 4" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt4.png" group-title="Bulgaria",BNT 4
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1775812052&hash=1oZwssBB3G56xqyOC8deIA
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1775815168&hash=ksL5oLf4GF8wFuGbv-CImw
+#EXTINF:-1 tvg-id="btv.bg" tvg-name="bTV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btv.png" group-title="Bulgaria",bTV
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1775815172&hash=rEGYFW9WsjD7-YxSUtRYbw
+#EXTINF:-1 tvg-id="nova.bg" tvg-name="NOVA TV" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nova.png" group-title="Bulgaria",NOVA TV
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1775815176&hash=cDP_EqYxUZEGsU08iMusxA
+#EXTINF:-1 tvg-id="bulgariaonair.bg" tvg-name="Bulgaria ON AIR" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bulgariaonair.png" group-title="News",Bulgaria ON AIR
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1775815180&hash=h3j1wxLxR0e9dwNteB79_A
+#EXTINF:-1 tvg-id="euronewsbulgaria.bg" tvg-name="Euronews Bulgaria" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/euronewsbulgaria.png" group-title="News",Euronews Bulgaria
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1775815184&hash=1chbDZYV5OmjIORKETe-IQ
+#EXTINF:-1 tvg-id="bloombergtv.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloombergtv.png" group-title="News",Bloomberg TV Bulgaria
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn11.glebul.com/hls/bloomberg-tv/index.m3u8?e=1775815187&hash=W3pRGhBycY2bHRiOya7-ew
