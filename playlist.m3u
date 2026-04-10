@@ -2,4 +2,8 @@
 #EXTINF:-1 tvg-id="bnt1.bg" tvg-name="BNT 1" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" group-title="Bulgaria",BNT 1
 #EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775811582&hash=3n6exL9Jlkxi1UIzK3pfWw
+https://cdn3.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1775811821&hash=MNj62oa66NxMHB4IP5-NjA
+#EXTINF:-1 tvg-id="bnt2.bg" tvg-name="BNT 2" tvg-logo="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" group-title="Bulgaria",BNT 2
+#EXTVLCOPT:http-referrer=https://www.seirsanduk.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1775811824&hash=NAzsUvAAQD0ph3oK4S6h7A
