@@ -8,6 +8,14 @@
 <display-name>BNT 2</display-name>
 <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" />
 </channel>
+<channel id="bnt3.bg">
+<display-name>BNT 3</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt3.png" />
+</channel>
+<channel id="bnt4.bg">
+<display-name>BNT 4</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt4.png" />
+</channel>
 <programme start="20260410001500 +0300" stop="20260410015000 +0300" channel="bnt1.bg">
 <title lang="bg">100</title>
 </programme>
@@ -205,5 +213,152 @@
 </programme>
 <programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="bnt2.bg">
 <title lang="bg">Домът на вярата</title>
+</programme>
+<programme start="20260410014000 +0300" stop="20260410015000 +0300" channel="bnt3.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410015000 +0300" stop="20260410040000 +0300" channel="bnt3.bg">
+<title lang="bg">Зимни олимпийски игри 2026: Хокей на лед</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410041500 +0300" channel="bnt3.bg">
+<title lang="bg">Зала на славата: Константин Михайлов</title>
+</programme>
+<programme start="20260410041500 +0300" stop="20260410044000 +0300" channel="bnt3.bg">
+<title lang="bg">Спартан световен шампионат</title>
+</programme>
+<programme start="20260410044000 +0300" stop="20260410055000 +0300" channel="bnt3.bg">
+<title lang="bg">Световна купа по сноуборд: паралелен слалом - пряко предаване от Москва</title>
+</programme>
+<programme start="20260410055000 +0300" stop="20260410072000 +0300" channel="bnt3.bg">
+<title lang="bg">Световно първенство по биатлон до 21 г.</title>
+</programme>
+<programme start="20260410072000 +0300" stop="20260410081500 +0300" channel="bnt3.bg">
+<title lang="bg">Колоездачна обиколка на Прованс</title>
+</programme>
+<programme start="20260410081500 +0300" stop="20260410101000 +0300" channel="bnt3.bg">
+<title lang="bg">Световна купа по ски-алпийски дисциплини - финали: слалом</title>
+</programme>
+<programme start="20260410101000 +0300" stop="20260410120000 +0300" channel="bnt3.bg">
+<title lang="bg">Волейбол: ЦПВК - Левски София</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410135000 +0300" channel="bnt3.bg">
+<title lang="bg">Световна купа по модерен петобой: полуфинал</title>
+</programme>
+<programme start="20260410135000 +0300" stop="20260410154500 +0300" channel="bnt3.bg">
+<title lang="bg">Зимни олимпийски игри 2026: Хокей на лед</title>
+</programme>
+<programme start="20260410154500 +0300" stop="20260410160000 +0300" channel="bnt3.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410175000 +0300" channel="bnt3.bg">
+<title lang="bg">Световна купа по модерен петобой: полуфинал</title>
+</programme>
+<programme start="20260410175000 +0300" stop="20260410185000 +0300" channel="bnt3.bg">
+<title lang="bg">Рали Португалия</title>
+</programme>
+<programme start="20260410185000 +0300" stop="20260410210000 +0300" channel="bnt3.bg">
+<title lang="bg">Зимни олимпийски игри 2026: Хокей на лед</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="bnt3.bg">
+<title lang="bg">Време за губене</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410215500 +0300" channel="bnt3.bg">
+<title lang="bg">Туризъм БГ</title>
+</programme>
+<programme start="20260410215500 +0300" stop="20260410220000 +0300" channel="bnt3.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410233500 +0300" channel="bnt3.bg">
+<title lang="bg">Хадик</title>
+</programme>
+<programme start="20260410233500 +0300" stop="20260411003500 +0300" channel="bnt3.bg">
+<title lang="bg">Световна купа по модерен петобой: полуфинали</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410011500 +0300" channel="bnt4.bg">
+<title lang="bg">Нашето място България</title>
+</programme>
+<programme start="20260410011500 +0300" stop="20260410021500 +0300" channel="bnt4.bg">
+<title lang="bg">Вечерното шоу</title>
+</programme>
+<programme start="20260410021500 +0300" stop="20260410030000 +0300" channel="bnt4.bg">
+<title lang="bg">С БНТ завинаги</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410031500 +0300" channel="bnt4.bg">
+<title lang="bg">Защо България?</title>
+</programme>
+<programme start="20260410031500 +0300" stop="20260410033000 +0300" channel="bnt4.bg">
+<title lang="bg">Малки истории</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410040000 +0300" channel="bnt4.bg">
+<title lang="bg">Време за губене</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410043000 +0300" channel="bnt4.bg">
+<title lang="bg">Бързо, лесно, вкусно</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410052500 +0300" channel="bnt4.bg">
+<title lang="bg">Култура. БГ</title>
+</programme>
+<programme start="20260410052500 +0300" stop="20260410055500 +0300" channel="bnt4.bg">
+<title lang="bg">Знание. БГ</title>
+</programme>
+<programme start="20260410055500 +0300" stop="20260410092000 +0300" channel="bnt4.bg">
+<title lang="bg">Денят започва</title>
+</programme>
+<programme start="20260410092000 +0300" stop="20260410110000 +0300" channel="bnt4.bg">
+<title lang="bg">100</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="bnt4.bg">
+<title lang="bg">Рецепта за култура</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="bnt4.bg">
+<title lang="bg">По света и у нас</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410131500 +0300" channel="bnt4.bg">
+<title lang="bg">Нашето място България</title>
+</programme>
+<programme start="20260410131500 +0300" stop="20260410141500 +0300" channel="bnt4.bg">
+<title lang="bg">Малки истории</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410143000 +0300" channel="bnt4.bg">
+<title lang="bg">Светът на жестовете</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410153000 +0300" channel="bnt4.bg">
+<title lang="bg">Моят плейлист</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410163000 +0300" channel="bnt4.bg">
+<title lang="bg">Последният печели</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410171500 +0300" channel="bnt4.bg">
+<title lang="bg">Религията днес</title>
+</programme>
+<programme start="20260410171500 +0300" stop="20260410173000 +0300" channel="bnt4.bg">
+<title lang="bg">Олтарите на България</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410183000 +0300" channel="bnt4.bg">
+<title lang="bg">Колекция Stradivarius</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="bnt4.bg">
+<title lang="bg">Домът на вярата</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="bnt4.bg">
+<title lang="bg">Българското село</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="bnt4.bg">
+<title lang="bg">Бързо, лесно, вкусно</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410202000 +0300" channel="bnt4.bg">
+<title lang="bg">По света и у нас</title>
+</programme>
+<programme start="20260410202000 +0300" stop="20260410203000 +0300" channel="bnt4.bg">
+<title lang="bg">Избори 2026: Предизборни репортажи</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410213000 +0300" channel="bnt4.bg">
+<title lang="bg">Майсторът на звука</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410232500 +0300" channel="bnt4.bg">
+<title lang="bg">Константин Философ</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260411002500 +0300" channel="bnt4.bg">
+<title lang="bg">Requiem от Антонин Дворжак</title>
 </programme>
 </tv>
