@@ -16,6 +16,26 @@
 <display-name>BNT 4</display-name>
 <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt4.png" />
 </channel>
+<channel id="btv.bg">
+<display-name>bTV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btv.png" />
+</channel>
+<channel id="nova.bg">
+<display-name>NOVA TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nova.png" />
+</channel>
+<channel id="bulgariaonair.bg">
+<display-name>Bulgaria ON AIR</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bulgariaonair.png" />
+</channel>
+<channel id="euronewsbulgaria.bg">
+<display-name>Euronews Bulgaria</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/euronewsbulgaria.png" />
+</channel>
+<channel id="bloombergtv.bg">
+<display-name>Bloomberg TV Bulgaria</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloombergtv.png" />
+</channel>
 <programme start="20260410001500 +0300" stop="20260410015000 +0300" channel="bnt1.bg">
 <title lang="bg">100</title>
 </programme>
@@ -360,5 +380,572 @@
 </programme>
 <programme start="20260410232500 +0300" stop="20260411002500 +0300" channel="bnt4.bg">
 <title lang="bg">Requiem от Антонин Дворжак</title>
+</programme>
+<programme start="20260410001000 +0300" stop="20260410010000 +0300" channel="btv.bg">
+<title lang="bg">Свръхестествено</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="btv.bg">
+<title lang="bg">Опасни улици</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="btv.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="btv.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410050000 +0300" channel="btv.bg">
+<title lang="bg">Преди обед</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410052000 +0300" channel="btv.bg">
+<title lang="bg">Смърфовете</title>
+</programme>
+<programme start="20260410052000 +0300" stop="20260410060000 +0300" channel="btv.bg">
+<title lang="bg">Лице в лице</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410065500 +0300" channel="btv.bg">
+<title lang="bg">Около света за 80 дни</title>
+</programme>
+<programme start="20260410065500 +0300" stop="20260410093000 +0300" channel="btv.bg">
+<title lang="bg">Тази сутрин</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410115900 +0300" channel="btv.bg">
+<title lang="bg">Преди обед</title>
+</programme>
+<programme start="20260410115900 +0300" stop="20260410124500 +0300" channel="btv.bg">
+<title lang="bg">bTV Новините</title>
+</programme>
+<programme start="20260410124500 +0300" stop="20260410132000 +0300" channel="btv.bg">
+<title lang="bg">Комиците и приятели</title>
+</programme>
+<programme start="20260410132000 +0300" stop="20260410153000 +0300" channel="btv.bg">
+<title lang="bg">Живот или нещо подобно</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410180000 +0300" channel="btv.bg">
+<title lang="bg">Разследването</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410185500 +0300" channel="btv.bg">
+<title lang="bg">Стани богат</title>
+</programme>
+<programme start="20260410185500 +0300" stop="20260410195000 +0300" channel="btv.bg">
+<title lang="bg">bTV Новините</title>
+</programme>
+<programme start="20260410195000 +0300" stop="20260410200000 +0300" channel="btv.bg">
+<title lang="bg">Интервюто на денясъс Златимир Йочев</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410220000 +0300" channel="btv.bg">
+<title lang="bg">Бригада Нов дом</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="btv.bg">
+<title lang="bg">ВЯРА, НАДЕЖДА, ЛЮБОВ</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410234000 +0300" channel="btv.bg">
+<title lang="bg">bTV Новините</title>
+</programme>
+<programme start="20260410234000 +0300" stop="20260411004000 +0300" channel="btv.bg">
+<title lang="bg">Хавай 5-0</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="nova.bg">
+<title lang="bg">Новобранецът</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="nova.bg">
+<title lang="bg">Специален отряд: Лайпциг</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="nova.bg">
+<title lang="bg">Три сестри</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410041000 +0300" channel="nova.bg">
+<title lang="bg">Наследство</title>
+</programme>
+<programme start="20260410041000 +0300" stop="20260410052000 +0300" channel="nova.bg">
+<title lang="bg">Свободна да избира</title>
+</programme>
+<programme start="20260410052000 +0300" stop="20260410060000 +0300" channel="nova.bg">
+<title lang="bg">ФБР: Международни разследвания</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410065500 +0300" channel="nova.bg">
+<title lang="bg">Пресечна точка</title>
+</programme>
+<programme start="20260410065500 +0300" stop="20260410092800 +0300" channel="nova.bg">
+<title lang="bg">Здравей, България</title>
+</programme>
+<programme start="20260410092800 +0300" stop="20260410115800 +0300" channel="nova.bg">
+<title lang="bg">На кафе</title>
+</programme>
+<programme start="20260410115800 +0300" stop="20260410123000 +0300" channel="nova.bg">
+<title lang="bg">Новините на NOVA</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410141500 +0300" channel="nova.bg">
+<title lang="bg">Лъжичка любов</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410155900 +0300" channel="nova.bg">
+<title lang="bg">Печелившият отбор</title>
+</programme>
+<programme start="20260410155900 +0300" stop="20260410161000 +0300" channel="nova.bg">
+<title lang="bg">Новините на NOVA</title>
+</programme>
+<programme start="20260410161000 +0300" stop="20260410170000 +0300" channel="nova.bg">
+<title lang="bg">Пресечна точка</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="nova.bg">
+<title lang="bg">Семейни войни</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410185500 +0300" channel="nova.bg">
+<title lang="bg">Сделка или не</title>
+</programme>
+<programme start="20260410185500 +0300" stop="20260410200000 +0300" channel="nova.bg">
+<title lang="bg">Новините на NOVA</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410213000 +0300" channel="nova.bg">
+<title lang="bg">Кошмари в кухнята (нов сезон - Режисьор: шеф Иван Манчев. Шеф Манчев се отправя на нова кулинарна...</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410233000 +0300" channel="nova.bg">
+<title lang="bg">Стари кучета</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="nova.bg">
+<title lang="bg">Новините на NOVA</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410002000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410002000 +0300" stop="20260410005000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Директно</title>
+</programme>
+<programme start="20260410005000 +0300" stop="20260410023000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">България сутрин</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410033000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Операция Тяхната История</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410043000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Money. bg</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410050000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Авиошоу с Александър Богоявленски</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410052500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410052500 +0300" stop="20260410053000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410054500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Директно</title>
+</programme>
+<programme start="20260410054500 +0300" stop="20260410061500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Европространство</title>
+</programme>
+<programme start="20260410061500 +0300" stop="20260410064500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Професионалистите</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410071500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Вдъхновителите</title>
+</programme>
+<programme start="20260410071500 +0300" stop="20260410080000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Денят ON AIR</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410081500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410081500 +0300" stop="20260410084500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Авиошоу с Александър Богоявленски</title>
+</programme>
+<programme start="20260410084500 +0300" stop="20260410091500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Колела</title>
+</programme>
+<programme start="20260410091500 +0300" stop="20260410093000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410113000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">България сутрин</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410114500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410114500 +0300" stop="20260410124500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Опорни хора</title>
+</programme>
+<programme start="20260410124500 +0300" stop="20260410131500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Арт 21</title>
+</programme>
+<programme start="20260410131500 +0300" stop="20260410133000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410140000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410141500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410144500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Вдъхновителите с Мария Константинова</title>
+</programme>
+<programme start="20260410144500 +0300" stop="20260410151500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Авиошоу с Александър Богоявленски</title>
+</programme>
+<programme start="20260410151500 +0300" stop="20260410153000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410154500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410154500 +0300" stop="20260410160000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Телепазарен прозорец</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Константин Философ</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410175000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Перфектна ваканция</title>
+</programme>
+<programme start="20260410175000 +0300" stop="20260410183000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Директно</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410191500 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410191500 +0300" stop="20260410201000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Денят ON AIR</title>
+</programme>
+<programme start="20260410201000 +0300" stop="20260410213000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Хемингуей</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Новините ON AIR</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Money. bg</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="bulgariaonair.bg">
+<title lang="bg">Денят ON AIR</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410020000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Добро утро, Европа</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410033000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Станция Европейски съюз</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410034500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410034500 +0300" stop="20260410040000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410053000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410060000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Код иновации</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410061500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410061500 +0300" stop="20260410063000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410064500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410070000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410093000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Добро утро, Европа</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410094500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410094500 +0300" stop="20260410095700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410095700 +0300" stop="20260410100000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410101500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410101500 +0300" stop="20260410102200 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410102200 +0300" stop="20260410102500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410102500 +0300" stop="20260410103000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Диагноза: Здраве</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410112000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410112000 +0300" stop="20260410112600 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410112600 +0300" stop="20260410113000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времетo</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410115700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Станция Европейски съюз</title>
+</programme>
+<programme start="20260410115700 +0300" stop="20260410120000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410121500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410121500 +0300" stop="20260410122200 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410122200 +0300" stop="20260410123000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410124500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410124500 +0300" stop="20260410130000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410132000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410132000 +0300" stop="20260410132800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410132800 +0300" stop="20260410133000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410134500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410134500 +0300" stop="20260410140000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410141500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410143000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410144500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410144500 +0300" stop="20260410150000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410151500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410151500 +0300" stop="20260410153000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410154500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410154500 +0300" stop="20260410160000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410161500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410161500 +0300" stop="20260410163000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410170000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Арт и факти</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410172000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410172000 +0300" stop="20260410172800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410172800 +0300" stop="20260410173000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410174500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410174500 +0300" stop="20260410175700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410175700 +0300" stop="20260410180000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410190800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410190800 +0300" stop="20260410191000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410191000 +0300" stop="20260410192700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410192700 +0300" stop="20260410193000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410202000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410202000 +0300" stop="20260410202800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410202800 +0300" stop="20260410203000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410204500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410204500 +0300" stop="20260410205800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410205800 +0300" stop="20260410210000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410211500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410211500 +0300" stop="20260410212500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410212500 +0300" stop="20260410213000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410214500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410214500 +0300" stop="20260410220000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410221500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410221500 +0300" stop="20260410222500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410222500 +0300" stop="20260410223000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410223000 +0300" stop="20260410224500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410224500 +0300" stop="20260410230000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410231500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410231500 +0300" stop="20260410232500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260410233000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Код иновации</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410013000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410013000 +0300" stop="20260410020000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Авиошоу</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410043000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410063000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410090000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410103000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Очи в очи</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410110500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410110500 +0300" stop="20260410113500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410113500 +0300" stop="20260410120000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410140000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410143000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green с Роселина Петкова</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410150000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Чиста енергия</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410150500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410150500 +0300" stop="20260410153500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Блестящи идеи</title>
+</programme>
+<programme start="20260410153500 +0300" stop="20260410160000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410160500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410160500 +0300" stop="20260410170000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410170500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410170500 +0300" stop="20260410173000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Update</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410210000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green с Роселина Петкова</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
 </programme>
 </tv>
