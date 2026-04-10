@@ -4,6 +4,10 @@
 <display-name>BNT 1</display-name>
 <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" />
 </channel>
+<channel id="bnt2.bg">
+<display-name>BNT 2</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt2.png" />
+</channel>
 <programme start="20260410001500 +0300" stop="20260410015000 +0300" channel="bnt1.bg">
 <title lang="bg">100</title>
 </programme>
@@ -81,5 +85,125 @@
 </programme>
 <programme start="20260410222000 +0300" stop="20260410232000 +0300" channel="bnt1.bg">
 <title lang="bg">Невероятното странстване на Харолд Фрай</title>
+</programme>
+<programme start="20260410001500 +0300" stop="20260410003000 +0300" channel="bnt2.bg">
+<title lang="bg">Защо България?</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410011500 +0300" channel="bnt2.bg">
+<title lang="bg">Бразди</title>
+</programme>
+<programme start="20260410011500 +0300" stop="20260410013000 +0300" channel="bnt2.bg">
+<title lang="bg">Малки истории</title>
+</programme>
+<programme start="20260410013000 +0300" stop="20260410020000 +0300" channel="bnt2.bg">
+<title lang="bg">По света и у нас</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410024500 +0300" channel="bnt2.bg">
+<title lang="bg">Нашето място България</title>
+</programme>
+<programme start="20260410024500 +0300" stop="20260410031500 +0300" channel="bnt2.bg">
+<title lang="bg">Домът на вярата</title>
+</programme>
+<programme start="20260410031500 +0300" stop="20260410034500 +0300" channel="bnt2.bg">
+<title lang="bg">Знание. БГ</title>
+</programme>
+<programme start="20260410034500 +0300" stop="20260410044500 +0300" channel="bnt2.bg">
+<title lang="bg">Култура. БГ</title>
+</programme>
+<programme start="20260410044500 +0300" stop="20260410054500 +0300" channel="bnt2.bg">
+<title lang="bg">Последният печели</title>
+</programme>
+<programme start="20260410054500 +0300" stop="20260410060000 +0300" channel="bnt2.bg">
+<title lang="bg">Защо България?</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410063000 +0300" channel="bnt2.bg">
+<title lang="bg">Знание. БГ</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410071500 +0300" channel="bnt2.bg">
+<title lang="bg">Нашето място България</title>
+</programme>
+<programme start="20260410071500 +0300" stop="20260410073000 +0300" channel="bnt2.bg">
+<title lang="bg">Олтарите на България</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="bnt2.bg">
+<title lang="bg">Домът на вярата</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="bnt2.bg">
+<title lang="bg">България в 60 минути</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="bnt2.bg">
+<title lang="bg">Бързо, лесно, вкусно</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410100000 +0300" channel="bnt2.bg">
+<title lang="bg">Уча, зная и играя</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410102000 +0300" channel="bnt2.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410102000 +0300" stop="20260410103000 +0300" channel="bnt2.bg">
+<title lang="bg">Разкажи ми приказка</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="bnt2.bg">
+<title lang="bg">Натисни F1</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410111500 +0300" channel="bnt2.bg">
+<title lang="bg">Олтарите на България</title>
+</programme>
+<programme start="20260410111500 +0300" stop="20260410113000 +0300" channel="bnt2.bg">
+<title lang="bg">Край селската печка</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410120000 +0300" channel="bnt2.bg">
+<title lang="bg">Докато смъртта ни раздели</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="bnt2.bg">
+<title lang="bg">По света и у нас</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410131500 +0300" channel="bnt2.bg">
+<title lang="bg">Бразди</title>
+</programme>
+<programme start="20260410131500 +0300" stop="20260410133000 +0300" channel="bnt2.bg">
+<title lang="bg">Малки истории</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410140000 +0300" channel="bnt2.bg">
+<title lang="bg">Вечната музика</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="bnt2.bg">
+<title lang="bg">Рецепта за култура</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410161000 +0300" channel="bnt2.bg">
+<title lang="bg">Свети Паисий</title>
+</programme>
+<programme start="20260410161000 +0300" stop="20260410170000 +0300" channel="bnt2.bg">
+<title lang="bg">Имате среща с... Диана Любенова - Повторение.</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410173000 +0300" channel="bnt2.bg">
+<title lang="bg">Сърцето на Вележ</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410180000 +0300" channel="bnt2.bg">
+<title lang="bg">Завръщане към корените</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410193000 +0300" channel="bnt2.bg">
+<title lang="bg">Иконостасът</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410195000 +0300" channel="bnt2.bg">
+<title lang="bg">Олтарите на България</title>
+</programme>
+<programme start="20260410195000 +0300" stop="20260410200000 +0300" channel="bnt2.bg">
+<title lang="bg">Лека нощ, деца!</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410213000 +0300" channel="bnt2.bg">
+<title lang="bg">Свети Паисий</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="bnt2.bg">
+<title lang="bg">Домът на вярата</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="bnt2.bg">
+<title lang="bg">Й. С</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410233000 +0300" channel="bnt2.bg">
+<title lang="bg">По света и у нас</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="bnt2.bg">
+<title lang="bg">Домът на вярата</title>
 </programme>
 </tv>
