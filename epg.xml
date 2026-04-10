@@ -36,6 +36,214 @@
 <display-name>Bloomberg TV Bulgaria</display-name>
 <icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloombergtv.png" />
 </channel>
+<channel id="btvaction.bg">
+<display-name>bTV Action</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvaction.png" />
+</channel>
+<channel id="btvcinema.bg">
+<display-name>bTV Cinema</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvcinema.png" />
+</channel>
+<channel id="btvcomedy.bg">
+<display-name>bTV Comedy</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvcomedy.png" />
+</channel>
+<channel id="btvlady.bg">
+<display-name>bTV Lady</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/btvlady.png" />
+</channel>
+<channel id="diema.bg">
+<display-name>Diema</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diema.png" />
+</channel>
+<channel id="diemafamily.bg">
+<display-name>Diema Family</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemafamily.png" />
+</channel>
+<channel id="kinonova.bg">
+<display-name>Kino Nova</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/kinonova.png" />
+</channel>
+<channel id="novasport.bg">
+<display-name>Nova Sport</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novasport.png" />
+</channel>
+<channel id="ring.bg">
+<display-name>Ring BG</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/ring.png" />
+</channel>
+<channel id="discovery.bg">
+<display-name>Discovery Channel</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/discovery.png" />
+</channel>
+<channel id="natgeo.bg">
+<display-name>National Geographic</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/natgeo.png" />
+</channel>
+<channel id="natgeowild.bg">
+<display-name>Nat Geo Wild</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/natgeowild.png" />
+</channel>
+<channel id="viasatexplore.bg">
+<display-name>Viasat Explore</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/viasatexplore.png" />
+</channel>
+<channel id="tlc.bg">
+<display-name>TLC</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/tlc.png" />
+</channel>
+<channel id="id.bg">
+<display-name>Investigation Discovery</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/id.png" />
+</channel>
+<channel id="cartoonnetwork.bg">
+<display-name>Cartoon Network</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/cartoonnetwork.png" />
+</channel>
+<channel id="disney.bg">
+<display-name>Disney Channel</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/disney.png" />
+</channel>
+<channel id="nickelodeon.bg">
+<display-name>Nickelodeon</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nickelodeon.png" />
+</channel>
+<channel id="nickjr.bg">
+<display-name>Nick Jr.</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nickjr.png" />
+</channel>
+<channel id="nicktoons.bg">
+<display-name>Nicktoons</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/nicktoons.png" />
+</channel>
+<channel id="ekids.bg">
+<display-name>eKids</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/ekids.png" />
+</channel>
+<channel id="thevoice.bg">
+<display-name>The Voice</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/thevoice.png" />
+</channel>
+<channel id="citytv.bg">
+<display-name>City TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/citytv.png" />
+</channel>
+<channel id="planetafolk.bg">
+<display-name>Planeta Folk</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/planetafolk.png" />
+</channel>
+<channel id="tiankovfolk.bg">
+<display-name>Tiankov Folk</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/tiankovfolk.png" />
+</channel>
+<channel id="folklortv.bg">
+<display-name>Folklor TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/folklortv.png" />
+</channel>
+<channel id="24kitchen.bg">
+<display-name>24 Kitchen</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/24kitchen.png" />
+</channel>
+<channel id="travelchannel.bg">
+<display-name>Travel Channel</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/travelchannel.png" />
+</channel>
+<channel id="traveltv.bg">
+<display-name>Travel TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/traveltv.png" />
+</channel>
+<channel id="codefashion.bg">
+<display-name>Code Fashion TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/codefashion.png" />
+</channel>
+<channel id="rodina.bg">
+<display-name>Rodina TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/rodina.png" />
+</channel>
+<channel id="novanews.bg">
+<display-name>NOVA News</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/novanews.png" />
+</channel>
+<channel id="bloombergtv.bg">
+<display-name>Bloomberg TV Bulgaria</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bloombergtv.png" />
+</channel>
+<channel id="euronewsbulgaria.bg">
+<display-name>Euronews Bulgaria</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/euronewsbulgaria.png" />
+</channel>
+<channel id="eurocom.bg">
+<display-name>Eurocom</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurocom.png" />
+</channel>
+<channel id="vtk.bg">
+<display-name>VTK</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/vtk.png" />
+</channel>
+<channel id="skat.bg">
+<display-name>SKAT</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/skat.png" />
+</channel>
+<channel id="sedemosmi.bg">
+<display-name>7/8 TV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/78tv.png" />
+</channel>
+<channel id="diemasport.bg">
+<display-name>Diema Sport</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemasport.png" />
+</channel>
+<channel id="diemasport2.bg">
+<display-name>Diema Sport 2</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemasport2.png" />
+</channel>
+<channel id="diemasport3.bg">
+<display-name>Diema Sport 3</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/diemasport3.png" />
+</channel>
+<channel id="eurosport1.bg">
+<display-name>Eurosport 1</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurosport1.png" />
+</channel>
+<channel id="eurosport2.bg">
+<display-name>Eurosport 2</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/eurosport2.png" />
+</channel>
+<channel id="maxsport1.bg">
+<display-name>Max Sport 1</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/maxsport1.png" />
+</channel>
+<channel id="maxsport2.bg">
+<display-name>Max Sport 2</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/maxsport2.png" />
+</channel>
+<channel id="maxsport3.bg">
+<display-name>Max Sport 3</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/maxsport3.png" />
+</channel>
+<channel id="maxsport4.bg">
+<display-name>Max Sport 4</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/maxsport4.png" />
+</channel>
+<channel id="axn.bg">
+<display-name>AXN</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axn.png" />
+</channel>
+<channel id="axnblack.bg">
+<display-name>AXN Black</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axnblack.png" />
+</channel>
+<channel id="axnwhite.bg">
+<display-name>AXN White</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/axnwhite.png" />
+</channel>
+<channel id="epicdrama.bg">
+<display-name>Epic Drama</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/epicdrama.png" />
+</channel>
+<channel id="dstv.bg">
+<display-name>DSTV</display-name>
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/dstv.png" />
+</channel>
 <programme start="20260410001500 +0300" stop="20260410015000 +0300" channel="bnt1.bg">
 <title lang="bg">100</title>
 </programme>
@@ -947,5 +1155,3671 @@
 </programme>
 <programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="bloombergtv.bg">
 <title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410003000 +0300" channel="btvaction.bg">
+<title lang="bg">УЕФА Лига Европа</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410010000 +0300" channel="btvaction.bg">
+<title lang="bg">УЕФА Лига Европа</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410033000 +0300" channel="btvaction.bg">
+<title lang="bg">Пеперудата</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410041500 +0300" channel="btvaction.bg">
+<title lang="bg">Разобличаване</title>
+</programme>
+<programme start="20260410041500 +0300" stop="20260410051500 +0300" channel="btvaction.bg">
+<title lang="bg">Престъпления без граници</title>
+</programme>
+<programme start="20260410051500 +0300" stop="20260410060000 +0300" channel="btvaction.bg">
+<title lang="bg">Хуберт и Щалер</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410063000 +0300" channel="btvaction.bg">
+<title lang="bg">История на автомобилите</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="btvaction.bg">
+<title lang="bg">История на автомобилите</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="btvaction.bg">
+<title lang="bg">В дивата пустош с Беър Грилс</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="btvaction.bg">
+<title lang="bg">Престъпления без граници</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="btvaction.bg">
+<title lang="bg">Хуберт и Щалер</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="btvaction.bg">
+<title lang="bg">Разобличаване</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410124500 +0300" channel="btvaction.bg">
+<title lang="bg">Леден капан</title>
+</programme>
+<programme start="20260410124500 +0300" stop="20260410150000 +0300" channel="btvaction.bg">
+<title lang="bg">Критична точка</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="btvaction.bg">
+<title lang="bg">Хуберт и Щалер</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="btvaction.bg">
+<title lang="bg">Фауда</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="btvaction.bg">
+<title lang="bg">Престъпления без граници</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="btvaction.bg">
+<title lang="bg">Разобличаване</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="btvaction.bg">
+<title lang="bg">Чистачката</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="btvaction.bg">
+<title lang="bg">Извън играта</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="btvaction.bg">
+<title lang="bg">Хавай 5-0</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="btvaction.bg">
+<title lang="bg">Джон Уик</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410060000 +0300" channel="btvcinema.bg">
+<title lang="bg">Моето лято в Прованс</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410070000 +0300" channel="btvcinema.bg">
+<title lang="bg">Спасители на плажа: Хавай</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="btvcinema.bg">
+<title lang="bg">Ривърдейл</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410101500 +0300" channel="btvcinema.bg">
+<title lang="bg">Дъщерята на генерала</title>
+</programme>
+<programme start="20260410101500 +0300" stop="20260410103000 +0300" channel="btvcinema.bg">
+<title lang="bg">На фокус</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410113000 +0300" channel="btvcinema.bg">
+<title lang="bg">Спасители на плажа: Хавай</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410123000 +0300" channel="btvcinema.bg">
+<title lang="bg">Спасители на плажа: Хавай</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410143000 +0300" channel="btvcinema.bg">
+<title lang="bg">Скатавки</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410153000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410163000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410190000 +0300" channel="btvcinema.bg">
+<title lang="bg">Бандата на Оушън 2</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="btvcinema.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410231500 +0300" channel="btvcinema.bg">
+<title lang="bg">Колумбиана</title>
+</programme>
+<programme start="20260410231500 +0300" stop="20260411001500 +0300" channel="btvcinema.bg">
+<title lang="bg">Стокхолм</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410020000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Бавачката Макфий</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410033000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410040000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Столичани в повече</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410053000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410060000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410063000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="btvcomedy.bg">
+<title lang="bg">По средата</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410083000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410090000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Столичани в повече</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410120000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Alibi. com</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Без пукната пара</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410130000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Без пукната пара</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410133000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410140000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410143000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Двама мъже и половина</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410150000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Двама мъже и половина</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410163000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Щурите съседи</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410170000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Ало, ало</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Колко ми даваш?</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410183000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Приятели</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410203000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Щурите съседи</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410210000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Ало, ало</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Семейство Голдбърг</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410223000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Без пукната пара</title>
+</programme>
+<programme start="20260410223000 +0300" stop="20260410230000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Без пукната пара</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410233000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Двама мъже и половина</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="btvcomedy.bg">
+<title lang="bg">Двама мъже и половина</title>
+</programme>
+<programme start="20260410004000 +0300" stop="20260410011000 +0300" channel="btvlady.bg">
+<title lang="bg">Ослепително слънце</title>
+</programme>
+<programme start="20260410011000 +0300" stop="20260410015000 +0300" channel="btvlady.bg">
+<title lang="bg">Ослепително слънце</title>
+</programme>
+<programme start="20260410015000 +0300" stop="20260410031000 +0300" channel="btvlady.bg">
+<title lang="bg">Златно момче</title>
+</programme>
+<programme start="20260410031000 +0300" stop="20260410042000 +0300" channel="btvlady.bg">
+<title lang="bg">Златно момче</title>
+</programme>
+<programme start="20260410042000 +0300" stop="20260410051000 +0300" channel="btvlady.bg">
+<title lang="bg">Семейството</title>
+</programme>
+<programme start="20260410051000 +0300" stop="20260410060000 +0300" channel="btvlady.bg">
+<title lang="bg">Кървави цветя</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410073000 +0300" channel="btvlady.bg">
+<title lang="bg">Златно момче</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410090000 +0300" channel="btvlady.bg">
+<title lang="bg">Златно момче</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410103000 +0300" channel="btvlady.bg">
+<title lang="bg">Лейля: Любов и справедливост</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410113000 +0300" channel="btvlady.bg">
+<title lang="bg">Моят прекрасен живот</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410130000 +0300" channel="btvlady.bg">
+<title lang="bg">Пазителят на съкровищата</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="btvlady.bg">
+<title lang="bg">Скъпа мамо</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="btvlady.bg">
+<title lang="bg">Винченцо Малинконико</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="btvlady.bg">
+<title lang="bg">Хари Уайлд</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="btvlady.bg">
+<title lang="bg">Моите братя и сестри</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="btvlady.bg">
+<title lang="bg">Кървави цветя</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="btvlady.bg">
+<title lang="bg">Семейството</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="btvlady.bg">
+<title lang="bg">Моят прекрасен живот</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410213000 +0300" channel="btvlady.bg">
+<title lang="bg">Лейля: Любов и справедливост</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410223000 +0300" channel="btvlady.bg">
+<title lang="bg">Падението на краля</title>
+</programme>
+<programme start="20260410223000 +0300" stop="20260410233000 +0300" channel="btvlady.bg">
+<title lang="bg">Скъпа мамо</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="btvlady.bg">
+<title lang="bg">Пазителят на съкровищата</title>
+</programme>
+<programme start="20260410001500 +0300" stop="20260410011500 +0300" channel="diema.bg">
+<title lang="bg">Йелоустоун</title>
+</programme>
+<programme start="20260410011500 +0300" stop="20260410021500 +0300" channel="diema.bg">
+<title lang="bg">Снайперист</title>
+</programme>
+<programme start="20260410021500 +0300" stop="20260410041500 +0300" channel="diema.bg">
+<title lang="bg">Еротичен телепазар</title>
+</programme>
+<programme start="20260410041500 +0300" stop="20260410050000 +0300" channel="diema.bg">
+<title lang="bg">Снайперист</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410060000 +0300" channel="diema.bg">
+<title lang="bg">Синя кръв</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410064500 +0300" channel="diema.bg">
+<title lang="bg">Синя кръв</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410074500 +0300" channel="diema.bg">
+<title lang="bg">Кобра 11: Обади се</title>
+</programme>
+<programme start="20260410074500 +0300" stop="20260410084500 +0300" channel="diema.bg">
+<title lang="bg">Кобра 11: Обади се</title>
+</programme>
+<programme start="20260410084500 +0300" stop="20260410100000 +0300" channel="diema.bg">
+<title lang="bg">Престъпни намерения</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="diema.bg">
+<title lang="bg">Синя кръв</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="diema.bg">
+<title lang="bg">Синя кръв</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="diema.bg">
+<title lang="bg">Кобра 11: Обади се</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="diema.bg">
+<title lang="bg">Кобра 11: Обади се</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="diema.bg">
+<title lang="bg">Специален отряд</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="diema.bg">
+<title lang="bg">Специален отряд</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="diema.bg">
+<title lang="bg">Престъпни намерения</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="diema.bg">
+<title lang="bg">Престъпни намерения</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="diema.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="diema.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="diema.bg">
+<title lang="bg">Магнум</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="diema.bg">
+<title lang="bg">Магнум</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="diema.bg">
+<title lang="bg">Бари Сийл: Наркотрафикантът</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="diemafamily.bg">
+<title lang="bg">Последно лято</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="diemafamily.bg">
+<title lang="bg">Твоят мой живот</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410040000 +0300" channel="diemafamily.bg">
+<title lang="bg">Еротичен телепазар</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="diemafamily.bg">
+<title lang="bg">Лабиринт към щастието</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410054500 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410054500 +0300" stop="20260410064500 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410074500 +0300" channel="diemafamily.bg">
+<title lang="bg">Лабиринт към щастието</title>
+</programme>
+<programme start="20260410074500 +0300" stop="20260410090000 +0300" channel="diemafamily.bg">
+<title lang="bg">Наследство</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="diemafamily.bg">
+<title lang="bg">Преплетени съдби</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="diemafamily.bg">
+<title lang="bg">Моето име е Мелек</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="diemafamily.bg">
+<title lang="bg">Имало едно време в Чукурова</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="diemafamily.bg">
+<title lang="bg">Шербет от боровинки</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="diemafamily.bg">
+<title lang="bg">Твоят мой живот</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="diemafamily.bg">
+<title lang="bg">Моето име е Мелек</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="diemafamily.bg">
+<title lang="bg">Завинаги</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="diemafamily.bg">
+<title lang="bg">Преплетени съдби</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="diemafamily.bg">
+<title lang="bg">Последно лято</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="diemafamily.bg">
+<title lang="bg">Имало едно време в Чукурова</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="diemafamily.bg">
+<title lang="bg">Шербет от боровинки</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="diemafamily.bg">
+<title lang="bg">Лабиринт към щастието</title>
+</programme>
+<programme start="20260410012000 +0300" stop="20260410040000 +0300" channel="kinonova.bg">
+<title lang="bg">Отвъд надеждата</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="kinonova.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410061000 +0300" channel="kinonova.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410061000 +0300" stop="20260410071000 +0300" channel="kinonova.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410071000 +0300" stop="20260410081000 +0300" channel="kinonova.bg">
+<title lang="bg">Монк</title>
+</programme>
+<programme start="20260410081000 +0300" stop="20260410101500 +0300" channel="kinonova.bg">
+<title lang="bg">Сърца във вятъра</title>
+</programme>
+<programme start="20260410101500 +0300" stop="20260410111500 +0300" channel="kinonova.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410111500 +0300" stop="20260410133000 +0300" channel="kinonova.bg">
+<title lang="bg">Хвани и пусни</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410140000 +0300" channel="kinonova.bg">
+<title lang="bg">В кадър</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410162500 +0300" channel="kinonova.bg">
+<title lang="bg">Терминатор: Спасение</title>
+</programme>
+<programme start="20260410162500 +0300" stop="20260410190000 +0300" channel="kinonova.bg">
+<title lang="bg">Нотинг Хил</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="kinonova.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210100 +0300" channel="kinonova.bg">
+<title lang="bg">От местопрестъплението</title>
+</programme>
+<programme start="20260410210100 +0300" stop="20260410230000 +0300" channel="kinonova.bg">
+<title lang="bg">Умирай трудно: Денят настъпи</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="kinonova.bg">
+<title lang="bg">Грозната истина</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410093000 +0300" channel="novasport.bg">
+<title lang="bg">Еротичен Телепазар</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410113000 +0300" channel="novasport.bg">
+<title lang="bg">Лил - Ланс</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410133000 +0300" channel="novasport.bg">
+<title lang="bg">ПАОК - Панатинайкос</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410200000 +0300" channel="novasport.bg">
+<title lang="bg">ЮС Мастърс Ден 1</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="novasport.bg">
+<title lang="bg">ЮС Мастърс Ден 2</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410020000 +0300" channel="ring.bg">
+<title lang="bg">Порто - Нотингам Форест</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="ring.bg">
+<title lang="bg">Брага - Бетис</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="discovery.bg">
+<title lang="bg">Американски картел</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="discovery.bg">
+<title lang="bg">Скоростно преследване</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="discovery.bg">
+<title lang="bg">Американски чопър</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="discovery.bg">
+<title lang="bg">Мръсни богатства</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410043000 +0300" channel="discovery.bg">
+<title lang="bg">Битки за багаж</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410050000 +0300" channel="discovery.bg">
+<title lang="bg">Битки за багаж</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410060000 +0300" channel="discovery.bg">
+<title lang="bg">Да продадеш колата си</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410070000 +0300" channel="discovery.bg">
+<title lang="bg">Ловци на трофеи</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="discovery.bg">
+<title lang="bg">Да продадеш колата си - обиколка по света</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="discovery.bg">
+<title lang="bg">Да продадеш колата си - обиколка по света</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="discovery.bg">
+<title lang="bg">Как се прави</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410100000 +0300" channel="discovery.bg">
+<title lang="bg">Как са го направили?</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="discovery.bg">
+<title lang="bg">Ловци на трофеи</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410113000 +0300" channel="discovery.bg">
+<title lang="bg">Спасители на имущество</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410120000 +0300" channel="discovery.bg">
+<title lang="bg">Спасители на имущество</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="discovery.bg">
+<title lang="bg">Ловци на плажове</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410130000 +0300" channel="discovery.bg">
+<title lang="bg">Ловци на плажове</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="discovery.bg">
+<title lang="bg">Да продадеш колата си</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="discovery.bg">
+<title lang="bg">Да продадеш колата си</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="discovery.bg">
+<title lang="bg">Избавлението на чифлика</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="discovery.bg">
+<title lang="bg">Избавлението на чифлика</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="discovery.bg">
+<title lang="bg">Братята Дизел</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="discovery.bg">
+<title lang="bg">Колите мечта на Робърт Дауни Джуниър</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="discovery.bg">
+<title lang="bg">Как са го направили?</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="discovery.bg">
+<title lang="bg">Как се прави</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410203000 +0300" channel="discovery.bg">
+<title lang="bg">Граничен контрол</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410210000 +0300" channel="discovery.bg">
+<title lang="bg">Граничен контрол</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="discovery.bg">
+<title lang="bg">Граничен контрол</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="discovery.bg">
+<title lang="bg">Граничен контрол</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="discovery.bg">
+<title lang="bg">Граничен контрол</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="discovery.bg">
+<title lang="bg">По време на ареста</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410005000 +0300" channel="natgeo.bg">
+<title lang="bg">Наркотици ООД</title>
+</programme>
+<programme start="20260410005000 +0300" stop="20260410013500 +0300" channel="natgeo.bg">
+<title lang="bg">Хитлер</title>
+</programme>
+<programme start="20260410013500 +0300" stop="20260410021500 +0300" channel="natgeo.bg">
+<title lang="bg">Хитлер</title>
+</programme>
+<programme start="20260410021500 +0300" stop="20260410024000 +0300" channel="natgeo.bg">
+<title lang="bg">Господари на войната</title>
+</programme>
+<programme start="20260410024000 +0300" stop="20260410032500 +0300" channel="natgeo.bg">
+<title lang="bg">Трафиканти с Мариана ван Зелер</title>
+</programme>
+<programme start="20260410032500 +0300" stop="20260410041000 +0300" channel="natgeo.bg">
+<title lang="bg">Трафиканти с Мариана ван Зелер</title>
+</programme>
+<programme start="20260410041000 +0300" stop="20260410045500 +0300" channel="natgeo.bg">
+<title lang="bg">Спасителен отряд в ада</title>
+</programme>
+<programme start="20260410045500 +0300" stop="20260410053500 +0300" channel="natgeo.bg">
+<title lang="bg">Спасителен отряд в ада</title>
+</programme>
+<programme start="20260410053500 +0300" stop="20260410060000 +0300" channel="natgeo.bg">
+<title lang="bg">Фабрика за храна САЩ</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410062000 +0300" channel="natgeo.bg">
+<title lang="bg">Господари на войната</title>
+</programme>
+<programme start="20260410062000 +0300" stop="20260410070000 +0300" channel="natgeo.bg">
+<title lang="bg">Изгубено и намерено на летищата</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="natgeo.bg">
+<title lang="bg">Сервиз SOS</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410085000 +0300" channel="natgeo.bg">
+<title lang="bg">Сервиз SOS</title>
+</programme>
+<programme start="20260410085000 +0300" stop="20260410090500 +0300" channel="natgeo.bg">
+<title lang="bg">Теория на глупостта</title>
+</programme>
+<programme start="20260410090500 +0300" stop="20260410100000 +0300" channel="natgeo.bg">
+<title lang="bg">Оцеляване в Нортуудс</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410104500 +0300" channel="natgeo.bg">
+<title lang="bg">Най-доброто от световните дестинации</title>
+</programme>
+<programme start="20260410104500 +0300" stop="20260410110500 +0300" channel="natgeo.bg">
+<title lang="bg">Фабрика за храна САЩ</title>
+</programme>
+<programme start="20260410110500 +0300" stop="20260410120000 +0300" channel="natgeo.bg">
+<title lang="bg">Аляска</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="natgeo.bg">
+<title lang="bg">Аляска</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="natgeo.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="natgeo.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="natgeo.bg">
+<title lang="bg">Изгубените градове с Албърт Лин</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="natgeo.bg">
+<title lang="bg">Изоставени конструкции</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="natgeo.bg">
+<title lang="bg">Да заловиш контрабандист</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="natgeo.bg">
+<title lang="bg">Сервиз SOS</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="natgeo.bg">
+<title lang="bg">Втората световна война</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="natgeo.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="natgeo.bg">
+<title lang="bg">Изоставени конструкции</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="natgeo.bg">
+<title lang="bg">Изоставени конструкции</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="natgeo.bg">
+<title lang="bg">Наркотици ООД</title>
+</programme>
+<programme start="20260410001500 +0300" stop="20260410010500 +0300" channel="natgeowild.bg">
+<title lang="bg">Хрониките на косатките</title>
+</programme>
+<programme start="20260410010500 +0300" stop="20260410015500 +0300" channel="natgeowild.bg">
+<title lang="bg">Тайните на пчелите</title>
+</programme>
+<programme start="20260410015500 +0300" stop="20260410023500 +0300" channel="natgeowild.bg">
+<title lang="bg">Скритите чудеса на зимата</title>
+</programme>
+<programme start="20260410023500 +0300" stop="20260410032000 +0300" channel="natgeowild.bg">
+<title lang="bg">Скритите чудеса на зимата</title>
+</programme>
+<programme start="20260410032000 +0300" stop="20260410041000 +0300" channel="natgeowild.bg">
+<title lang="bg">Зимата на мечката</title>
+</programme>
+<programme start="20260410041000 +0300" stop="20260410045000 +0300" channel="natgeowild.bg">
+<title lang="bg">Тайните на октопода</title>
+</programme>
+<programme start="20260410045000 +0300" stop="20260410051500 +0300" channel="natgeowild.bg">
+<title lang="bg">Владенията на прерийните кучета</title>
+</programme>
+<programme start="20260410051500 +0300" stop="20260410054000 +0300" channel="natgeowild.bg">
+<title lang="bg">Владенията на прерийните кучета</title>
+</programme>
+<programme start="20260410054000 +0300" stop="20260410060000 +0300" channel="natgeowild.bg">
+<title lang="bg">Изпитания на дивата природа</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410062000 +0300" channel="natgeowild.bg">
+<title lang="bg">Владенията на прерийните кучета</title>
+</programme>
+<programme start="20260410062000 +0300" stop="20260410064500 +0300" channel="natgeowild.bg">
+<title lang="bg">Владенията на прерийните кучета</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410073000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410081500 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивият Виетнам</title>
+</programme>
+<programme start="20260410081500 +0300" stop="20260410090000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410095000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410095000 +0300" stop="20260410103500 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивият Виетнам</title>
+</programme>
+<programme start="20260410103500 +0300" stop="20260410112500 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивите Хавайски острови</title>
+</programme>
+<programme start="20260410112500 +0300" stop="20260410121000 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивите Хавайски острови</title>
+</programme>
+<programme start="20260410121000 +0300" stop="20260410130000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410135000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410135000 +0300" stop="20260410144000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410144000 +0300" stop="20260410153000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410162000 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410162000 +0300" stop="20260410170500 +0300" channel="natgeowild.bg">
+<title lang="bg">Невероятният д-р Пол</title>
+</programme>
+<programme start="20260410170500 +0300" stop="20260410180000 +0300" channel="natgeowild.bg">
+<title lang="bg">Невероятният д-р Пол</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410185500 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивите тайни на Азия</title>
+</programme>
+<programme start="20260410185500 +0300" stop="20260410195000 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивите тайни на Азия</title>
+</programme>
+<programme start="20260410195000 +0300" stop="20260410204500 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410204500 +0300" stop="20260410214000 +0300" channel="natgeowild.bg">
+<title lang="bg">Дивите тайни на Азия</title>
+</programme>
+<programme start="20260410214000 +0300" stop="20260410223500 +0300" channel="natgeowild.bg">
+<title lang="bg">Невероятният д-р Пол</title>
+</programme>
+<programme start="20260410223500 +0300" stop="20260410232500 +0300" channel="natgeowild.bg">
+<title lang="bg">Невероятният д-р Пол</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260411002500 +0300" channel="natgeowild.bg">
+<title lang="bg">Опасното царство на Африка</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Търсачи на коли в Австралия</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410055500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Тираджии в пустошта</title>
+</programme>
+<programme start="20260410055500 +0300" stop="20260410070000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Тираджии в пустошта</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410081000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Тайната на чудовищните вълни</title>
+</programme>
+<programme start="20260410081000 +0300" stop="20260410090500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Златото на Юкон</title>
+</programme>
+<programme start="20260410090500 +0300" stop="20260410100000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Каубои в студени води</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410111000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410111000 +0300" stop="20260410121000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410121000 +0300" stop="20260410130500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410130500 +0300" stop="20260410140500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски ловци на омари</title>
+</programme>
+<programme start="20260410140500 +0300" stop="20260410150500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410150500 +0300" stop="20260410160000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Разследване на самолетни катастрофи</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410181000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Невъзможни железопътни линии</title>
+</programme>
+<programme start="20260410181000 +0300" stop="20260410190500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Битки за злато в Австралия</title>
+</programme>
+<programme start="20260410190500 +0300" stop="20260410200500 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410200500 +0300" stop="20260410210000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Австралийски търсачи на злато</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Титани на дърводобива</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="viasatexplore.bg">
+<title lang="bg">Каубои в студени води</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="tlc.bg">
+<title lang="bg">Помощ! У дома има призраци</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="tlc.bg">
+<title lang="bg">За кого (по дяволите) се ожених?</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="tlc.bg">
+<title lang="bg">Kлиника за лоша кожа</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410035000 +0300" channel="tlc.bg">
+<title lang="bg">Опасно затлъстели</title>
+</programme>
+<programme start="20260410035000 +0300" stop="20260410044000 +0300" channel="tlc.bg">
+<title lang="bg">Kлиника за лоша кожа</title>
+</programme>
+<programme start="20260410044000 +0300" stop="20260410053000 +0300" channel="tlc.bg">
+<title lang="bg">Многоженецът</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410063000 +0300" channel="tlc.bg">
+<title lang="bg">Малки хора - свят голям</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="tlc.bg">
+<title lang="bg">Кажете ДА на булчинската рокля - Великобритания</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="tlc.bg">
+<title lang="bg">Многоженецът</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="tlc.bg">
+<title lang="bg">Моят голям</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="tlc.bg">
+<title lang="bg">90 дни до сватбата</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="tlc.bg">
+<title lang="bg">Полигамно семейство</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="tlc.bg">
+<title lang="bg">Изведнъж станах амиш</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="tlc.bg">
+<title lang="bg">Малки хора - свят голям</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="tlc.bg">
+<title lang="bg">Многоженецът</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="tlc.bg">
+<title lang="bg">Шестзнаците вкъщи</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410170000 +0300" channel="tlc.bg">
+<title lang="bg">90 дни до сватбата</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="tlc.bg">
+<title lang="bg">Моят голям</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="tlc.bg">
+<title lang="bg">90 дни до сватбата</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="tlc.bg">
+<title lang="bg">Малки хора - свят голям</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410203000 +0300" channel="tlc.bg">
+<title lang="bg">Истински истории за изневяра</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410210000 +0300" channel="tlc.bg">
+<title lang="bg">Истински истории за изневяра</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="tlc.bg">
+<title lang="bg">Клиника за наднормено тегло в Италия</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="tlc.bg">
+<title lang="bg">Различни лица</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="tlc.bg">
+<title lang="bg">Костите ми изчезват</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="id.bg">
+<title lang="bg">Федерални агенти</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="id.bg">
+<title lang="bg">С камера на ревера</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="id.bg">
+<title lang="bg">Пола Зан разглежда случая</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="id.bg">
+<title lang="bg">Разследванията на списание "Пийпъл, сез.1, еп.7 - Серийният убиец от Лонг Айлънд, първа част: изгубените момичета, 2016....</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="id.bg">
+<title lang="bg">Добро ченге, лошо ченге</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410060000 +0300" channel="id.bg">
+<title lang="bg">Изключителна криминалистика</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410070000 +0300" channel="id.bg">
+<title lang="bg">Изключителна криминалистика</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="id.bg">
+<title lang="bg">Хванати в мрежата</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="id.bg">
+<title lang="bg">Хванати в мрежата</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="id.bg">
+<title lang="bg">Истински ужас</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="id.bg">
+<title lang="bg">Истински ужас</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="id.bg">
+<title lang="bg">Добро ченге, лошо ченге</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="id.bg">
+<title lang="bg">Добро ченге, лошо ченге</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="id.bg">
+<title lang="bg">С камера на ревера</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="id.bg">
+<title lang="bg">С камера на ревера</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="id.bg">
+<title lang="bg">Поверително от местопрестъплението</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="id.bg">
+<title lang="bg">Поверително от местопрестъплението</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="id.bg">
+<title lang="bg">Под прикритие</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="id.bg">
+<title lang="bg">Под прикритие</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="id.bg">
+<title lang="bg">Изчезнали</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="id.bg">
+<title lang="bg">Изчезнали</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="id.bg">
+<title lang="bg">Разследванията на списание "Пийпъл, сез.1, еп.8 - Хижа 28: Ужасът в гората, 2016. Майка и трима тийнейджъри са убити в...</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="id.bg">
+<title lang="bg">В търсене на изчезнали: Чикаго</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="id.bg">
+<title lang="bg">Руби и Джоди: Култ на грях и влияние</title>
+</programme>
+<programme start="20260410000500 +0300" stop="20260410002500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410002500 +0300" stop="20260410003500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410003500 +0300" stop="20260410005000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410005000 +0300" stop="20260410011000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410011000 +0300" stop="20260410012500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410012500 +0300" stop="20260410013500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410013500 +0300" stop="20260410015000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410015000 +0300" stop="20260410020000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410021000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410021000 +0300" stop="20260410022500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410022500 +0300" stop="20260410023500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410023500 +0300" stop="20260410024500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410024500 +0300" stop="20260410025500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410025500 +0300" stop="20260410030500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410030500 +0300" stop="20260410031500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410031500 +0300" stop="20260410032500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410032500 +0300" stop="20260410033500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410033500 +0300" stop="20260410035000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410035000 +0300" stop="20260410040000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410041000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410041000 +0300" stop="20260410042000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410042000 +0300" stop="20260410043000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410044000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410044000 +0300" stop="20260410045000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410045000 +0300" stop="20260410050500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410050500 +0300" stop="20260410051500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410051500 +0300" stop="20260410052500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410052500 +0300" stop="20260410053500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410053500 +0300" stop="20260410054500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410054500 +0300" stop="20260410060000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410061000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410061000 +0300" stop="20260410063000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410064000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410064000 +0300" stop="20260410065500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410065500 +0300" stop="20260410070500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410070500 +0300" stop="20260410072500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410072500 +0300" stop="20260410073500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410073500 +0300" stop="20260410075500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410075500 +0300" stop="20260410080500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410080500 +0300" stop="20260410082500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410082500 +0300" stop="20260410083500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410083500 +0300" stop="20260410085000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410085000 +0300" stop="20260410090000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410091500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410091500 +0300" stop="20260410092500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410092500 +0300" stop="20260410094500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410094500 +0300" stop="20260410095500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Лана Лонгбиърд</title>
+</programme>
+<programme start="20260410095500 +0300" stop="20260410101000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Лана Лонгбиърд</title>
+</programme>
+<programme start="20260410101000 +0300" stop="20260410102000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410102000 +0300" stop="20260410104000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410104000 +0300" stop="20260410105000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410105000 +0300" stop="20260410110000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410112000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410112000 +0300" stop="20260410113000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410114500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410114500 +0300" stop="20260410115500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410115500 +0300" stop="20260410121500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Като козите</title>
+</programme>
+<programme start="20260410121500 +0300" stop="20260410122500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410122500 +0300" stop="20260410124000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410124000 +0300" stop="20260410125000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410125000 +0300" stop="20260410131000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410131000 +0300" stop="20260410132000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410132000 +0300" stop="20260410133500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410133500 +0300" stop="20260410134500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410134500 +0300" stop="20260410135500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410135500 +0300" stop="20260410141500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Крейг край реката</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410142500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410142500 +0300" stop="20260410144000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410144000 +0300" stop="20260410145000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410145000 +0300" stop="20260410150000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410151000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410151000 +0300" stop="20260410152500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410152500 +0300" stop="20260410153500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410153500 +0300" stop="20260410155500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410155500 +0300" stop="20260410160500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410160500 +0300" stop="20260410162000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410162000 +0300" stop="20260410163000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410165000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410165000 +0300" stop="20260410170000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410172000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Като козите</title>
+</programme>
+<programme start="20260410172000 +0300" stop="20260410173000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410174500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Кларънс</title>
+</programme>
+<programme start="20260410174500 +0300" stop="20260410175500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Време за приключения</title>
+</programme>
+<programme start="20260410175500 +0300" stop="20260410181000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Време за приключения</title>
+</programme>
+<programme start="20260410181000 +0300" stop="20260410182500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410182500 +0300" stop="20260410184000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410184000 +0300" stop="20260410185000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410185000 +0300" stop="20260410190000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410191000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410191000 +0300" stop="20260410193000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410194000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410194000 +0300" stop="20260410200000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410201000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410201000 +0300" stop="20260410202500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Невероятният свят на Гъмбол</title>
+</programme>
+<programme start="20260410202500 +0300" stop="20260410203500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410203500 +0300" stop="20260410205500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Великолепният чуден свят на Гъмбол</title>
+</programme>
+<programme start="20260410205500 +0300" stop="20260410210500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410210500 +0300" stop="20260410211500 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410211500 +0300" stop="20260410213000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Малки Титани: В готовност</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410223000 +0300" channel="cartoonnetwork.bg">
+<title lang="bg">Време за приключения</title>
+</programme>
+<programme start="20260410003200 +0300" stop="20260410011000 +0300" channel="disney.bg">
+<title lang="bg">Биа</title>
+</programme>
+<programme start="20260410011000 +0300" stop="20260410012300 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Без боя няма печалба. Когато лейди Бърлингтън се нуждае от официалния си...</title>
+</programme>
+<programme start="20260410012300 +0300" stop="20260410013600 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Къща от лъжи. Градът винаги е почитал прапрадядото на близнаците Смит...</title>
+</programme>
+<programme start="20260410013600 +0300" stop="20260410014800 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Детска игра. Екипът на "Готините" - познати още като момиче, сирене и...</title>
+</programme>
+<programme start="20260410014800 +0300" stop="20260410015900 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Буболечки приятели. Кучето е нападнато от бълхи, но това е напълно...</title>
+</programme>
+<programme start="20260410015900 +0300" stop="20260410022100 +0300" channel="disney.bg">
+<title lang="bg">Пилоти на дронове</title>
+</programme>
+<programme start="20260410022100 +0300" stop="20260410024300 +0300" channel="disney.bg">
+<title lang="bg">Пилоти на дронове</title>
+</programme>
+<programme start="20260410024300 +0300" stop="20260410030500 +0300" channel="disney.bg">
+<title lang="bg">Пилоти на дронове</title>
+</programme>
+<programme start="20260410030500 +0300" stop="20260410032700 +0300" channel="disney.bg">
+<title lang="bg">Дисни Къщатата на совите</title>
+</programme>
+<programme start="20260410032700 +0300" stop="20260410034800 +0300" channel="disney.bg">
+<title lang="bg">Дисни Къщатата на совите</title>
+</programme>
+<programme start="20260410034800 +0300" stop="20260410041000 +0300" channel="disney.bg">
+<title lang="bg">Дисни Къщатата на совите</title>
+</programme>
+<programme start="20260410041000 +0300" stop="20260410043200 +0300" channel="disney.bg">
+<title lang="bg">Амфибии</title>
+</programme>
+<programme start="20260410043200 +0300" stop="20260410045300 +0300" channel="disney.bg">
+<title lang="bg">Амфибии</title>
+</programme>
+<programme start="20260410045300 +0300" stop="20260410051500 +0300" channel="disney.bg">
+<title lang="bg">Амфибии</title>
+</programme>
+<programme start="20260410051500 +0300" stop="20260410052600 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Мулти Мишле. След като е изключен от семейните игри, Мишле решава да си...</title>
+</programme>
+<programme start="20260410052600 +0300" stop="20260410053700 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Феята Гауда. След като я наричат егоист, Сиренце решава да се научи как...</title>
+</programme>
+<programme start="20260410053700 +0300" stop="20260410054800 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Клуб "Братя". След като виждат как Коте и Шарлот си правят въображаеми...</title>
+</programme>
+<programme start="20260410054800 +0300" stop="20260410060000 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Проект "Гъркин". Когато Момиче и Кей Джем виждат, че Гъркин плаче, защото...</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410061100 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Инцидентът с цветята. Цветята на г-жа Родригес са нейната гордост и...</title>
+</programme>
+<programme start="20260410061100 +0300" stop="20260410062500 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Горещ съвет. Първият ден на летния фестивал е утре, а Сирене планира да...</title>
+</programme>
+<programme start="20260410062500 +0300" stop="20260410063600 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Играй го спокойно. Убеден, че Момчето е забравило за него, съсипаното...</title>
+</programme>
+<programme start="20260410063600 +0300" stop="20260410065100 +0300" channel="disney.bg">
+<title lang="bg">Момче, момиче и т. н - Без боя няма печалба. Когато лейди Бърлингтън се нуждае от официалния си...</title>
+</programme>
+<programme start="20260410065100 +0300" stop="20260410071800 +0300" channel="disney.bg">
+<title lang="bg">ФИНИЪС И ФЪРБ</title>
+</programme>
+<programme start="20260410071800 +0300" stop="20260410074600 +0300" channel="disney.bg">
+<title lang="bg">ФИНИЪС И ФЪРБ</title>
+</programme>
+<programme start="20260410074600 +0300" stop="20260410081300 +0300" channel="disney.bg">
+<title lang="bg">Големият град на Грийнс</title>
+</programme>
+<programme start="20260410081300 +0300" stop="20260410084100 +0300" channel="disney.bg">
+<title lang="bg">Големият град на Грийнс</title>
+</programme>
+<programme start="20260410084100 +0300" stop="20260410090800 +0300" channel="disney.bg">
+<title lang="bg">Големият град на Грийнс</title>
+</programme>
+<programme start="20260410090800 +0300" stop="20260410093600 +0300" channel="disney.bg">
+<title lang="bg">Киф</title>
+</programme>
+<programme start="20260410093600 +0300" stop="20260410100600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410100600 +0300" stop="20260410103600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410103600 +0300" stop="20260410110600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410110600 +0300" stop="20260410113700 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410113700 +0300" stop="20260410120900 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410120900 +0300" stop="20260410123900 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410123900 +0300" stop="20260410130900 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410130900 +0300" stop="20260410133900 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410133900 +0300" stop="20260410144100 +0300" channel="disney.bg">
+<title lang="bg">Мегачудеса в Париж: Историите на Отровната Калинка и Черния нокът</title>
+</programme>
+<programme start="20260410144100 +0300" stop="20260410151200 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410151200 +0300" stop="20260410154300 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410154300 +0300" stop="20260410161400 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410161400 +0300" stop="20260410164400 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410164400 +0300" stop="20260410171400 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410171400 +0300" stop="20260410174400 +0300" channel="disney.bg">
+<title lang="bg">ФИНИЪС И ФЪРБ</title>
+</programme>
+<programme start="20260410174400 +0300" stop="20260410181400 +0300" channel="disney.bg">
+<title lang="bg">ФИНИЪС И ФЪРБ</title>
+</programme>
+<programme start="20260410181400 +0300" stop="20260410184500 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410184500 +0300" stop="20260410191600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410191600 +0300" stop="20260410194600 +0300" channel="disney.bg">
+<title lang="bg">Вампирина: Тийнейджърката Вампир</title>
+</programme>
+<programme start="20260410194600 +0300" stop="20260410201800 +0300" channel="disney.bg">
+<title lang="bg">Вампирина: Тийнейджърката Вампир</title>
+</programme>
+<programme start="20260410201800 +0300" stop="20260410205100 +0300" channel="disney.bg">
+<title lang="bg">Магьосниците отвъд Уейвърли Плейс</title>
+</programme>
+<programme start="20260410205100 +0300" stop="20260410212300 +0300" channel="disney.bg">
+<title lang="bg">Магьосниците отвъд Уейвърли Плейс</title>
+</programme>
+<programme start="20260410212300 +0300" stop="20260410212700 +0300" channel="disney.bg">
+<title lang="bg">Лунното момиче и Дяволския динозавър</title>
+</programme>
+<programme start="20260410212700 +0300" stop="20260410215300 +0300" channel="disney.bg">
+<title lang="bg">Лунното момиче и Дяволския динозавър</title>
+</programme>
+<programme start="20260410215300 +0300" stop="20260410215600 +0300" channel="disney.bg">
+<title lang="bg">Лунното момиче и Дяволския динозавър</title>
+</programme>
+<programme start="20260410215600 +0300" stop="20260410222300 +0300" channel="disney.bg">
+<title lang="bg">Лунното момиче и Дяволския динозавър</title>
+</programme>
+<programme start="20260410222300 +0300" stop="20260410222600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410222600 +0300" stop="20260410225400 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410225400 +0300" stop="20260410225600 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410225600 +0300" stop="20260410232300 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410232300 +0300" stop="20260410232500 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260410235400 +0300" channel="disney.bg">
+<title lang="bg">Мега-чудесата на Калинката и Черния котарак</title>
+</programme>
+<programme start="20260410235400 +0300" stop="20260410235500 +0300" channel="disney.bg">
+<title lang="bg">Айла и Огледалата</title>
+</programme>
+<programme start="20260410235500 +0300" stop="20260411005500 +0300" channel="disney.bg">
+<title lang="bg">Айла и Огледалата</title>
+</programme>
+<programme start="20260410002300 +0300" stop="20260410004700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410004700 +0300" stop="20260410011100 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410011100 +0300" stop="20260410013400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Марсупиламите</title>
+</programme>
+<programme start="20260410013400 +0300" stop="20260410015600 +0300" channel="nickelodeon.bg">
+<title lang="bg">Макс и Макси</title>
+</programme>
+<programme start="20260410015600 +0300" stop="20260410022000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Макс и Макси</title>
+</programme>
+<programme start="20260410022000 +0300" stop="20260410024300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410024300 +0300" stop="20260410030700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410030700 +0300" stop="20260410033000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410034400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410034400 +0300" stop="20260410040800 +0300" channel="nickelodeon.bg">
+<title lang="bg">Тандърмен: Под прикритие</title>
+</programme>
+<programme start="20260410040800 +0300" stop="20260410043200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасна сила</title>
+</programme>
+<programme start="20260410043200 +0300" stop="20260410045500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасният Хенри</title>
+</programme>
+<programme start="20260410045500 +0300" stop="20260410051900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410051900 +0300" stop="20260410054300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410054300 +0300" stop="20260410060000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410062400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410062400 +0300" stop="20260410070000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410072300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Марсупиламите</title>
+</programme>
+<programme start="20260410072300 +0300" stop="20260410074500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410074500 +0300" stop="20260410082200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410082200 +0300" stop="20260410084500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410084500 +0300" stop="20260410090900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410090900 +0300" stop="20260410093200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410093200 +0300" stop="20260410095200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410095200 +0300" stop="20260410100300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410100300 +0300" stop="20260410102700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410102700 +0300" stop="20260410104200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410104200 +0300" stop="20260410110500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Марсупиламите</title>
+</programme>
+<programme start="20260410110500 +0300" stop="20260410112900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410112900 +0300" stop="20260410115000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410115000 +0300" stop="20260410120300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410120300 +0300" stop="20260410121500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410121500 +0300" stop="20260410122500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410122500 +0300" stop="20260410124900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Тандърмен: Под прикритие</title>
+</programme>
+<programme start="20260410124900 +0300" stop="20260410131300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасна сила</title>
+</programme>
+<programme start="20260410131300 +0300" stop="20260410133700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасният Хенри</title>
+</programme>
+<programme start="20260410133700 +0300" stop="20260410135900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасният Хенри</title>
+</programme>
+<programme start="20260410135900 +0300" stop="20260410142300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Тя е Лей Лей</title>
+</programme>
+<programme start="20260410142300 +0300" stop="20260410144600 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410144600 +0300" stop="20260410151000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410151000 +0300" stop="20260410152100 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410152100 +0300" stop="20260410153200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410153200 +0300" stop="20260410155500 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410155500 +0300" stop="20260410164300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410164300 +0300" stop="20260410170400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410170400 +0300" stop="20260410171800 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410171800 +0300" stop="20260410173000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410174200 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410174200 +0300" stop="20260410180300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Дивата шайка на семейство Уайлд</title>
+</programme>
+<programme start="20260410180300 +0300" stop="20260410182700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410182700 +0300" stop="20260410185100 +0300" channel="nickelodeon.bg">
+<title lang="bg">Марсупиламите</title>
+</programme>
+<programme start="20260410185100 +0300" stop="20260410190300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410190300 +0300" stop="20260410192700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410192700 +0300" stop="20260410200300 +0300" channel="nickelodeon.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410200300 +0300" stop="20260410202600 +0300" channel="nickelodeon.bg">
+<title lang="bg">Тя е Лей Лей</title>
+</programme>
+<programme start="20260410202600 +0300" stop="20260410205000 +0300" channel="nickelodeon.bg">
+<title lang="bg">Тандърмен: Под прикритие</title>
+</programme>
+<programme start="20260410205000 +0300" stop="20260410211400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасният Хенри</title>
+</programme>
+<programme start="20260410211400 +0300" stop="20260410213700 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасният Хенри</title>
+</programme>
+<programme start="20260410213700 +0300" stop="20260410215900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Опасна сила</title>
+</programme>
+<programme start="20260410215900 +0300" stop="20260410222400 +0300" channel="nickelodeon.bg">
+<title lang="bg">i -</title>
+</programme>
+<programme start="20260410222400 +0300" stop="20260410224900 +0300" channel="nickelodeon.bg">
+<title lang="bg">i -</title>
+</programme>
+<programme start="20260410224900 +0300" stop="20260410231400 +0300" channel="nickelodeon.bg">
+<title lang="bg">Викторично</title>
+</programme>
+<programme start="20260410231400 +0300" stop="20260410233800 +0300" channel="nickelodeon.bg">
+<title lang="bg">Сам и Кет</title>
+</programme>
+<programme start="20260410233800 +0300" stop="20260410235900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Разказите на костенурките нинджа</title>
+</programme>
+<programme start="20260410235900 +0300" stop="20260411005900 +0300" channel="nickelodeon.bg">
+<title lang="bg">Разказите на костенурките нинджа</title>
+</programme>
+<programme start="20260410001200 +0300" stop="20260410003500 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410003500 +0300" stop="20260410005700 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410005700 +0300" stop="20260410012000 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410012000 +0300" stop="20260410014200 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410014200 +0300" stop="20260410020400 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410020400 +0300" stop="20260410022600 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410022600 +0300" stop="20260410024900 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410024900 +0300" stop="20260410031200 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410031200 +0300" stop="20260410035800 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410035800 +0300" stop="20260410042100 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410042100 +0300" stop="20260410044400 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410044400 +0300" stop="20260410050600 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410050600 +0300" stop="20260410052900 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410052900 +0300" stop="20260410055200 +0300" channel="nickjr.bg">
+<title lang="bg">Господин Крокодил</title>
+</programme>
+<programme start="20260410055200 +0300" stop="20260410061400 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410061400 +0300" stop="20260410063700 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410063700 +0300" stop="20260410070000 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410072200 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410072200 +0300" stop="20260410074500 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410074500 +0300" stop="20260410080800 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410080800 +0300" stop="20260410083000 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410085300 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410085300 +0300" stop="20260410091600 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410091600 +0300" stop="20260410094900 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410094900 +0300" stop="20260410095700 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410095700 +0300" stop="20260410100400 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410100400 +0300" stop="20260410101200 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410101200 +0300" stop="20260410101700 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410101700 +0300" stop="20260410102100 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410102100 +0300" stop="20260410102600 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410102600 +0300" stop="20260410103200 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410103200 +0300" stop="20260410103600 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410103600 +0300" stop="20260410104100 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410104100 +0300" stop="20260410104500 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410104500 +0300" stop="20260410105000 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410105000 +0300" stop="20260410105600 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410105600 +0300" stop="20260410111800 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410111800 +0300" stop="20260410114100 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410114100 +0300" stop="20260410120300 +0300" channel="nickjr.bg">
+<title lang="bg">Господин Крокодил</title>
+</programme>
+<programme start="20260410120300 +0300" stop="20260410122400 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410122400 +0300" stop="20260410124600 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410124600 +0300" stop="20260410130900 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410130900 +0300" stop="20260410133200 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410133200 +0300" stop="20260410135500 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410135500 +0300" stop="20260410141800 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410141800 +0300" stop="20260410144000 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410144000 +0300" stop="20260410150300 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410150300 +0300" stop="20260410152600 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410152600 +0300" stop="20260410154900 +0300" channel="nickjr.bg">
+<title lang="bg">Тим Рекс в космоса</title>
+</programme>
+<programme start="20260410154900 +0300" stop="20260410161100 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410161100 +0300" stop="20260410163300 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410163300 +0300" stop="20260410163800 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410163800 +0300" stop="20260410164200 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410164200 +0300" stop="20260410164700 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410164700 +0300" stop="20260410165100 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410165100 +0300" stop="20260410165600 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410165600 +0300" stop="20260410165900 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410165900 +0300" stop="20260410170500 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410170500 +0300" stop="20260410172800 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410172800 +0300" stop="20260410175000 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410175000 +0300" stop="20260410180100 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410180100 +0300" stop="20260410182300 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410182300 +0300" stop="20260410183300 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410183300 +0300" stop="20260410185800 +0300" channel="nickjr.bg">
+<title lang="bg">Господин Крокодил</title>
+</programme>
+<programme start="20260410185800 +0300" stop="20260410192000 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410192000 +0300" stop="20260410200200 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410200200 +0300" stop="20260410200700 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410200700 +0300" stop="20260410201100 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410201100 +0300" stop="20260410201600 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410201600 +0300" stop="20260410202000 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410202000 +0300" stop="20260410202500 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410202500 +0300" stop="20260410203000 +0300" channel="nickjr.bg">
+<title lang="bg">Прасенцето Пепа</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410210300 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410210300 +0300" stop="20260410212600 +0300" channel="nickjr.bg">
+<title lang="bg">Пламъчко и машините</title>
+</programme>
+<programme start="20260410212600 +0300" stop="20260410214800 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410214800 +0300" stop="20260410220000 +0300" channel="nickjr.bg">
+<title lang="bg">Пес Патрул</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410222100 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410222100 +0300" stop="20260410224400 +0300" channel="nickjr.bg">
+<title lang="bg">Бандата на Рабъл</title>
+</programme>
+<programme start="20260410224400 +0300" stop="20260410230700 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410230700 +0300" stop="20260410232800 +0300" channel="nickjr.bg">
+<title lang="bg">Дора</title>
+</programme>
+<programme start="20260410232800 +0300" stop="20260410234900 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410234900 +0300" stop="20260411004900 +0300" channel="nickjr.bg">
+<title lang="bg">Барбароните</title>
+</programme>
+<programme start="20260410000300 +0300" stop="20260410002600 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410002600 +0300" stop="20260410004900 +0300" channel="nicktoons.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410004900 +0300" stop="20260410011000 +0300" channel="nicktoons.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410011000 +0300" stop="20260410013200 +0300" channel="nicktoons.bg">
+<title lang="bg">Трансформърс</title>
+</programme>
+<programme start="20260410013200 +0300" stop="20260410015400 +0300" channel="nicktoons.bg">
+<title lang="bg">Монстър Хай</title>
+</programme>
+<programme start="20260410015400 +0300" stop="20260410021500 +0300" channel="nicktoons.bg">
+<title lang="bg">Макс и Макси</title>
+</programme>
+<programme start="20260410021500 +0300" stop="20260410023600 +0300" channel="nicktoons.bg">
+<title lang="bg">Макс и Макси</title>
+</programme>
+<programme start="20260410023600 +0300" stop="20260410025700 +0300" channel="nicktoons.bg">
+<title lang="bg">Макс и Макси</title>
+</programme>
+<programme start="20260410025700 +0300" stop="20260410031900 +0300" channel="nicktoons.bg">
+<title lang="bg">Макс и полурицарите</title>
+</programme>
+<programme start="20260410031900 +0300" stop="20260410034000 +0300" channel="nicktoons.bg">
+<title lang="bg">Дора изследователката</title>
+</programme>
+<programme start="20260410034000 +0300" stop="20260410040100 +0300" channel="nicktoons.bg">
+<title lang="bg">Приключенията на Опасното Хлапе</title>
+</programme>
+<programme start="20260410040100 +0300" stop="20260410042400 +0300" channel="nicktoons.bg">
+<title lang="bg">Аватар: Легенда за Анг</title>
+</programme>
+<programme start="20260410042400 +0300" stop="20260410044500 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410044500 +0300" stop="20260410045700 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410045700 +0300" stop="20260410051800 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410051800 +0300" stop="20260410054000 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410054000 +0300" stop="20260410060000 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410062100 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410062100 +0300" stop="20260410064400 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410064400 +0300" stop="20260410070700 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410070700 +0300" stop="20260410071900 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410071900 +0300" stop="20260410074100 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410074100 +0300" stop="20260410080300 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410080300 +0300" stop="20260410081500 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410081500 +0300" stop="20260410083700 +0300" channel="nicktoons.bg">
+<title lang="bg">Супер Зайо-Байо Тийм</title>
+</programme>
+<programme start="20260410083700 +0300" stop="20260410090000 +0300" channel="nicktoons.bg">
+<title lang="bg">Семейство Касагранде</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410092200 +0300" channel="nicktoons.bg">
+<title lang="bg">Семейство Касагранде</title>
+</programme>
+<programme start="20260410092200 +0300" stop="20260410094300 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410094300 +0300" stop="20260410100600 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410100600 +0300" stop="20260410102800 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410102800 +0300" stop="20260410105100 +0300" channel="nicktoons.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410105100 +0300" stop="20260410111300 +0300" channel="nicktoons.bg">
+<title lang="bg">Кръстници-вълшебници</title>
+</programme>
+<programme start="20260410111300 +0300" stop="20260410112500 +0300" channel="nicktoons.bg">
+<title lang="bg">Кръстници-вълшебници</title>
+</programme>
+<programme start="20260410112500 +0300" stop="20260410114700 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410114700 +0300" stop="20260410120900 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410120900 +0300" stop="20260410123100 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410123100 +0300" stop="20260410125300 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410125300 +0300" stop="20260410131600 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410131600 +0300" stop="20260410133000 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410135100 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410135100 +0300" stop="20260410141500 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410143600 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410143600 +0300" stop="20260410145600 +0300" channel="nicktoons.bg">
+<title lang="bg">Семейство Касагранде</title>
+</programme>
+<programme start="20260410145600 +0300" stop="20260410150900 +0300" channel="nicktoons.bg">
+<title lang="bg">Семейство Касагранде</title>
+</programme>
+<programme start="20260410150900 +0300" stop="20260410153200 +0300" channel="nicktoons.bg">
+<title lang="bg">Супер Зайо-Байо Тийм</title>
+</programme>
+<programme start="20260410153200 +0300" stop="20260410155200 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410155200 +0300" stop="20260410162600 +0300" channel="nicktoons.bg">
+<title lang="bg">Лагер Корал: Младежките години на Спонджбоб</title>
+</programme>
+<programme start="20260410162600 +0300" stop="20260410164900 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410164900 +0300" stop="20260410170100 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410170100 +0300" stop="20260410172300 +0300" channel="nicktoons.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410172300 +0300" stop="20260410174500 +0300" channel="nicktoons.bg">
+<title lang="bg">Кръстници вълшебници: Ново желание</title>
+</programme>
+<programme start="20260410174500 +0300" stop="20260410180800 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410180800 +0300" stop="20260410183100 +0300" channel="nicktoons.bg">
+<title lang="bg">Къщата на Шумникови</title>
+</programme>
+<programme start="20260410183100 +0300" stop="20260410185300 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410185300 +0300" stop="20260410192800 +0300" channel="nicktoons.bg">
+<title lang="bg">Шоуто на Патрик Звездата</title>
+</programme>
+<programme start="20260410192800 +0300" stop="20260410195100 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410195100 +0300" stop="20260410201400 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410201400 +0300" stop="20260410203900 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410203900 +0300" stop="20260410210200 +0300" channel="nicktoons.bg">
+<title lang="bg">Приключенията на Опасното Хлапе</title>
+</programme>
+<programme start="20260410210200 +0300" stop="20260410212400 +0300" channel="nicktoons.bg">
+<title lang="bg">Приказки за костенурките нинджа</title>
+</programme>
+<programme start="20260410212400 +0300" stop="20260410214700 +0300" channel="nicktoons.bg">
+<title lang="bg">Кръстници-вълшебници</title>
+</programme>
+<programme start="20260410214700 +0300" stop="20260410220800 +0300" channel="nicktoons.bg">
+<title lang="bg">Кръстници-вълшебници</title>
+</programme>
+<programme start="20260410220800 +0300" stop="20260410223100 +0300" channel="nicktoons.bg">
+<title lang="bg">Пингвините от Мадагаскар</title>
+</programme>
+<programme start="20260410223100 +0300" stop="20260410225400 +0300" channel="nicktoons.bg">
+<title lang="bg">Пингвините от Мадагаскар</title>
+</programme>
+<programme start="20260410225400 +0300" stop="20260410231900 +0300" channel="nicktoons.bg">
+<title lang="bg">Кунг фу панда</title>
+</programme>
+<programme start="20260410231900 +0300" stop="20260410234000 +0300" channel="nicktoons.bg">
+<title lang="bg">Аватар: Легенда за Анг</title>
+</programme>
+<programme start="20260410234000 +0300" stop="20260411004000 +0300" channel="nicktoons.bg">
+<title lang="bg">Спонджбоб Квадратни Гащи</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="ekids.bg">
+<title lang="bg">Супер самолети</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="ekids.bg">
+<title lang="bg">Пчеличката Мая</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410083000 +0300" channel="ekids.bg">
+<title lang="bg">Артур и Минимоите</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410090000 +0300" channel="ekids.bg">
+<title lang="bg">Мистериите от Медената долина</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="ekids.bg">
+<title lang="bg">Клуб Уинкс</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410100000 +0300" channel="ekids.bg">
+<title lang="bg">Миа и аз</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410103000 +0300" channel="ekids.bg">
+<title lang="bg">Инфинити Надо</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410113000 +0300" channel="ekids.bg">
+<title lang="bg">Лексиконче с песнички</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410120000 +0300" channel="ekids.bg">
+<title lang="bg">Миа и аз</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="ekids.bg">
+<title lang="bg">Клуб Уинкс</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410130000 +0300" channel="ekids.bg">
+<title lang="bg">Артур и Минимоите</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410133000 +0300" channel="ekids.bg">
+<title lang="bg">Пчеличката Мая</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410140000 +0300" channel="ekids.bg">
+<title lang="bg">Мистериите от Медената долина</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410143000 +0300" channel="ekids.bg">
+<title lang="bg">Дивите скрийчъри</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410150000 +0300" channel="ekids.bg">
+<title lang="bg">Инфинити Надо</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410153000 +0300" channel="ekids.bg">
+<title lang="bg">Миа и аз</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410160000 +0300" channel="ekids.bg">
+<title lang="bg">Супер самолети</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410163000 +0300" channel="ekids.bg">
+<title lang="bg">Пчеличката Мая</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410170000 +0300" channel="ekids.bg">
+<title lang="bg">Клуб Уинкс</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410173000 +0300" channel="ekids.bg">
+<title lang="bg">Мистериите от Медената долина</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410180000 +0300" channel="ekids.bg">
+<title lang="bg">Артур и Минимоите</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410183000 +0300" channel="ekids.bg">
+<title lang="bg">Дивите скрийчъри</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="ekids.bg">
+<title lang="bg">Пчеличката Мая</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="ekids.bg">
+<title lang="bg">Миа и аз</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="ekids.bg">
+<title lang="bg">Артур и Минимоите</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410203000 +0300" channel="ekids.bg">
+<title lang="bg">Мистериите от Медената долина</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410210000 +0300" channel="ekids.bg">
+<title lang="bg">Клуб Уинкс</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="ekids.bg">
+<title lang="bg">Лексиконче с песнички</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="ekids.bg">
+<title lang="bg">Програмна пауза</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410060000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410070000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="thevoice.bg">
+<title lang="bg">SNOOZA</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410121000 +0300" channel="thevoice.bg">
+<title lang="bg">1 ARTIST 3 HITS</title>
+</programme>
+<programme start="20260410121000 +0300" stop="20260410131000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410131000 +0300" stop="20260410141000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410141000 +0300" stop="20260410151000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410151000 +0300" stop="20260410161000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410161000 +0300" stop="20260410171000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410171000 +0300" stop="20260410180000 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410185000 +0300" channel="thevoice.bg">
+<title lang="bg">THE VOICE WISHLIST request</title>
+</programme>
+<programme start="20260410185000 +0300" stop="20260410190000 +0300" channel="thevoice.bg">
+<title lang="bg">1 ARTIST 3 HITS</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="thevoice.bg">
+<title lang="bg">THE VOICE KISS: THE BIGGEST HITS</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="thevoice.bg">
+<title lang="bg">BG VOICE TOP10</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410211500 +0300" channel="thevoice.bg">
+<title lang="bg">WE LOVE MUSIC</title>
+</programme>
+<programme start="20260410211500 +0300" stop="20260410220000 +0300" channel="thevoice.bg">
+<title lang="bg">We Love Music</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="thevoice.bg">
+<title lang="bg">THE VOICE PARTY</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410003000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бон Апети</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410010000 +0300" channel="24kitchen.bg">
+<title lang="bg">Кулинарно приключение с Къртис Стоун</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410013000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410013000 +0300" stop="20260410015500 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410015500 +0300" stop="20260410022500 +0300" channel="24kitchen.bg">
+<title lang="bg">Световна кухня</title>
+</programme>
+<programme start="20260410022500 +0300" stop="20260410024000 +0300" channel="24kitchen.bg">
+<title lang="bg">Световна кухня</title>
+</programme>
+<programme start="20260410024000 +0300" stop="20260410031000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410031000 +0300" stop="20260410033000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410040000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410042000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410042000 +0300" stop="20260410044500 +0300" channel="24kitchen.bg">
+<title lang="bg">Бон Апети</title>
+</programme>
+<programme start="20260410044500 +0300" stop="20260410051000 +0300" channel="24kitchen.bg">
+<title lang="bg">Кулинарно приключение с Къртис Стоун</title>
+</programme>
+<programme start="20260410051000 +0300" stop="20260410054000 +0300" channel="24kitchen.bg">
+<title lang="bg">Семейното приключение на Джино в Италия</title>
+</programme>
+<programme start="20260410054000 +0300" stop="20260410060000 +0300" channel="24kitchen.bg">
+<title lang="bg">Италианско коледно пиршество с Джино</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410063000 +0300" channel="24kitchen.bg">
+<title lang="bg">Семейна храна за минути с Донал</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="24kitchen.bg">
+<title lang="bg">Семейна храна за минути с Донал</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410083000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410090000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410100000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410103000 +0300" channel="24kitchen.bg">
+<title lang="bg">Световна кухня</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="24kitchen.bg">
+<title lang="bg">Световна кухня</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410113000 +0300" channel="24kitchen.bg">
+<title lang="bg">Кулинарно приключение с Къртис Стоун</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410120000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бон Апети</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="24kitchen.bg">
+<title lang="bg">Джино готви любов</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410133000 +0300" channel="24kitchen.bg">
+<title lang="bg">Хапни, разходи се и се наслади</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410141000 +0300" channel="24kitchen.bg">
+<title lang="bg">Хапни, разходи се и се наслади</title>
+</programme>
+<programme start="20260410141000 +0300" stop="20260410150000 +0300" channel="24kitchen.bg">
+<title lang="bg">Средиземноморски приключения с Рик Стайн</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410153000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410160000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бързи и лесни рецепти с Джейми</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410163000 +0300" channel="24kitchen.bg">
+<title lang="bg">Кулинарно приключение с Къртис Стоун</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410170000 +0300" channel="24kitchen.bg">
+<title lang="bg">Бон Апети</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410173000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410180000 +0300" channel="24kitchen.bg">
+<title lang="bg">Печивата на Акис</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410183000 +0300" channel="24kitchen.bg">
+<title lang="bg">Семейна храна за минути с Донал</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="24kitchen.bg">
+<title lang="bg">Семейна храна за минути с Донал</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="24kitchen.bg">
+<title lang="bg">Джино готви любов</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410195500 +0300" channel="24kitchen.bg">
+<title lang="bg">Италианско коледно пиршество с Джино</title>
+</programme>
+<programme start="20260410195500 +0300" stop="20260410200000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410202500 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410202500 +0300" stop="20260410203000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410213000 +0300" channel="24kitchen.bg">
+<title lang="bg">Kулинарните маршрути на Южна Африка</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="travelchannel.bg">
+<title lang="bg">Неуловимо присъствие</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="travelchannel.bg">
+<title lang="bg">Отвъд непознатото</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="travelchannel.bg">
+<title lang="bg">Призрачните братя</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410040000 +0300" channel="travelchannel.bg">
+<title lang="bg">Най-ужасяващите места</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="travelchannel.bg">
+<title lang="bg">Посока Страх</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410060000 +0300" channel="travelchannel.bg">
+<title lang="bg">Неуловимо присъствие</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410070000 +0300" channel="travelchannel.bg">
+<title lang="bg">Мистерии в замъка</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="travelchannel.bg">
+<title lang="bg">В търсене на чудовища</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="travelchannel.bg">
+<title lang="bg">В търсене на чудовища</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="travelchannel.bg">
+<title lang="bg">Златотърсачките от Аляска</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="travelchannel.bg">
+<title lang="bg">Златотърсачките от Аляска</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410120000 +0300" channel="travelchannel.bg">
+<title lang="bg">Чудовищата на Аляска</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410130000 +0300" channel="travelchannel.bg">
+<title lang="bg">Чудовищата на Аляска</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410140000 +0300" channel="travelchannel.bg">
+<title lang="bg">Мистерии в замъка</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="travelchannel.bg">
+<title lang="bg">Мистерии в замъка</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410160000 +0300" channel="travelchannel.bg">
+<title lang="bg">Странни храни с Андрю Цимерн</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410170000 +0300" channel="travelchannel.bg">
+<title lang="bg">Странни храни с Андрю Цимерн</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410180000 +0300" channel="travelchannel.bg">
+<title lang="bg">Сродни души или духове?</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="travelchannel.bg">
+<title lang="bg">Сродни души или духове?</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="travelchannel.bg">
+<title lang="bg">Кодове и конспирации</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="travelchannel.bg">
+<title lang="bg">Кодове и конспирации</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="travelchannel.bg">
+<title lang="bg">Паранормалното край нас</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="travelchannel.bg">
+<title lang="bg">Триъгълника на Аляска</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="travelchannel.bg">
+<title lang="bg">Призраци в Средния Запад</title>
+</programme>
+<programme start="20260410002500 +0300" stop="20260410010000 +0300" channel="novanews.bg">
+<title lang="bg">Челюсти с Диана Найденова</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410012000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410012000 +0300" stop="20260410020000 +0300" channel="novanews.bg">
+<title lang="bg">Пресечна точка</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410022500 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410022500 +0300" stop="20260410030000 +0300" channel="novanews.bg">
+<title lang="bg">Социална мрежа</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410032000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410032000 +0300" stop="20260410035000 +0300" channel="novanews.bg">
+<title lang="bg">Денят на живо</title>
+</programme>
+<programme start="20260410035000 +0300" stop="20260410042000 +0300" channel="novanews.bg">
+<title lang="bg">Евромакс</title>
+</programme>
+<programme start="20260410042000 +0300" stop="20260410050000 +0300" channel="novanews.bg">
+<title lang="bg">Ничия земя</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410053000 +0300" channel="novanews.bg">
+<title lang="bg">Другото лице</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410060000 +0300" channel="novanews.bg">
+<title lang="bg">Социална мрежа</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410063000 +0300" channel="novanews.bg">
+<title lang="bg">В добра форма</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410073000 +0300" channel="novanews.bg">
+<title lang="bg">Ничия земя</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="novanews.bg">
+<title lang="bg">Челюсти с Диана Найденова</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410083000 +0300" channel="novanews.bg">
+<title lang="bg">Пулс</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410090000 +0300" channel="novanews.bg">
+<title lang="bg">Да хванеш гората</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="novanews.bg">
+<title lang="bg">Твоят ден</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410101000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410101000 +0300" stop="20260410110000 +0300" channel="novanews.bg">
+<title lang="bg">Твоят ден</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410111000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410111000 +0300" stop="20260410120000 +0300" channel="novanews.bg">
+<title lang="bg">Ничия земя</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410123000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410130000 +0300" channel="novanews.bg">
+<title lang="bg">Парламентът на живо</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410144000 +0300" channel="novanews.bg">
+<title lang="bg">Новините</title>
+</programme>
+<programme start="20260410144000 +0300" stop="20260410150000 +0300" channel="novanews.bg">
+<title lang="bg">Твоят ден</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410152000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410152000 +0300" stop="20260410155500 +0300" channel="novanews.bg">
+<title lang="bg">Социална мрежа</title>
+</programme>
+<programme start="20260410155500 +0300" stop="20260410160000 +0300" channel="novanews.bg">
+<title lang="bg">До там и обратно</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410161000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410161000 +0300" stop="20260410170000 +0300" channel="novanews.bg">
+<title lang="bg">Ничия земя</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410172000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410172000 +0300" stop="20260410180000 +0300" channel="novanews.bg">
+<title lang="bg">Денят на живо</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410182000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410182000 +0300" stop="20260410190000 +0300" channel="novanews.bg">
+<title lang="bg">Ревизия</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410192000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410192000 +0300" stop="20260410195500 +0300" channel="novanews.bg">
+<title lang="bg">Непознатите земи</title>
+</programme>
+<programme start="20260410195500 +0300" stop="20260410200000 +0300" channel="novanews.bg">
+<title lang="bg">До там и обратно</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410205000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410205000 +0300" stop="20260410210000 +0300" channel="novanews.bg">
+<title lang="bg">Най-доброто от DW</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="novanews.bg">
+<title lang="bg">Ревизия</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410221500 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410221500 +0300" stop="20260410230000 +0300" channel="novanews.bg">
+<title lang="bg">Да хванеш гората</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410232000 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410232000 +0300" stop="20260410235800 +0300" channel="novanews.bg">
+<title lang="bg">Денят на живо</title>
+</programme>
+<programme start="20260410235800 +0300" stop="20260411005800 +0300" channel="novanews.bg">
+<title lang="bg">Новините на NOVA NEWS</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410013000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410013000 +0300" stop="20260410020000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Авиошоу</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410043000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410063000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410070000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410090000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410093000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410103000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Очи в очи</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410110500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410110500 +0300" stop="20260410113500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Светът е бизнес</title>
+</programme>
+<programme start="20260410113500 +0300" stop="20260410120000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410140000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410143000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green с Роселина Петкова</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410150000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Чиста енергия</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410150500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410150500 +0300" stop="20260410153500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Блестящи идеи</title>
+</programme>
+<programme start="20260410153500 +0300" stop="20260410160000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410160500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410160500 +0300" stop="20260410170000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Бизнес старт</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410170500 +0300" channel="bloombergtv.bg">
+<title lang="bg">Водещите новини</title>
+</programme>
+<programme start="20260410170500 +0300" stop="20260410173000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Update</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410210000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Made In Green с Роселина Петкова</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410220000 +0300" channel="bloombergtv.bg">
+<title lang="bg">Цитати на деня</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="bloombergtv.bg">
+<title lang="bg">В развитие</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410020000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Добро утро, Европа</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410023000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410030000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410033000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Станция Европейски съюз</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410034500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410034500 +0300" stop="20260410040000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410050000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410053000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410060000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Код иновации</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410061500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410061500 +0300" stop="20260410063000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410064500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410064500 +0300" stop="20260410070000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410093000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Добро утро, Европа</title>
+</programme>
+<programme start="20260410093000 +0300" stop="20260410094500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410094500 +0300" stop="20260410095700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410095700 +0300" stop="20260410100000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410101500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410101500 +0300" stop="20260410102200 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410102200 +0300" stop="20260410102500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410102500 +0300" stop="20260410103000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410110000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Диагноза: Здраве</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410112000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410112000 +0300" stop="20260410112600 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410112600 +0300" stop="20260410113000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времетo</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410115700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Станция Европейски съюз</title>
+</programme>
+<programme start="20260410115700 +0300" stop="20260410120000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410121500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410121500 +0300" stop="20260410122200 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410122200 +0300" stop="20260410123000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410124500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410124500 +0300" stop="20260410130000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410132000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410132000 +0300" stop="20260410132800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410132800 +0300" stop="20260410133000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410134500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410134500 +0300" stop="20260410140000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410141500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410143000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410144500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410144500 +0300" stop="20260410150000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410151500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410151500 +0300" stop="20260410153000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410154500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410154500 +0300" stop="20260410160000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410161500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410161500 +0300" stop="20260410163000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Телепазар</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410170000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Арт и факти</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410172000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410172000 +0300" stop="20260410172800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410172800 +0300" stop="20260410173000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410173000 +0300" stop="20260410174500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410174500 +0300" stop="20260410175700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410175700 +0300" stop="20260410180000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410190800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410190800 +0300" stop="20260410191000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410191000 +0300" stop="20260410192700 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Биз(д)нес</title>
+</programme>
+<programme start="20260410192700 +0300" stop="20260410193000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410202000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410202000 +0300" stop="20260410202800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410202800 +0300" stop="20260410203000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410204500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410204500 +0300" stop="20260410205800 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews Интервю</title>
+</programme>
+<programme start="20260410205800 +0300" stop="20260410210000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Имате думата</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410211500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410211500 +0300" stop="20260410212500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410212500 +0300" stop="20260410213000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410214500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410214500 +0300" stop="20260410220000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410221500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Prime Time</title>
+</programme>
+<programme start="20260410221500 +0300" stop="20260410222500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410222500 +0300" stop="20260410223000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410223000 +0300" stop="20260410224500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Международни новини</title>
+</programme>
+<programme start="20260410224500 +0300" stop="20260410230000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410231500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Euronews сега</title>
+</programme>
+<programme start="20260410231500 +0300" stop="20260410232500 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Спортни новини</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260410233000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Времето</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="euronewsbulgaria.bg">
+<title lang="bg">Код иновации</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410023000 +0300" channel="eurocom.bg">
+<title lang="bg">Шесто Чувство</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410033000 +0300" channel="eurocom.bg">
+<title lang="bg">ЕвроТВШоп</title>
+</programme>
+<programme start="20260410033000 +0300" stop="20260410053000 +0300" channel="eurocom.bg">
+<title lang="bg">Честно Казано</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410090000 +0300" channel="eurocom.bg">
+<title lang="bg">Делници</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410100000 +0300" channel="eurocom.bg">
+<title lang="bg">Извън сценария</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410103000 +0300" channel="eurocom.bg">
+<title lang="bg">ЕвроТВШоп</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410113000 +0300" channel="eurocom.bg">
+<title lang="bg">Училище за Родители</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410123000 +0300" channel="eurocom.bg">
+<title lang="bg">Светът и всичко в него</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410130000 +0300" channel="eurocom.bg">
+<title lang="bg">ЕвроТВШоп</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410131500 +0300" channel="eurocom.bg">
+<title lang="bg">Новини</title>
+</programme>
+<programme start="20260410131500 +0300" stop="20260410141500 +0300" channel="eurocom.bg">
+<title lang="bg">Контра</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410151500 +0300" channel="eurocom.bg">
+<title lang="bg">Разследването на Валя Ахчиева</title>
+</programme>
+<programme start="20260410151500 +0300" stop="20260410153000 +0300" channel="eurocom.bg">
+<title lang="bg">Новини</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410160000 +0300" channel="eurocom.bg">
+<title lang="bg">ЕвроТВШоп</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410193000 +0300" channel="eurocom.bg">
+<title lang="bg">Делници</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="eurocom.bg">
+<title lang="bg">Новини</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410230000 +0300" channel="eurocom.bg">
+<title lang="bg">ЕвроДикоФ</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260410233000 +0300" channel="eurocom.bg">
+<title lang="bg">Новини</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="eurocom.bg">
+<title lang="bg">Извън сценария</title>
+</programme>
+<programme start="20260410005500 +0300" stop="20260410015000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Крум Савов Live</title>
+</programme>
+<programme start="20260410015000 +0300" stop="20260410024500 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерното шоу на Слави Трифонов</title>
+</programme>
+<programme start="20260410024500 +0300" stop="20260410034000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерта на Ку-Ку Бенд</title>
+</programme>
+<programme start="20260410034000 +0300" stop="20260410043000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерта на Северозапада</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410071000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Музика</title>
+</programme>
+<programme start="20260410071000 +0300" stop="20260410080000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Крум Савов Live</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410090000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Студио Хъ</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410095000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Tonight with Шкумбата</title>
+</programme>
+<programme start="20260410095000 +0300" stop="20260410105000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерното шоу на Слави Трифонов</title>
+</programme>
+<programme start="20260410105000 +0300" stop="20260410122500 +0300" channel="sedemosmi.bg">
+<title lang="bg">Шоуто на сценаристите</title>
+</programme>
+<programme start="20260410122500 +0300" stop="20260410130500 +0300" channel="sedemosmi.bg">
+<title lang="bg">Да готвим с Ради</title>
+</programme>
+<programme start="20260410130500 +0300" stop="20260410140000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Крум Савов Live</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410150000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Студио Хъ</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410155500 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерта на Иван Кулеков</title>
+</programme>
+<programme start="20260410155500 +0300" stop="20260410165000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерното шоу на Слави Трифонов</title>
+</programme>
+<programme start="20260410165000 +0300" stop="20260410182500 +0300" channel="sedemosmi.bg">
+<title lang="bg">Шоуто на сценаристите</title>
+</programme>
+<programme start="20260410182500 +0300" stop="20260410190000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Да готвим с Ради</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Крум Савов Live</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Студио Хъ</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерта на Северозапада</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Вечерното шоу на Слави Трифонов</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="sedemosmi.bg">
+<title lang="bg">Кръг квадрат</title>
+</programme>
+<programme start="20260410003000 +0300" stop="20260410023000 +0300" channel="diemasport.bg">
+<title lang="bg">Лудогорец - ЦСКА 1948</title>
+</programme>
+<programme start="20260410023000 +0300" stop="20260410043000 +0300" channel="diemasport.bg">
+<title lang="bg">Берое - ЦСКА</title>
+</programme>
+<programme start="20260410043000 +0300" stop="20260410073000 +0300" channel="diemasport.bg">
+<title lang="bg">Програмна пауза</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410083000 +0300" channel="diemasport.bg">
+<title lang="bg">efbet Лига: Обзор на кръга</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410090000 +0300" channel="diemasport.bg">
+<title lang="bg">Героите на кръга</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410110000 +0300" channel="diemasport.bg">
+<title lang="bg">Монтана - ЦСКА</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410113000 +0300" channel="diemasport.bg">
+<title lang="bg">Головете на кръга</title>
+</programme>
+<programme start="20260410113000 +0300" stop="20260410133000 +0300" channel="diemasport.bg">
+<title lang="bg">Ботев Пловдив - Локомотив Пловдив</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410143000 +0300" channel="diemasport.bg">
+<title lang="bg">Втора професионална лига: Обзор на кръга</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410150000 +0300" channel="diemasport.bg">
+<title lang="bg">Дневник НБА</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410153000 +0300" channel="diemasport.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410172500 +0300" channel="diemasport.bg">
+<title lang="bg">Локомотив София - Берое</title>
+</programme>
+<programme start="20260410172500 +0300" stop="20260410180000 +0300" channel="diemasport.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410195500 +0300" channel="diemasport.bg">
+<title lang="bg">Лудогорец - Черно море</title>
+</programme>
+<programme start="20260410195500 +0300" stop="20260410203000 +0300" channel="diemasport.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410222500 +0300" channel="diemasport.bg">
+<title lang="bg">Левски - Арда</title>
+</programme>
+<programme start="20260410222500 +0300" stop="20260410230000 +0300" channel="diemasport.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410230000 +0300" stop="20260411000000 +0300" channel="diemasport.bg">
+<title lang="bg">Локомотив София - Берое</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410020000 +0300" channel="diemasport2.bg">
+<title lang="bg">NBA Екшън</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410073000 +0300" channel="diemasport2.bg">
+<title lang="bg">Програмна пауза</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410080000 +0300" channel="diemasport2.bg">
+<title lang="bg">Истории от Висшата лига</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410123000 +0300" channel="diemasport2.bg">
+<title lang="bg">Boxxer: Лорън Прайс - Стефани Пинейро</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410133000 +0300" channel="diemasport2.bg">
+<title lang="bg">NBA Екшън</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410160000 +0300" channel="diemasport2.bg">
+<title lang="bg">Кливланд Кавалиърс - Атланта Хоукс</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410183000 +0300" channel="diemasport2.bg">
+<title lang="bg">Далас Маверикс - Лос Анджелис Лейкърс</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="diemasport2.bg">
+<title lang="bg">Лига 1: Преди кръга</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="diemasport2.bg">
+<title lang="bg">Дневник НБА</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410200000 +0300" channel="diemasport2.bg">
+<title lang="bg">Преди кръга във Висшата лига V1</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410220500 +0300" channel="diemasport2.bg">
+<title lang="bg">ФК Париж - Монако</title>
+</programme>
+<programme start="20260410220500 +0300" stop="20260410230500 +0300" channel="diemasport2.bg">
+<title lang="bg">Марсилия - Метц</title>
+</programme>
+<programme start="20260410001500 +0300" stop="20260410004500 +0300" channel="diemasport3.bg">
+<title lang="bg">Седмично в Бундеслигата</title>
+</programme>
+<programme start="20260410004500 +0300" stop="20260410024500 +0300" channel="diemasport3.bg">
+<title lang="bg">Хамбургер - Аугсбург</title>
+</programme>
+<programme start="20260410024500 +0300" stop="20260410063000 +0300" channel="diemasport3.bg">
+<title lang="bg">Програмна пауза</title>
+</programme>
+<programme start="20260410063000 +0300" stop="20260410083000 +0300" channel="diemasport3.bg">
+<title lang="bg">Унион Берлин - Санкт Паули</title>
+</programme>
+<programme start="20260410083000 +0300" stop="20260410103000 +0300" channel="diemasport3.bg">
+<title lang="bg">Байер Леверкузен - Волфсбург</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410123000 +0300" channel="diemasport3.bg">
+<title lang="bg">Щутгарт - Борусия Дортмунд</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410133000 +0300" channel="diemasport3.bg">
+<title lang="bg">Бундеслига: Обзор на кръга</title>
+</programme>
+<programme start="20260410133000 +0300" stop="20260410153000 +0300" channel="diemasport3.bg">
+<title lang="bg">Айнтрахт Франкфурт - Кьолн</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410163000 +0300" channel="diemasport3.bg">
+<title lang="bg">Бундеслига Токшоу</title>
+</programme>
+<programme start="20260410163000 +0300" stop="20260410183000 +0300" channel="diemasport3.bg">
+<title lang="bg">Вердер Бремен - Рб Лайпциг</title>
+</programme>
+<programme start="20260410183000 +0300" stop="20260410190000 +0300" channel="diemasport3.bg">
+<title lang="bg">Седмично в Бундеслигата</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410193000 +0300" channel="diemasport3.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410193000 +0300" stop="20260410213000 +0300" channel="diemasport3.bg">
+<title lang="bg">Карлсруе - Арминия Билефелд</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410232500 +0300" channel="diemasport3.bg">
+<title lang="bg">Аугсбург - Хофенхайм</title>
+</programme>
+<programme start="20260410232500 +0300" stop="20260410234500 +0300" channel="diemasport3.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410234500 +0300" stop="20260411004500 +0300" channel="diemasport3.bg">
+<title lang="bg">Уест Бромич Албиън - Милуол</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410040000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410040000 +0300" stop="20260410060000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410080000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410100000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410120000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410140000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410160000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410180000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410200000 +0300" channel="maxsport1.bg">
+<title lang="bg">ATP 1000: Монте Карло</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410203000 +0300" channel="maxsport1.bg">
+<title lang="bg">Световен рали шампионат:</title>
+</programme>
+<programme start="20260410203000 +0300" stop="20260410223000 +0300" channel="maxsport1.bg">
+<title lang="bg">Евролига: Монако - Барселона</title>
+</programme>
+<programme start="20260410223000 +0300" stop="20260410233000 +0300" channel="maxsport1.bg">
+<title lang="bg">Евролига: Партизан - Жалгирис</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410020000 +0300" channel="maxsport2.bg">
+<title lang="bg">Евролига: Фенербахче - Реал Мадрид</title>
+</programme>
+<programme start="20260410020000 +0300" stop="20260410030000 +0300" channel="maxsport2.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410070000 +0300" channel="maxsport2.bg">
+<title lang="bg">Голф: Hero Indian Open</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="maxsport2.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410103000 +0300" channel="maxsport2.bg">
+<title lang="bg">Волейбол - efbet Супер Волей: Левски - ЦСКА</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410123000 +0300" channel="maxsport2.bg">
+<title lang="bg">Евролига: Фенербахче - Реал Мадрид</title>
+</programme>
+<programme start="20260410123000 +0300" stop="20260410143000 +0300" channel="maxsport2.bg">
+<title lang="bg">Евролига: Апоел Тел Авив - Олимпиакос</title>
+</programme>
+<programme start="20260410143000 +0300" stop="20260410153000 +0300" channel="maxsport2.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410153000 +0300" stop="20260410180000 +0300" channel="maxsport2.bg">
+<title lang="bg">Волейбол - efbet Супер Волей: Локомотив Авиа - Нефтохимик</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="maxsport2.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410191500 +0300" channel="maxsport2.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410191500 +0300" stop="20260410213000 +0300" channel="maxsport2.bg">
+<title lang="bg">Sesame Национална баскетболна лига: Локомотив Пловдив - Академик Пловдив</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410233000 +0300" channel="maxsport2.bg">
+<title lang="bg">Евролига: Партизан - Жалгирис</title>
+</programme>
+<programme start="20260410233000 +0300" stop="20260411003000 +0300" channel="maxsport2.bg">
+<title lang="bg">Волейбол - Серия А1: Лубе Чивитанова - Верона</title>
+</programme>
+<programme start="20260410001500 +0300" stop="20260410011500 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига Европа и Лига на Конференциите: Обзор на кръга</title>
+</programme>
+<programme start="20260410011500 +0300" stop="20260410031500 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига на Конференциите: Шахтьор Донецк - АЗ Алкмаар</title>
+</programme>
+<programme start="20260410031500 +0300" stop="20260410041500 +0300" channel="maxsport3.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410041500 +0300" stop="20260410060000 +0300" channel="maxsport3.bg">
+<title lang="bg">Серия А: Наполи - Милан</title>
+</programme>
+<programme start="20260410060000 +0300" stop="20260410080000 +0300" channel="maxsport3.bg">
+<title lang="bg">Серия А: Интер - Рома</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410100000 +0300" channel="maxsport3.bg">
+<title lang="bg">Копа Либертадорес: Куско - Фламенго</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410110000 +0300" channel="maxsport3.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410110000 +0300" stop="20260410130000 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига на Конференциите: Шахтьор Донецк - АЗ Алкмаар</title>
+</programme>
+<programme start="20260410130000 +0300" stop="20260410150000 +0300" channel="maxsport3.bg">
+<title lang="bg">Серия А: Наполи - Милан</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410170000 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига на Конференциите: Райо Валекано - АЕК Атина</title>
+</programme>
+<programme start="20260410170000 +0300" stop="20260410190000 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига на Конференциите: Кристъл Палас - Фиорентина</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410210000 +0300" channel="maxsport3.bg">
+<title lang="bg">УЕФА Лига Европа: Болоня - Астън Вила</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410213000 +0300" channel="maxsport3.bg">
+<title lang="bg">Серия А:</title>
+</programme>
+<programme start="20260410213000 +0300" stop="20260410214500 +0300" channel="maxsport3.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410214500 +0300" stop="20260410234500 +0300" channel="maxsport3.bg">
+<title lang="bg">Серия А: Рома - Пиза</title>
+</programme>
+<programme start="20260410234500 +0300" stop="20260411004500 +0300" channel="maxsport3.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410000000 +0300" stop="20260410010000 +0300" channel="maxsport4.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410010000 +0300" stop="20260410030000 +0300" channel="maxsport4.bg">
+<title lang="bg">Саудитска Професионална Лига: Ал Насър - Ал Найма</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410050000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Валенсия - Селта</title>
+</programme>
+<programme start="20260410050000 +0300" stop="20260410070000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Реал Сосиедад - Леванте</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410080000 +0300" channel="maxsport4.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410080000 +0300" stop="20260410100000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Валенсия - Селта</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410120000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Овиедо - Севиля</title>
+</programme>
+<programme start="20260410120000 +0300" stop="20260410140000 +0300" channel="maxsport4.bg">
+<title lang="bg">Копа Судамерикана: Депортиво Куенка - Сантос</title>
+</programme>
+<programme start="20260410140000 +0300" stop="20260410160000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Майорка - Реал Мадрид</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410180000 +0300" channel="maxsport4.bg">
+<title lang="bg">Копа Либертадорес: Куско - Фламенго</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410200000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Атлетико Мадрид - Барселона</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="maxsport4.bg">
+<title lang="bg">"</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410214500 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Обзор 30 кръг</title>
+</programme>
+<programme start="20260410214500 +0300" stop="20260410220000 +0300" channel="maxsport4.bg">
+<title lang="bg">Студио</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410230000 +0300" channel="maxsport4.bg">
+<title lang="bg">Ла Лига: Реал - Мадрид - Жирона</title>
+</programme>
+<programme start="20260410004500 +0300" stop="20260410015000 +0300" channel="axn.bg">
+<title lang="bg">Профилиране</title>
+</programme>
+<programme start="20260410015000 +0300" stop="20260410024000 +0300" channel="axn.bg">
+<title lang="bg">Профилиране</title>
+</programme>
+<programme start="20260410024000 +0300" stop="20260410032000 +0300" channel="axn.bg">
+<title lang="bg">Специален отряд</title>
+</programme>
+<programme start="20260410032000 +0300" stop="20260410040500 +0300" channel="axn.bg">
+<title lang="bg">Морски детективи</title>
+</programme>
+<programme start="20260410040500 +0300" stop="20260410044500 +0300" channel="axn.bg">
+<title lang="bg">Зина</title>
+</programme>
+<programme start="20260410044500 +0300" stop="20260410053000 +0300" channel="axn.bg">
+<title lang="bg">Зина</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410061500 +0300" channel="axn.bg">
+<title lang="bg">Изгубеният свят</title>
+</programme>
+<programme start="20260410061500 +0300" stop="20260410070000 +0300" channel="axn.bg">
+<title lang="bg">Изгубеният свят</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410073000 +0300" channel="axn.bg">
+<title lang="bg">Гранд хотел</title>
+</programme>
+<programme start="20260410073000 +0300" stop="20260410084000 +0300" channel="axn.bg">
+<title lang="bg">Профилиране</title>
+</programme>
+<programme start="20260410084000 +0300" stop="20260410093500 +0300" channel="axn.bg">
+<title lang="bg">Специален отряд</title>
+</programme>
+<programme start="20260410093500 +0300" stop="20260410102500 +0300" channel="axn.bg">
+<title lang="bg">Новобранецът</title>
+</programme>
+<programme start="20260410102500 +0300" stop="20260410112000 +0300" channel="axn.bg">
+<title lang="bg">Новобранецът</title>
+</programme>
+<programme start="20260410112000 +0300" stop="20260410122000 +0300" channel="axn.bg">
+<title lang="bg">Зина</title>
+</programme>
+<programme start="20260410122000 +0300" stop="20260410131000 +0300" channel="axn.bg">
+<title lang="bg">Зина</title>
+</programme>
+<programme start="20260410131000 +0300" stop="20260410142000 +0300" channel="axn.bg">
+<title lang="bg">Профилиране</title>
+</programme>
+<programme start="20260410142000 +0300" stop="20260410152000 +0300" channel="axn.bg">
+<title lang="bg">Профилиране</title>
+</programme>
+<programme start="20260410152000 +0300" stop="20260410161500 +0300" channel="axn.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410161500 +0300" stop="20260410171000 +0300" channel="axn.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410171000 +0300" stop="20260410180500 +0300" channel="axn.bg">
+<title lang="bg">Морски детективи</title>
+</programme>
+<programme start="20260410180500 +0300" stop="20260410190500 +0300" channel="axn.bg">
+<title lang="bg">Новобранецът</title>
+</programme>
+<programme start="20260410190500 +0300" stop="20260410200000 +0300" channel="axn.bg">
+<title lang="bg">Новобранецът</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="axn.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410215500 +0300" channel="axn.bg">
+<title lang="bg">Морски детективи</title>
+</programme>
+<programme start="20260410215500 +0300" stop="20260410225000 +0300" channel="axn.bg">
+<title lang="bg">Специален отряд</title>
+</programme>
+<programme start="20260410225000 +0300" stop="20260410235000 +0300" channel="axn.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410235000 +0300" stop="20260411005000 +0300" channel="axn.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410005000 +0300" stop="20260410013000 +0300" channel="axnblack.bg">
+<title lang="bg">Старгейт: Атлантис</title>
+</programme>
+<programme start="20260410013000 +0300" stop="20260410021500 +0300" channel="axnblack.bg">
+<title lang="bg">Старгейт: Атлантис</title>
+</programme>
+<programme start="20260410021500 +0300" stop="20260410030000 +0300" channel="axnblack.bg">
+<title lang="bg">Старгейт</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410034500 +0300" channel="axnblack.bg">
+<title lang="bg">Старгейт</title>
+</programme>
+<programme start="20260410034500 +0300" stop="20260410043500 +0300" channel="axnblack.bg">
+<title lang="bg">Рицарят ездач</title>
+</programme>
+<programme start="20260410043500 +0300" stop="20260410053000 +0300" channel="axnblack.bg">
+<title lang="bg">Уокър</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410070000 +0300" channel="axnblack.bg">
+<title lang="bg">Телешоп</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410092500 +0300" channel="axnblack.bg">
+<title lang="bg">Телешоп</title>
+</programme>
+<programme start="20260410092500 +0300" stop="20260410101500 +0300" channel="axnblack.bg">
+<title lang="bg">Ренегат</title>
+</programme>
+<programme start="20260410101500 +0300" stop="20260410110500 +0300" channel="axnblack.bg">
+<title lang="bg">Ренегат</title>
+</programme>
+<programme start="20260410110500 +0300" stop="20260410120500 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410120500 +0300" stop="20260410130500 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410130500 +0300" stop="20260410141000 +0300" channel="axnblack.bg">
+<title lang="bg">Рицарят ездач</title>
+</programme>
+<programme start="20260410141000 +0300" stop="20260410150500 +0300" channel="axnblack.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410150500 +0300" stop="20260410160000 +0300" channel="axnblack.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410160000 +0300" stop="20260410165500 +0300" channel="axnblack.bg">
+<title lang="bg">Уокър</title>
+</programme>
+<programme start="20260410165500 +0300" stop="20260410180000 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410180000 +0300" stop="20260410190000 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="axnblack.bg">
+<title lang="bg">Рицарят ездач</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="axnblack.bg">
+<title lang="bg">Уокър</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410215500 +0300" channel="axnblack.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410215500 +0300" stop="20260410225000 +0300" channel="axnblack.bg">
+<title lang="bg">Макгайвър</title>
+</programme>
+<programme start="20260410225000 +0300" stop="20260410235000 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410235000 +0300" stop="20260411005000 +0300" channel="axnblack.bg">
+<title lang="bg">Военна прокуратура</title>
+</programme>
+<programme start="20260410005000 +0300" stop="20260410013500 +0300" channel="axnwhite.bg">
+<title lang="bg">Неразгадани престъпления</title>
+</programme>
+<programme start="20260410013500 +0300" stop="20260410022000 +0300" channel="axnwhite.bg">
+<title lang="bg">Неразгадани престъпления</title>
+</programme>
+<programme start="20260410022000 +0300" stop="20260410030000 +0300" channel="axnwhite.bg">
+<title lang="bg">Частни детективи</title>
+</programme>
+<programme start="20260410030000 +0300" stop="20260410034500 +0300" channel="axnwhite.bg">
+<title lang="bg">Частни детективи</title>
+</programme>
+<programme start="20260410034500 +0300" stop="20260410042500 +0300" channel="axnwhite.bg">
+<title lang="bg">Родина</title>
+</programme>
+<programme start="20260410042500 +0300" stop="20260410053000 +0300" channel="axnwhite.bg">
+<title lang="bg">Родина</title>
+</programme>
+<programme start="20260410053000 +0300" stop="20260410070000 +0300" channel="axnwhite.bg">
+<title lang="bg">Телешоп</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410090000 +0300" channel="axnwhite.bg">
+<title lang="bg">Телешоп</title>
+</programme>
+<programme start="20260410090000 +0300" stop="20260410094000 +0300" channel="axnwhite.bg">
+<title lang="bg">Спешно отделение</title>
+</programme>
+<programme start="20260410094000 +0300" stop="20260410103000 +0300" channel="axnwhite.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410103000 +0300" stop="20260410112500 +0300" channel="axnwhite.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410112500 +0300" stop="20260410122500 +0300" channel="axnwhite.bg">
+<title lang="bg">Убийство по сценарий</title>
+</programme>
+<programme start="20260410122500 +0300" stop="20260410132000 +0300" channel="axnwhite.bg">
+<title lang="bg">Светкавица</title>
+</programme>
+<programme start="20260410132000 +0300" stop="20260410141500 +0300" channel="axnwhite.bg">
+<title lang="bg">Светкавица</title>
+</programme>
+<programme start="20260410141500 +0300" stop="20260410151500 +0300" channel="axnwhite.bg">
+<title lang="bg">Родина</title>
+</programme>
+<programme start="20260410151500 +0300" stop="20260410161000 +0300" channel="axnwhite.bg">
+<title lang="bg">Родина</title>
+</programme>
+<programme start="20260410161000 +0300" stop="20260410171000 +0300" channel="axnwhite.bg">
+<title lang="bg">Убийство по сценарий</title>
+</programme>
+<programme start="20260410171000 +0300" stop="20260410180500 +0300" channel="axnwhite.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410180500 +0300" stop="20260410190000 +0300" channel="axnwhite.bg">
+<title lang="bg">Добрият Доктор</title>
+</programme>
+<programme start="20260410190000 +0300" stop="20260410200000 +0300" channel="axnwhite.bg">
+<title lang="bg">Убийство по сценарий</title>
+</programme>
+<programme start="20260410200000 +0300" stop="20260410210000 +0300" channel="axnwhite.bg">
+<title lang="bg">Неразгадани престъпления</title>
+</programme>
+<programme start="20260410210000 +0300" stop="20260410220000 +0300" channel="axnwhite.bg">
+<title lang="bg">Неразгадани престъпления</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410225500 +0300" channel="axnwhite.bg">
+<title lang="bg">Частни детективи</title>
+</programme>
+<programme start="20260410225500 +0300" stop="20260410235500 +0300" channel="axnwhite.bg">
+<title lang="bg">Частни детективи</title>
+</programme>
+<programme start="20260410235500 +0300" stop="20260411005500 +0300" channel="axnwhite.bg">
+<title lang="bg">Спешно отделение</title>
+</programme>
+<programme start="20260410001000 +0300" stop="20260410021000 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на г-ца Марпъл</title>
+</programme>
+<programme start="20260410021000 +0300" stop="20260410031000 +0300" channel="epicdrama.bg">
+<title lang="bg">Убийство в малък град</title>
+</programme>
+<programme start="20260410031000 +0300" stop="20260410040500 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на Мърдок</title>
+</programme>
+<programme start="20260410040500 +0300" stop="20260410055500 +0300" channel="epicdrama.bg">
+<title lang="bg">Инспектор Джордж Джентли</title>
+</programme>
+<programme start="20260410055500 +0300" stop="20260410070000 +0300" channel="epicdrama.bg">
+<title lang="bg">За всички създания</title>
+</programme>
+<programme start="20260410070000 +0300" stop="20260410085500 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на г-ца Марпъл</title>
+</programme>
+<programme start="20260410085500 +0300" stop="20260410100000 +0300" channel="epicdrama.bg">
+<title lang="bg">Мис Скарлет и херцогът</title>
+</programme>
+<programme start="20260410100000 +0300" stop="20260410105500 +0300" channel="epicdrama.bg">
+<title lang="bg">Убийство в малък град</title>
+</programme>
+<programme start="20260410105500 +0300" stop="20260410115500 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на Мърдок</title>
+</programme>
+<programme start="20260410115500 +0300" stop="20260410131000 +0300" channel="epicdrama.bg">
+<title lang="bg">За всички създания</title>
+</programme>
+<programme start="20260410131000 +0300" stop="20260410150000 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на г-ца Марпъл</title>
+</programme>
+<programme start="20260410150000 +0300" stop="20260410161500 +0300" channel="epicdrama.bg">
+<title lang="bg">Том Джоунс</title>
+</programme>
+<programme start="20260410161500 +0300" stop="20260410170500 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на Мърдок</title>
+</programme>
+<programme start="20260410170500 +0300" stop="20260410181500 +0300" channel="epicdrama.bg">
+<title lang="bg">Мис Скарлет и херцогът</title>
+</programme>
+<programme start="20260410181500 +0300" stop="20260410201000 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на г-ца Марпъл</title>
+</programme>
+<programme start="20260410201000 +0300" stop="20260410210500 +0300" channel="epicdrama.bg">
+<title lang="bg">Убийство в малък град</title>
+</programme>
+<programme start="20260410210500 +0300" stop="20260410220000 +0300" channel="epicdrama.bg">
+<title lang="bg">Криминалните случаи на Мърдок</title>
+</programme>
+<programme start="20260410220000 +0300" stop="20260410231000 +0300" channel="epicdrama.bg">
+<title lang="bg">Жени по време на война</title>
+</programme>
+<programme start="20260410231000 +0300" stop="20260411001000 +0300" channel="epicdrama.bg">
+<title lang="bg">Опасни връзки</title>
 </programme>
 </tv>
