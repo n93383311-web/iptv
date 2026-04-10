@@ -2,7 +2,7 @@
 <tv generator-info-name="IPTV Auto Updater">
 <channel id="bnt1.bg">
 <display-name>BNT 1</display-name>
-<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.png" />
+<icon src="https://raw.githubusercontent.com/n93383311-web/iptv/main/logos/bnt1.svg" />
 </channel>
 <programme start="20260410001500 +0300" stop="20260410015000 +0300" channel="bnt1.bg">
 <title lang="bg">100</title>
